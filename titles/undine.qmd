@@ -1,10 +1,13 @@
 ---
 title: "Undine - with Introduction by Charlotte Mary Yonge"
+sort_title: "Undine - with Introduction by Charlotte Mary Yonge"
 slug: "undine"
 format:
   html:
     toc: true
 ---
+
+
 
 
 ### **Online text of*Undine***

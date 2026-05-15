@@ -1,5 +1,6 @@
 ---
 title: "Sintram and his companions with Introduction by Charlotte Mary Yonge"
+sort_title: "Sintram and his companions with Introduction by Charlotte Mary Yonge"
 slug: "sintram"
 format:
   html:
@@ -7,12 +8,12 @@ format:
 ---
 
 
-#### Online text ofSintram and his companions
+
 
 [Click here to reach the latest version of**Sintram and his companions**from Gutenberg](ftp://ftp.ibiblio.org/pub/docs/books/gutenberg/etext01/sntrm10.txt)  
 (Many thanks to Sandra Laythorpe and others)
 
-Modern (2002) printed texts of***Sintram and his companions***** hardback and paperback  are advertised by the Wildside Press:**
+Modern (2002) printed texts of***Sintram and his companions*****– hardback and paperback – are advertised by the Wildside Press:**
 
 Paperback : ISBN: 1587156881  
 Hardback : ISBN: 1587156873
@@ -25,13 +26,13 @@ Hardback : ISBN: 1587156873
 
 Four tales are, it is said, intended by the Author to be appropriate to the Four Seasons: the stern, grave "Sintram", to winter; the tearful, smiling, fresh "Undine", to Spring; the torrid deserts of the "Two Captains", to summer; and the sunset gold of "Aslauga's Knight", to autumn. Of these two are before us.
 
-The author of these tales, as well as of many more, was Friedrich, Baron de la Motte Fouque, one of the foremost of the minstrels or tale-tellers of the realm of spiritual chivalry  the realm whither Arthur's knights departed when they "took the Sancgreal's holy quest,"  whence Spenser's Red Cross knight and his fellows came forth on their adventures, and in which the Knight of la Mancha believed, and endeavoured to exist.
+The author of these tales, as well as of many more, was Friedrich, Baron de la Motte Fouque, one of the foremost of the minstrels or tale-tellers of the realm of spiritual chivalry – the realm whither Arthur's knights departed when they "took the Sancgreal's holy quest," – whence Spenser's Red Cross knight and his fellows came forth on their adventures, and in which the Knight of la Mancha believed, and endeavoured to exist.
 
 La Motte Fouque derived his name and his title from the French Huguenot ancestry, who had fled on the Revocation of the Edict of Nantes. His Christian name was taken from his godfather, Frederick the Great, of whom his father was a faithful friend, without compromising his religious principles and practice. Friedrich was born at Brandenburg on February 12, 1777, was educated by good parents at home, served in the Prussian army through disaster and success, took an enthusiastic part in the rising of his country against Napoleon, inditing as many battle-songs as Korner. When victory was achieved, he dedicated his sword in the church of Neunhausen where his estate lay. He lived there, with his beloved wife and his imagination, till his death in 1843.
 
 And all the time life was to him a poet's dream. He lived in a continual glamour of spiritual romance, bathing everything, from the old deities of the Valhalla down to the champions of German liberation, in an ideal glow of purity and nobleness, earnestly Christian throughout, even in his dealings with Northern mythology, for he saw Christ unconsciously shown in Baldur, and Satan in Loki.
 
-Thus he lived, felt, and believed what he wrote, and though his dramas and poems do not rise above fair mediocrity, and the great number of his prose stories are injured by a certain monotony, the charm of them is in their elevation of sentiment and the earnest faith pervading all. His knights might be Sir Galahad 
+Thus he lived, felt, and believed what he wrote, and though his dramas and poems do not rise above fair mediocrity, and the great number of his prose stories are injured by a certain monotony, the charm of them is in their elevation of sentiment and the earnest faith pervading all. His knights might be Sir Galahad –
 
 "My strength is as the strength of ten,  
 Because my heart is pure."

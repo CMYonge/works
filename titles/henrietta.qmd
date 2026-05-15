@@ -1,11 +1,16 @@
 ---
 title: "Details of Charlotte Yonge's novel Henrietta's Wish, or Domineering"
+sort_title: "Details of Charlotte Yonge's novel Henrietta's Wish, or Domineering"
 year: 1850
 slug: "henrietta"
 format:
   html:
     toc: true
 ---
+
+
+*1850*
+
 
 
 [Click this link for an on-line copy (1899 edition) of*Henrietta's Wish*,  

@@ -1,11 +1,16 @@
 ---
 title: "Ben Sylvester's Word"
+sort_title: "Ben Sylvester's Word"
 year: 1856
 slug: "Ben Sylvester's Word"
 format:
   html:
     toc: true
 ---
+
+
+*1856*
+
 
 
 ### **Online text of*****Ben Sylvester's Word***

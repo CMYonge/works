@@ -1,5 +1,6 @@
 ---
 title: "The Carbonels - 1895 - a novel by Charlotte Mary Yonge"
+sort_title: "Carbonels - 1895 - a novel by Charlotte Mary Yonge"
 year: 1895
 slug: "carbonels"
 format:
@@ -8,7 +9,9 @@ format:
 ---
 
 
-#### Online text of this book
+*1895*
+
+
 
 Click here for online copies of[*The Carbonels*](https://archive.org/details/carbonels00yong/page/n7/mode/2up)from the Internet Archive (opens in new tab).  
 

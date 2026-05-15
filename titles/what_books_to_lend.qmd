@@ -1,5 +1,6 @@
 ---
 title: "What Books to Lend and What to Give - Charlotte Mary Yonge (1884)"
+sort_title: "What Books to Lend and What to Give - Charlotte Mary Yonge (1884)"
 year: 1887
 slug: "what_books_to_lend"
 format:
@@ -8,11 +9,13 @@ format:
 ---
 
 
+*1887*
+
+
+
 'So exciting and engrossing that it must be mentioned, but bringing the reader into rough company, among a good many horrors.'
 
 (Yonge, writing about R. L. Stevenson's*Treasure Island*)
-
-### Online text of***What Books to Lend and What to Give***from the Internet Archive (opens in new tab)
 
 ### *  
 *
@@ -89,11 +92,11 @@ The tales that have any dissenting bias, or which appear to involve false doctri
 
 The classified list then includes hooks for
 
-*Little Ones*. Fit to be read or given to children from four to eight.  
-*Junior classes.* Children from seven or eight to ten or eleven.  
-*Senior Classes.* From ten upwards.  
-*Boys.* The books may be read by girls also, but most boys will not read girls' books, therefore their literature is put separately.  
-*Drawing Room Stories.* The best are mentioned here, but all, though excellent, are, on experience, out of the ken of the school child.
+*Little Ones*.— Fit to be read or given to children from four to eight.  
+*Junior classes.*— Children from seven or eight to ten or eleven.  
+*Senior Classes.*— From ten upwards.  
+*Boys.*— The books may be read by girls also, but most boys will not read girls' books, therefore their literature is put separately.  
+*Drawing Room Stories.*— The best are mentioned here, but all, though excellent, are, on experience, out of the ken of the school child.
 
 It should be clearly understood that nobody is urged to have anything like all the books here mentioned, but that the object is to answer the oft-recurring question-Where shall I find a book suited for such and such a purpose?
 

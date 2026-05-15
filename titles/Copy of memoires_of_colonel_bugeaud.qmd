@@ -1,5 +1,6 @@
 ---
 title: "Strolling players:A harmony of contrasts - by Charlotte Mary Yonge and Christabel R Coleridge(1893)"
+sort_title: "Strolling players:A harmony of contrasts - by Charlotte Mary Yonge and Christabel R Coleridge(1893)"
 year: 1893
 slug: "Copy of memoires_of_colonel_bugeaud"
 format:
@@ -8,7 +9,9 @@ format:
 ---
 
 
-### Online text of*Strolling players*
+*1893*
+
+
 
 ### [Click here to download the entire text of*Strolling players; a harmony of contrast*from Internet Archive](http://www.gutenberg.org/etext/2505)
 

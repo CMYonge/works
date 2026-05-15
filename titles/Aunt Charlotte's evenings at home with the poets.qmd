@@ -1,11 +1,16 @@
 ---
 title: "Aunt Charlotte's evenings at home with the poets"
+sort_title: "Aunt Charlotte's evenings at home with the poets"
 year: 1881
 slug: "Aunt Charlotte's evenings at home with the poets"
 format:
   html:
     toc: true
 ---
+
+
+*1881*
+
 
 
 **Click here for an Oxford Bodleian Library 1881 edition of***[Aunt Charlotte's evenings at home with the poets](http://ia340904.us.archive.org/0/items/auntcharlottese00yonggoog/)***in various formats  

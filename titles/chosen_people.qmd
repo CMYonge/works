@@ -1,11 +1,16 @@
 ---
 title: "The Chosen People by Charlotte Mary Yonge"
+sort_title: "Chosen People by Charlotte Mary Yonge"
 year: 1862
 slug: "chosen_people"
 format:
   html:
     toc: true
 ---
+
+
+*1862*
+
 
 
 ### **Online texts of*****The Chosen People***

@@ -1,10 +1,13 @@
 ---
 title: "Founded on Paper by Charlotte Mary Yonge"
+sort_title: "Founded on Paper by Charlotte Mary Yonge"
 slug: "founded_on_paper"
 format:
   html:
     toc: true
 ---
+
+
 
 
 ***Text for this comment kindly provided by Ellen Jordan***

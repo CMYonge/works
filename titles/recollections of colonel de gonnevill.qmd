@@ -1,10 +1,13 @@
 ---
 title: "by Charlotte Mary Yonge"
+sort_title: "by Charlotte Mary Yonge"
 slug: "recollections of colonel de gonnevill"
 format:
   html:
     toc: true
 ---
+
+
 
 
 #### Recollections of Colonel de Gonneville,  
@@ -29,8 +32,6 @@ ISBN: 1869804112. Vol 2
 10 Rectory Road East, Felling, Tyne and Wear, NE10 9DN, UK
 
 *Telephone (00 44) 0191 469 2414*
-
-#### Online text extracts from this book
 
 #### Extensive text extracts from Gonneville's account of the Battle of Sagantum  
 With maps and other additional military detail

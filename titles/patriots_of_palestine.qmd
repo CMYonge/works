@@ -1,11 +1,16 @@
 ---
 title: "The Patriots of Palestine - A Story of the Macabees by Charlotte Yonge"
+sort_title: "Patriots of Palestine - A Story of the Macabees by Charlotte Yonge"
 year: 1898
 slug: "patriots_of_palestine"
 format:
   html:
     toc: true
 ---
+
+
+*1898*
+
 
 
 #### Charlotte Yonge's Preface to*Patriots of Palestine*

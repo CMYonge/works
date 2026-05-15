@@ -1,9 +1,17 @@
 ---
 title: "My Young Alcides (1875) by Charlotte Mary Yonge - translated and edited by Charlotte Mary Yonge (1884)"
+sort_title: "My Young Alcides (1875) by Charlotte Mary Yonge - translated and edited by Charlotte Mary Yonge (1884)"
+gutenberg_url: "https://www.gutenberg.org/ebooks/4347"
 slug: "my_young_alcides"
 format:
   html:
     toc: true
+---
+
+
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/4347)
+
 ---
 
 
@@ -15,15 +23,15 @@ But the Hercules myth did not seem to me to be like one of the fairy tales that 
 
 For, whether the origin of the myth be, or be not, founded on solar phenomena, the yearning Greek mind formed on it an unconscious allegory of the course of the Victor, of whom the Sun, rejoicing as a giant to run his course, is another type, like Samson of old, since the facts of nature and of history are Divine parables.
 
-And as each ones conquest is, in the track of his Leader, the only true Conqueror, so Hercules, in spite of all the grotesque adjuncts that the lower inventions of the heathen hung round him, is a far closer likeness of manhood-as, indeed, the proverbial use of some of his tasks testifies-and of repentant man conquering himself. The great crime, after which his life was a bondage of expiation; the choice between Virtue and Vice; the slain passion; the hundred-headed sin for ever cropping up again; the winning of the sacred emblem of purity; then the subduing of greed; the cleansing of long-neglected uncleanness; the silencing of foul tongues; the remarkable contest with the creature which had become a foe, because, after being devoted for sacrifice, it was spared; the obtaining the girdle of strength; the recovery of the spoil from the three-fold enemy; the gaining of the fruit of life; immediately followed by the victory over the hell-hound of death; and lastly, the attainment of immortality  all seem no fortuitous imagination, but one of those when thoughts beyond their thoughts to those old bards were given.
+And as each ones conquest is, in the track of his Leader, the only true Conqueror, so Hercules, in spite of all the grotesque adjuncts that the lower inventions of the heathen hung round him, is a far closer likeness of manhood-as, indeed, the proverbial use of some of his tasks testifies-and of repentant man conquering himself. The great crime, after which his life was a bondage of expiation; the choice between Virtue and Vice; the slain passion; the hundred-headed sin for ever cropping up again; the winning of the sacred emblem of purity; then the subduing of greed; the cleansing of long-neglected uncleanness; the silencing of foul tongues; the remarkable contest with the creature which had become a foe, because, after being devoted for sacrifice, it was spared; the obtaining the girdle of strength; the recovery of the spoil from the three-fold enemy; the gaining of the fruit of life; immediately followed by the victory over the hell-hound of death; and lastly, the attainment of immortality — all seem no fortuitous imagination, but one of those when thoughts beyond their thoughts to those old bards were given.
 
-I have not followed all these meanings, for this is not an allegory, but a mere distant following rather of the spirit than the letter of the old Greek tale of the Twelve Tasks. Neither have I adhered to every incident of Hercules life; and the most touching and beautiful of all the rescue of Alcestis, would hardly bear to come in merely as an episode; in this weak and presumptuous endeavour to show that the half-divine, patient conqueror is not merely a classic invention, but that he and his labours belong in some form or other to all times and all surroundings."
+I have not followed all these meanings, for this is not an allegory, but a mere distant following rather of the spirit than the letter of the old Greek tale of the Twelve Tasks. Neither have I adhered to every incident of Hercules life; and the most touching and beautiful of all— the rescue of Alcestis, would hardly bear to come in merely as an episode; in this weak and presumptuous endeavour to show that the half-divine, patient conqueror is not merely a classic invention, but that he and his labours belong in some form or other to all times and all surroundings."
 
 *C.M. YONGE, Nov. 8, 1875.*
 
 Back to top of page
 
-### ***My Young Alcides*** Plot summary
+### ***My Young Alcides***– Plot summary
 
 ### I The Arghouse Inheritance
 
@@ -67,7 +75,7 @@ The new products of the Hydriot works start to have some success but the social 
 
 Lord Erymanth congratulates the Alisons on the improvement of the general tone in Mycening, where several beer-shops are closing; he recommends improving the dwellings on the Arghouse property and replacing the Arghouse agent, Bullock, as dishonest and unfit for his job; Eustace takes credit for all improvement and avers his intention of being a model landlord. Lord Erymanth sternly refuses to help Prometesky to a pardon, holding him responsible for all the rioting. He departs, having invited the Alisons to Violas coming-out ball: Eustace is overjoyed at this. When Harold says that Eustace needs a good agent and a good wife before he can safely be left, Lucy points out how much Harold is doing for him.
 
-Ogdens farm in the Alfy valley is an undrained, unhealthy disaster; Harold cannot persuade the obstinate farmer to undertake drainage work, but the latter agrees when Harold promises to carry it out with his own hands, aided only by the farmers son Phil. Two days of hard work see the task done and Ogden convinced  but Eustace is disgusted and considers that Harold will not be fit to be seen at Violas coming-out ball.
+Ogdens farm in the Alfy valley is an undrained, unhealthy disaster; Harold cannot persuade the obstinate farmer to undertake drainage work, but the latter agrees when Harold promises to carry it out with his own hands, aided only by the farmers son Phil. Two days of hard work see the task done and Ogden convinced — but Eustace is disgusted and considers that Harold will not be fit to be seen at Violas coming-out ball.
 
 *Back to start of summary*
 
@@ -117,7 +125,7 @@ Back to start of summary
 
 ### XIII The Bloodhound
 
-Harold and Prometesky arrive back the day before the wedding. With age and reflection, Prometesky has given up his radical views and returned to his Roman Catholic faith; he plans to become a monk at La Trappe. He praises Lucy for transforming Harold from a noble savage to that far higher being  the Christian hero.
+Harold and Prometesky arrive back the day before the wedding. With age and reflection, Prometesky has given up his radical views and returned to his Roman Catholic faith; he plans to become a monk at La Trappe. He praises Lucy for transforming Harold from a noble savage to that far higher being — the Christian hero.
 
 As the bridal party leaves the church the next day, Hippolytas bloodhound Kirby, which is suspected of having hydrophobia, breaks loose and menaces the bride. Mastering his repugnance to dogs, Harold chokes him and manages to carry him away to be shot. The incident shatters everyones nerves, and the wedding party is uneasily facetious. Lucy and Harold regard this is inappropriate: grave thankfulness is the right reaction to such a narrow escape from death. Eustace grumbles at the size of the nugget-apples (his present to Hippolyta), at the price which Boola-Boola fetched, and at Prometeskys presence in his house. Dora is delighted to see Harold and Lucy again: she hates school-room life in London with dull little girls, and her only fun is in visits from Nessy Horsman. Harold encourages her to do her duty there, and to say her prayers.
 
@@ -135,7 +143,7 @@ Lucy and Harold discuss an uncertain future; he will leave the district to reduc
 
 Harold receives a letter from Dora (your wife), enclosing a lock of her hair, and saying she feels very ill. They learn from the Horsmans that Nessy Horsman has taken her to a shop where someone proved to have smallpox; he has also been teasing her about Harolds attachment to Viola. The rest of the family has fled to safety, leaving Dora in London in the care of a maid. Lucy (immune because she has had a slight attack) goes to nurse Dora, urging Harold to get himself vaccinated. Unfortunately George Yolland is away. As Lucy last glimpses Harold at the station, carrying a tired child for a poor woman, he reminds her of St Christopher. Lucy travels to London with Ben Yolland, and is glad to learn that Harolds example of self-conquest is having an effect on the irreligious George. Dora is seriously, though not dangerously, ill, and Lucy is occupied with her for several days before recovery sets in.
 
-One evening Dermot Tracy appears. Lucy thinks he has come to tell her Harold is ill, but it is worse  he is dead. He suffered the disease in an acute and severe form; while at times suffering terrible delusions of pursuit by black hounds, he retained a literal and metaphorical hold upon the Cross, and was strengthened by words from the Litany. He has died peacefully, having overcome at last. He has already been buried, for fear of infection. Dora is dreadfully affected by the news, and takes a long time to recover. Dermot meanwhile catches the disease too. George Yolland brings Lucy Harolds pocket book: everything has to be burnt except Violas crystal cross and a silver pencil-case of Alices. Harold has left all his property between Lucy and Dora. George tells her of the grief at Mycening, and the workmens wish to dedicate a window in memory of Harold. This is eventually carried out (only temperate men are allowed to subscribe); the subject is Samson set in juxtaposition with the great Antitype, and flanked by St George and St Christopher. Over the years, Mycening becomes a changed place, with Ben Yolland as Vicar of a new church, and George, who, chiefly through Harolds example, has gained faith, as manager of the Works.
+One evening Dermot Tracy appears. Lucy thinks he has come to tell her Harold is ill, but it is worse — he is dead. He suffered the disease in an acute and severe form; while at times suffering terrible delusions of pursuit by black hounds, he retained a literal and metaphorical hold upon the Cross, and was strengthened by words from the Litany. He has died peacefully, having overcome at last. He has already been buried, for fear of infection. Dora is dreadfully affected by the news, and takes a long time to recover. Dermot meanwhile catches the disease too. George Yolland brings Lucy Harolds pocket book: everything has to be burnt except Violas crystal cross and a silver pencil-case of Alices. Harold has left all his property between Lucy and Dora. George tells her of the grief at Mycening, and the workmens wish to dedicate a window in memory of Harold. This is eventually carried out (only temperate men are allowed to subscribe); the subject is Samson set in juxtaposition with the great Antitype, and flanked by St George and St Christopher. Over the years, Mycening becomes a changed place, with Ben Yolland as Vicar of a new church, and George, who, chiefly through Harolds example, has gained faith, as manager of the Works.
 
 *Back to start of summary*
 
@@ -154,7 +162,7 @@ There! my work is done, though I fear it is a weaker likeness of my young Alcide
 
 L.P. T. [Lucy]
 
-All that your mother has written is true  blessings on her!  every word of it, except that she never could, and I hope none of you ever will, understand the depth and blackness of the slough Harold Alison drew me out of by just being the man he was; nor will she show you  for indeed she is blind to it herself  that it was no other than she, with her quiet, upright sweetness and resolution, that was the making of him and of both of us. Very odd it is that a woman should set it all down in black and white, and never perceive it was all her own doing. But if you see it, young people, what you have to do is to be thankful for the mother you have got and try to be worthy of her, and if the drop of Alison blood in you should make one of you even the tenth part of what Harold was, then youll be your fathers pride, and much more than he deserves.
+All that your mother has written is true — blessings on her! — every word of it, except that she never could, and I hope none of you ever will, understand the depth and blackness of the slough Harold Alison drew me out of by just being the man he was; nor will she show you — for indeed she is blind to it herself — that it was no other than she, with her quiet, upright sweetness and resolution, that was the making of him and of both of us. Very odd it is that a woman should set it all down in black and white, and never perceive it was all her own doing. But if you see it, young people, what you have to do is to be thankful for the mother you have got and try to be worthy of her, and if the drop of Alison blood in you should make one of you even the tenth part of what Harold was, then youll be your fathers pride, and much more than he deserves.
 
 D.E. ST. G. T. [Dermot]
 
@@ -172,8 +180,6 @@ G.Y. [George]
 
 Back to top of page
 
-#### Online text ofMy Young Alcides
-
-[Click here to reach the latest version of*My Young Alcides*online from Gutenberg](http://digital.library.upenn.edu/webbin/gutbook/lookup?num=4347)  
+[Click here to reach the latest version of*My Young Alcides*online from Gutenberg](https://www.gutenberg.org/ebooks/4347)  
 (Many thanks to Sandra Laythorpe and others)
 

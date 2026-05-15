@@ -1,5 +1,6 @@
 ---
 title: "A Parallel History of France and England by Charlotte Yonge (1871)"
+sort_title: "Parallel History of France and England by Charlotte Yonge (1871)"
 year: 1871
 slug: "parallel_history"
 format:
@@ -8,7 +9,9 @@ format:
 ---
 
 
-### Online text of*A Parallel History*
+*1871*
+
+
 
 [Click here to reach an illustrated online version of*A Parallel History of France and England*from the Celebration of Women Writers](http://digital.library.upenn.edu/women/yonge/history/history.html)  
 

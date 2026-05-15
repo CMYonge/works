@@ -1,10 +1,20 @@
 ---
 title: "The Lances of Lynwood by Charlotte Mary Yonge"
+sort_title: "Lances of Lynwood by Charlotte Mary Yonge"
 year: 1855
+gutenberg_url: "https://www.gutenberg.org/ebooks/4364"
 slug: "lances"
 format:
   html:
     toc: true
+---
+
+
+*1855*
+
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/4364)
+
 ---
 
 
@@ -17,7 +27,7 @@ format:
 
 Publication
 
-January1853  December 1854, serialised in[*The Monthly Packet*](monthly_packet.qmd), editor C.M.Yonge, publishers John and Charles Mozley  
+January1853 – December 1854, serialised in[*The Monthly Packet*](monthly_packet.qmd), editor C.M.Yonge, publishers John and Charles Mozley  
 1855 book published by Parker and Son, price seven shillings and sixpence.  
 Numerous later editions.
 

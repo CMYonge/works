@@ -1,10 +1,20 @@
 ---
 title: "The Dove in the Eagle's Nest - Charlotte Mary Yonge"
+sort_title: "Dove in the Eagle's Nest - Charlotte Mary Yonge"
 year: 1866
+gutenberg_url: "https://www.gutenberg.org/ebooks/3139"
 slug: "dove"
 format:
   html:
     toc: true
+---
+
+
+*1866*
+
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/3139)
+
 ---
 
 
@@ -15,7 +25,7 @@ and prepared for the website by Esther McGilvray
 
 Publication
 
-1865 1866 serialised in Macmillan's Magazine.  
+1865 –1866 serialised in Macmillan's Magazine.  
 1866 Published by Macmillan in 2 volumes
 
 Contents
@@ -62,11 +72,6 @@ Fairfax Lucy, Alice. "The Other Miss Yonge",*A Chaplet for Charlotte Yonge*. (Lo
 Mare, Margaret and Percival, Alicia C.*Victorian best-seller. The world of Charlotte M. Yonge*(London: Harrap, 1947) pp. 207-8  
 
 Back to top of page
-
-###   
-  
-  
-Online text of**The Dove in the Eagle's Nest**
 
 Click here to reach the latest version of**[*The Dove in the Eagle's Nest*](https://www.gutenberg.org/ebooks/3139)**from Gutenberg  
 (Many thanks to Sandra Laythorpe her dedicated team)

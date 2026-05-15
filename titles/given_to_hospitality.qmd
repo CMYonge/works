@@ -1,10 +1,13 @@
 ---
 title: "Given to hospitality"
+sort_title: "Given to hospitality"
 slug: "given_to_hospitality"
 format:
   html:
     toc: true
 ---
+
+
 
 
 Yonge's*Given to hospitality*is available on microfiche from**The Nineteenth Century**(this site gives you free access to an online catalogue of over 25,000 nineteenth-century works available on microfiche)

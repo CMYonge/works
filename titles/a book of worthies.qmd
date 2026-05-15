@@ -1,5 +1,6 @@
 ---
 title: "Charlotte Yonge's Book of Worthies (1869) - online text"
+sort_title: "Charlotte Yonge's Book of Worthies (1869) - online text"
 year: 1869
 slug: "a book of worthies"
 format:
@@ -8,7 +9,9 @@ format:
 ---
 
 
-**Online illustrated and plain texts**
+*1869*
 
-### Online texts of*A Book of Worthies*
+
+
+**Online illustrated and plain texts**
 

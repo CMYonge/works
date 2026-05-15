@@ -1,11 +1,16 @@
 ---
 title: "Charlotte Mary Yonge - Talks about the laws we live under, or, At Langley Night sShool"
+sort_title: "Charlotte Mary Yonge - Talks about the laws we live under, or, At Langley Night sShool"
 year: 1882
 slug: "talks about the laws we live under, or, Langley night school"
 format:
   html:
     toc: true
 ---
+
+
+*1882*
+
 
 
 **[Click here to reach the online text of](http://ia351419.us.archive.org/1/items/talksaboutlawsw00yonggoog/)**[*Talks about the Laws we live under, or, at Langley night school*](http://ia351419.us.archive.org/1/items/talksaboutlawsw00yonggoog/)

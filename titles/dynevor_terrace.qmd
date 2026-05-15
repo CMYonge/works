@@ -1,6 +1,8 @@
 ---
 title: "Dynevor Terrace - Charlotte Mary Yonge"
+sort_title: "Dynevor Terrace - Charlotte Mary Yonge"
 year: 1857
+gutenberg_url: "https://www.gutenberg.org/ebooks/4235"
 slug: "dynevor_terrace"
 format:
   html:
@@ -8,14 +10,20 @@ format:
 ---
 
 
-### Online texts of*****Dynevor Terrace*******Volumes I and II**
+*1857*
 
-### [[Click for online text of volume I]](http://digital.library.upenn.edu/webbin/gutbook/lookup?num=4235)[[Click for online text of volume II]](http://digital.library.upenn.edu/webbin/gutbook/lookup?num=4236)
 
-Click here to reach the latest version of[Dynevor Terrace Volume I](http://digital.library.upenn.edu/webbin/gutbook/lookup?num=4235)from Gutenberg  
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/4235)
+
+---
+
+
+### [[Click for online text of volume I]](https://www.gutenberg.org/ebooks/4235)[[Click for online text of volume II]](https://www.gutenberg.org/ebooks/4236)
+
+Click here to reach the latest version of[Dynevor Terrace Volume I](https://www.gutenberg.org/ebooks/4235)from Gutenberg  
 (Many thanks to Sandra Laythorpe and others)
 
-#### Dynevor TerracePublication details, summary and bibliography
+#### Dynevor Terrace–Publication details, summary and bibliography
 
 (Kindly supplied by Amy de Gruchy)
 

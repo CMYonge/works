@@ -1,5 +1,6 @@
 ---
 title: "Details of Charlotte Yonge's novel That Stick"
+sort_title: "Details of Charlotte Yonge's novel That Stick"
 year: 1892
 slug: "that_stick"
 format:
@@ -8,7 +9,9 @@ format:
 ---
 
 
-#### Online text of this book
+*1892*
+
+
 
 [Click here to reach the latest version of*That Stick*online from Gutenberg](http://www.gutenberg.org/etext/20323)  
 (Many thanks to Les Bowler)  

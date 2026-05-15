@@ -1,5 +1,6 @@
 ---
 title: "Details of Charlotte Yonge's novel More Bywords"
+sort_title: "Details of Charlotte Yonge's novel More Bywords"
 year: 1890
 slug: "more_bywords"
 format:
@@ -8,7 +9,9 @@ format:
 ---
 
 
-#### Online text of this book
+*1890*
+
+
 
 [Click here to reach the latest version of More Bywords online from Gutenberg](http://www.gutenberg.org/dirs/1/2/0/9/12095/12095.txt)  
 (Many thanks to David Price, Sandra Laythorpe and others)  

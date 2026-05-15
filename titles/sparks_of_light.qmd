@@ -1,11 +1,16 @@
 ---
 title: "Charlotte Mary Yonge - Sparks of light for every day"
+sort_title: "Charlotte Mary Yonge - Sparks of light for every day"
 year: 1881
 slug: "sparks_of_light"
 format:
   html:
     toc: true
 ---
+
+
+*1881*
+
 
 
 Witt, Madame de (Henriette Elizabeth), 1829-1908
@@ -17,5 +22,5 @@ done into English by the translator of "Gold Dust" [i.e. C.M. Yonge].
 
 Edited by Charlotte M. Yonge.
 
-#### A scan of this volume may be available  search in Google Books
+#### A scan of this volume may be available — search in Google Books
 

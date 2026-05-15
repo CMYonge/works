@@ -4,5 +4,5 @@ listing:
   contents: "titles/*.qmd"
   type: table
   fields: [title, year]
-  sort: "title asc"
+  sort: "sort_title asc"
 ---

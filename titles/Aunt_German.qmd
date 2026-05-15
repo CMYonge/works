@@ -1,5 +1,6 @@
 ---
 title: "Aunt Charlotte's Stories of German History for the little ones"
+sort_title: "Aunt Charlotte's Stories of German History for the little ones"
 slug: "Aunt_German"
 format:
   html:
@@ -7,12 +8,14 @@ format:
 ---
 
 
+
+
 **Online text of*****Aunt Charlotte's Stories of German History for the little ones*****  
 (this download version is published as*****Young Folks' History of Germany*****)**
 
 Click here to read David Blamires' 1997 paper in Paradigm[How and What Victorian and Edwardian Children Learnt about German History](http://faculty.education.illinois.edu/westbury/paradigm/blamires.html).
 
-Blamires examines the following books first published in the period 18411913:
+Blamires examines the following books first published in the period 1841–1913:
 
 Paradigm contents and papers are online here :[Paradigm - the Journal of the Textbook Colloquium Where any, and every, aspect of textbooks is, or are, investigated](http://faculty.education.illinois.edu/westbury/paradigm/)  
 

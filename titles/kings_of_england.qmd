@@ -1,5 +1,6 @@
 ---
 title: "Charlotte Mary Yonge - Landmarks of History- Charlotte Mary Yonge - Landmarks of History - Ancient History: from from the Earliest Times to the Mahometan Conquest"
+sort_title: "Charlotte Mary Yonge - Landmarks of History- Charlotte Mary Yonge - Landmarks of History - Ancient History: from from the Earliest Times to the Mahometan Conquest"
 year: 1848
 slug: "kings_of_england"
 format:
@@ -8,13 +9,17 @@ format:
 ---
 
 
+*1848*
+
+
+
 #### Charlotte Yonge's own Preface toKings of England
 
 THE design of this Compilation is to give young children, including, perhaps, the upper classes of village schools, correct ideas of the general course of events in the History of both Church and State, together with the Line of Succession, and the characters of our Sovereigns. Thus, it is hoped, a foundation may be formed on which to raise a more complete acquaintance with the subject. It must surely be advisable in this, as of every branch of knowledge, to trace the outline distinctly, before adding the details. There has therefore been less attempt than is usual in such works, to gather together numerous anecdotes. Those which have been introduced, are chiefly from the beautiful, half-traditionary stream that flows along beside the graver course of our history, and in the eyes of all the young, and most of their elders, imparts its chief grace and interest. Others, more recently brought to light, have been omitted, partly for the reason before mentioned, and partly because it is scarcely fair on after years and after studies, to select all the choice morsels, and leave nothing but dry facts and dates. Neither has any space been bestowed on manners, costumes, &c., since these may best be learnt from the numerous prints within reach of every one, and they are more suited to amuse the play-hours of an intelligent child, and form an agreeable supplement to historical studies, than to be regarded as a part of history itself.
 
 For history is a grave subject even to a child, especially when viewed in its highest light, as feebly tracing the dealings of God with mankind; and at the same time, as a religious lesson, a course of examples and warnings, calculated, alike by greatness and reality, to impress the mind. And we are surely warranted in so regarding it, by the large portion allotted to it in Holy Scripture.
 
-Faith, loyalty, obedience, reverence;in these lies the strength of nations, and if one such principle be strengthened in the breast of one child, in the course of the perusal of this little book, it will not have been written in vain.
+Faith, loyalty, obedience, reverence;—in these lies the strength of nations, and if one such principle be strengthened in the breast of one child, in the course of the perusal of this little book, it will not have been written in vain.
 
 Oct. 14th 1848.
 

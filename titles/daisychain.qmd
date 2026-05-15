@@ -1,6 +1,8 @@
 ---
 title: "Charlotte Mary Yonge - The Daisy Chain - 1856"
+sort_title: "Charlotte Mary Yonge - The Daisy Chain - 1856"
 year: 1856
+gutenberg_url: "https://www.gutenberg.org/ebooks/3610"
 slug: "daisychain"
 format:
   html:
@@ -8,7 +10,13 @@ format:
 ---
 
 
-### Online text of*The Daisy Chain*
+*1856*
+
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/3610)
+
+---
+
 
 Click here to reach the latest online version of***[The Daisy Chain](https://www.gutenberg.org/ebooks/3610)***from Gutenberg  
 (Many thanks to Sandra Laythorpe and others)
@@ -48,17 +56,17 @@ University of Cambridge, England
 Sacralizing the domestic in Victorian Gothic representation*
 
 #### [](../works_search/works_list_of_works.qmd)Given at  
-Text & Architecture An international Word & Image Conference, Paris, 26-28 June 2003
+Text & Architecture –An international Word & Image Conference, Paris, 26-28 June 2003
 
 This paper 'reads' Victorian Gothic domestic architecture alongside the English nineteenth-century domestic novel in order to articulate common themes and structures in these contemporaneous representational forms. Using photographs, plans, and other visual materials as well as literary texts, the paper focuses on the mid-Victorian commitment to purifying domestic representational forms (novels and houses) through a sacralization of both verbal and non-verbal structures of meaning.
 
-The paper takes as the first of its two central 'texts' Tyntesfield House, near Bristol in England. The self-made millionaire, and Oxford Movement Christian, William Gibbs bought a Georgian manor house which he commissioned a local architect, Norton, to redesign, enlarge, and glorify (18636). After Gibbs's death, his son commissioned further alterations (Woodyer, 18859) which consolidated the building's whole-hearted Gothicism. The result was Tyntesfield House, a spectacular 43-bedroom Victorian Gothic mansion, which remained in the ownership of the Gibbs family until 2002.
+The paper takes as the first of its two central 'texts' Tyntesfield House, near Bristol in England. The self-made millionaire, and Oxford Movement Christian, William Gibbs bought a Georgian manor house which he commissioned a local architect, Norton, to redesign, enlarge, and glorify (1863–6). After Gibbs's death, his son commissioned further alterations (Woodyer, 1885–9) which consolidated the building's whole-hearted Gothicism. The result was Tyntesfield House, a spectacular 43-bedroom Victorian Gothic mansion, which remained in the ownership of the Gibbs family until 2002.
 
 In relation to ecclesiastic architecture, George L. Hersey has analyzed High Victorian Gothic as an eloquent medium of missionary Christianity whose roots lie in nineteenth-century associationism, a theory of design which held that buildings should 'express' their function through contrasting volumes, masses, and distribution of detail; the central 'message' of Victorian Gothic churches, Hersey argues, is one of didactic torment, 'offer[ing] to the observer the prospect of his own suffering for Christ'.
 
-This paper uses a comparable semiotic approach to propose that the expressive function of domestic Gothic may be understood as a religious purification of family life. The most extraordinary  yet archetypal  feature of Tyntesfield is the enormous private chapel (by Arthur Blomfield), fully integrated into the main body of the house and thus expressing at the level of architectural structure the cultural project of sacralizing the domestic sphere. Blomfield later completed a consonant commission in the design of Selwyn College, Cambridge, whose Master's Lodge (1883) similarly effects domestic comfort within an ecclesiastic architectural idiom. Tyntesfield House may thus be analyzed as an architectural text whose physical structures narrate an authoritative Victorian story about the relations between material, domestic experience and the redemptive realm of Oxford Movement Christianity.
+This paper uses a comparable semiotic approach to propose that the expressive function of domestic Gothic may be understood as a religious purification of family life. The most extraordinary – yet archetypal – feature of Tyntesfield is the enormous private chapel (by Arthur Blomfield), fully integrated into the main body of the house and thus expressing at the level of architectural structure the cultural project of sacralizing the domestic sphere. Blomfield later completed a consonant commission in the design of Selwyn College, Cambridge, whose Master's Lodge (1883) similarly effects domestic comfort within an ecclesiastic architectural idiom. Tyntesfield House may thus be analyzed as an architectural text whose physical structures narrate an authoritative Victorian story about the relations between material, domestic experience and the redemptive realm of Oxford Movement Christianity.
 
-In the sphere of literary production, the most prolific and popular exponent of this mid-Victorian missionary Christianity was Charlotte Mary Yonge (18231901), a close friend of the Gibbs family, and frequent visitor to Tyntesfield. Yonge's bestselling novel The Daisy Chain (1856) forms the second major focus of the paper.
+In the sphere of literary production, the most prolific and popular exponent of this mid-Victorian missionary Christianity was Charlotte Mary Yonge (1823–1901), a close friend of the Gibbs family, and frequent visitor to Tyntesfield. Yonge's bestselling novel The Daisy Chain (1856) forms the second major focus of the paper.
 
 The paper argues that The Daisy Chain may be seen as the literary counterpart to Tyntesfield House, in that its expressive and didactic project is a cognate purification of domestic narrative through the sacralizing cadences of religious discourse. The novel begins with a happy family of eleven children, and proceeds to dismantle this extravagantly procreative nucleus by a series of disasters and sacrifices whose effect is to break up domestic and sexual relations and replace them with missionary work at home and abroad; the plot culminates in the consecration of a new church, and the almost total imposition of celibacy on its protagonists. Like a Gothic church, The Daisy Chain functions as a purifying medium, a machine à souffrir for characters and readers alike, participating in a Victorian literary tradition of the house as torture appliance that stretches from Charlotte Brontë's Jane Eyre (1847) to Henry James's The Spoils of Poynton (1897). Yonge's characters shift at moments of high drama into fluent biblicalese, an effect which echoes at sentence-level the novel's symbolic and structural commitments to a sacralization of secular discourse clearly akin to the semiotic project of Victorian Gothic domestic architecture.
 
@@ -84,7 +92,7 @@ The Daisy Chain in E. Nesbits*The Wouldbegoods*(1901)
   
 We didnt.  
   
-Its by Miss Charlotte M. Yonge, Daisy interrupted, and its about a family of poor motherless children who tried so hard to be good, and they were confirmed, and had a bazaar, and went to church at the Minster, and one of them got married and wore black watered silk and silver ornaments. So her baby died, and then she was sorry she had not been a good mother to it. And   Here Dicky got up and said hed got some snares to attend to, and hed receive a report of the Council after it was over. But he only got as far as the trap-door, and then Oswald, the fleet of foot, closed with him, and they rolled together on the floor, while all the others called out Come back! Come back! like guinea-hens on a fence.  
+Its by Miss Charlotte M. Yonge, Daisy interrupted, and its about a family of poor motherless children who tried so hard to be good, and they were confirmed, and had a bazaar, and went to church at the Minster, and one of them got married and wore black watered silk and silver ornaments. So her baby died, and then she was sorry she had not been a good mother to it. And –  Here Dicky got up and said hed got some snares to attend to, and hed receive a report of the Council after it was over. But he only got as far as the trap-door, and then Oswald, the fleet of foot, closed with him, and they rolled together on the floor, while all the others called out Come back! Come back! like guinea-hens on a fence.  
 Through the rustle and bustle and hustle of the struggle with Dicky, Oswald heard the voice of Denny murmuring one of his everlasting quotations -  
   
 Come back, come back! he cried in Greek,  
@@ -93,7 +101,7 @@ Through the rustle and bustle and hustle of the struggle with Dicky, Oswald hear
 And Ill forgive your Highland cheek,  
 My daughter, O my daughter!  
   
-When quiet was restored and Dicky had agreed to go through with the Council, Denny said   
+When quiet was restored and Dicky had agreed to go through with the Council, Denny said –  
   
 The Daisy Chain is not a bit like that really. Its a ripping book. One of the boys dresses up like a lady and comes to call, and another tries to hit his little sister with a hoe. Its jolly fine, I tell you.  
   

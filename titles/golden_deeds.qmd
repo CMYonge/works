@@ -1,6 +1,8 @@
 ---
 title: "Charlotte Yonge's Book of Golden Deeds (1864) - online text, contents list, original preface, bibliography, contemporary notices"
+sort_title: "Charlotte Yonge's Book of Golden Deeds (1864) - online text, contents list, original preface, bibliography, contemporary notices"
 year: 1864
+gutenberg_url: "http://onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=6489"
 slug: "golden_deeds"
 format:
   html:
@@ -8,10 +10,16 @@ format:
 ---
 
 
+*1864*
+
+
+[Read free online at Project Gutenberg](http://onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=6489)
+
+---
+
+
 **Online illustrated and plain texts**Chapter titles**Yonge's own Preface**  
 **Yonge's historical sources**1865 reviewReal Men read Charlotte Yonge
-
-### Online texts of*A Book of Golden Deeds*
 
 Click here to reach an**[illustrated online version of*A Book of Golden Deeds*](http://digital.library.upenn.edu/women/yonge/deeds/deeds.html)**from the Celebration of Women Writers
 
@@ -55,7 +63,7 @@ Bookseller's description: Tome 2 seul : de la papauté considérée dans ses att
 For an overview of Gerbet's life and works, see**[Gerbet's biography](http://www.newadvent.org/cathen/06470b.htm)**in the New Advent Catholic Encyclopedia.  
   
 
-**Gustav Freytag**(1816  1895)  
+**Gustav Freytag**(1816 – 1895)  
 *"*... Freytag's*Sketches of German Life*for the Housewives of Löwenburg, and St. Stephen's Crown ...*"*
 
 Yonge is probably referring to Freytag's series*Bilder aus der deutschen Vergangenheit*, which seemed to have appeared in several volumes and editions over a period of years:

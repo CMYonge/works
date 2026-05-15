@@ -1,10 +1,20 @@
 ---
 title: "Details of Nuttie's Father by Charlotte Mary Yonge"
+sort_title: "Details of Nuttie's Father by Charlotte Mary Yonge"
 year: 1885
+gutenberg_url: "https://www.gutenberg.org/ebooks/4053"
 slug: "nuttie"
 format:
   html:
     toc: true
+---
+
+
+*1885*
+
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/4053)
+
 ---
 
 
@@ -14,7 +24,7 @@ format:
   
 [Click here for various editions of***Nuttie's Father***from the Internet Archive (opens in new tab - may be slow)](https://archive.org/search.php?query=nuttie%27s+father+yonge)  
 
-### ***Nuttie's Father*** Publication details, summary and bibliography
+### ***Nuttie's Father***– Publication details, summary and bibliography
 
 (Kindly supplied by Amy de Gruchy)
 

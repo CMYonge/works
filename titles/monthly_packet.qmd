@@ -1,10 +1,13 @@
 ---
 title: "The Monthly Packet"
+sort_title: "Monthly Packet"
 slug: "monthly_packet"
 format:
   html:
     toc: true
 ---
+
+
 
 
 ####   
@@ -36,7 +39,7 @@ Periodical edited by Charlotte Mary Yonge from 1851 until 1893, when her younger
 
 There were four series, two of which were termed New.
 
-The bound volumes covered six months (JanuaryJune, JulyDecember).
+The bound volumes covered six months (January–June, July–December).
 
 Volume numbering (on spine) started afresh with each series, but a running volume number was also maintained (usually stated on the front title page of bound volumes).  
 It is also provided in the online version of the Monthly Packet. Using these running numbers enables a volume to be uniquely identified without needing to state the series.
@@ -92,7 +95,7 @@ It is not yet available online.
 
 [For contents lists of all issues of the CMYF Review, with some articles online, click here](review/review.qmd)
 
-The MelanesianMission and*[The Monthy Packet](works/monthly_packet.qmd)* extract from*The Monthly Packet*, with introduction by Cecilia Bass
+The MelanesianMission and*[The Monthy Packet](works/monthly_packet.qmd)*– extract from*The Monthly Packet*, with introduction by Cecilia Bass
 
 An extract from*The Monthly Packet*, with introduction by Cecilia Bass in  
 The Review of the Charlotte Mary Yonge Fellowship
@@ -105,7 +108,7 @@ It is not yet available online.
 
 ### *CONTENTS LISTS*
 
-*Contents list  New Series 1866 Number 1*
+*Contents list – New Series 1866 Number 1*
 
 A Gossip about Books 158  
 A New Year and a New Book 1  
@@ -157,7 +160,7 @@ The Way to Paradise 144
 
 #### *"Perhaps the most popular performance (of the entertainment) was a reading - 'How four men tried to keep house alone.' "*
 
-*This article appeared in the Monthly Packet of January 1884 ****pp 57-62.  
+*This article appeared in the Monthly Packet of January 1884 –****pp 57-62.  
 It was printed in the Review of the Charlotte Mary Yonge Fellowship, Edition 8, Winter 1998/99*
 
 IT was Christmas Eve, 1881, in Moon Street. All day busy preparations had been going on, as load after load arrived of evergreens, cakes, pies, and oranges, and at last all were safely stowed away; decorations were finished, the last kind helper had gone away to return to the West End, and we drew our girls and lodgers together round the fire to sing and talk, and if possible keep them from the streets. Already the wild, noisy crowd was buzzing outside, and bursts of discordant laughter and snatches of horrible songs told only too plainly that the devil of drink was abroad. As early as four lock Betty Flake had staggered in half Wnk, announcing that she had an appointment which would soon take her out again. We guessed too truly what the appointment was, and Miss lay had a tussle with her to prevent her keeping the rendezvous; finally we prevailed, and the poor girl threw her shawl up on to a shelf to protect herself from the temptation to go out; then devoted herself to decorating the gaslight - a rather dangerous experiment, but we were glad of anything to keep her employed. Next came in Peggy O'Brien (my special friend), only eighteen, a three months' bride, nearly desperate over her drunken husband, and worn out with following the waits, from midnight to morning, as they went from public-house to public-house, at each of which they were 'treated', girls and men carrying out bottles of gin "to revive the spirits!" We fed poor Peggy and tried to soften her, and despite many threats to go out again, she sat on with us all through Christmas Eve. And now Betty Flake became restless and said she must have a run.
@@ -170,7 +173,7 @@ So the walk was safely accomplished, and by degrees the air, resisting evil, and
 
 "I was offered two shillings this morning if I would drink half a quartern of gin, and I didn't. I'm sorry now I didn't! Well! I won't drink to-night, but tomorrow I just will!"
 
-At this cheerful point we were joined by Peggy O'Brien, who was wanted to go out with her namesake "to have a drink together"; but my entreaties prevailed over my particular friend, and she became pleader in her turn, and urged Peggy number two to stay in and also to give up her party****a party described to me as "a Christmas tree and tea party in my room," but known to Peggy O'Brien as a party of girls each to bring her subscription of gin!"
+At this cheerful point we were joined by Peggy O'Brien, who was wanted to go out with her namesake "to have a drink together"; but my entreaties prevailed over my particular friend, and she became pleader in her turn, and urged Peggy number two to stay in and also to give up her party**–**a party described to me as "a Christmas tree and tea party in my room," but known to Peggy O'Brien as a party of girls each to bring her subscription of gin!"
 
 "How long are you going to keep up this party?" I asked.
 
@@ -178,7 +181,7 @@ At this cheerful point we were joined by Peggy O'Brien, who was wanted to go out
 
 For a long time we argued, using all our eloquence. From the outer rooms came sounds of singing, and then a message, "You are wanted." There stood a detective we had sent for about some missing blankets, and to whom we had complained of the annoyance we were put to by men and boys dashing against the door, bursting in upon us, and greeting us with vile language. I told him that the last few nights we had been left in peace.
 
-"That's right, ma'am," said he. "I went straight to the inspector, and he's having you watched; but I have come to ask you a favour." And he brought in a young Frenchwoman who had been turned out of her lodgings this Christmas Eve, and her box kept from her, merely because the room was wanted for some one else. She had neither money nor friends; her last ten shillings had been spent on her rent, and no magistrate would be sitting until Monday. We gladly welcomed her, she was very quiet and pleasant, and said she was much happier with us. Then I returned to my back-room fight, and won it at last; the wicked tea party was put off, and Peggy closed the contest with this remark****"I wish I had taken that gin and the two shillings this morning!"
+"That's right, ma'am," said he. "I went straight to the inspector, and he's having you watched; but I have come to ask you a favour." And he brought in a young Frenchwoman who had been turned out of her lodgings this Christmas Eve, and her box kept from her, merely because the room was wanted for some one else. She had neither money nor friends; her last ten shillings had been spent on her rent, and no magistrate would be sitting until Monday. We gladly welcomed her, she was very quiet and pleasant, and said she was much happier with us. Then I returned to my back-room fight, and won it at last; the wicked tea party was put off, and Peggy closed the contest with this remark**–**"I wish I had taken that gin and the two shillings this morning!"
 
 The evening wore on, and we barred the door and went up to sleep as best we might, with the dancing and singing in the streets, which was still going on when we awoke. For Christmas greeting we had the wild, drunken sounds in the street, and songs to which we tried to close our ears. The first to come in was our little maid Susan, who sleeps at home and comes over early. She had promised not to go to the waits, and we had handed her over to her father on Christmas Eve, begging him to take care of her. Instead of doing so, he took her to her drunken sister, became drunk himself, and they kept her out until three in the morning. Poor child, she appeared this morning very tired and unhappy, and told us she had thrown away the gin forced upon her. Good little maid! how busy she was, doing her best to please us, and make us all comfortable.
 
@@ -202,7 +205,7 @@ We kept the poor tempted young things until eleven o'clock had struck, and then 
 
 Boxing Day began damp and weary. Mummers stood outside the gin-shops and crowds round them drinking. From the window we saw Peggy and called her to come in, which she reluctantly did, and was kept safe. One room full of girls helped to sweep, carry, and scrub, and all the while the noisy crowd drank and roamed the streets.
 
-Dinner-selling over in our coffee-shop, and shutters up, we made our tea-preparations, and packed up refreshments and stores to send across to the Vestry Hall for sale during our evening entertainment. Then sixty girls sat down to tea, which, of course, was followed by dancing until Lady G. White distributed the prizes. So the evening passed until eight o'clock, when we all adjourned to the large room over the way, lent us by the parish guardians. The entertainment was a great success. Besides our girls, 150 older laundresses and their husbands attended, and the interest and attention never flagged until past midnight,when the last song was sung and the doors closed. Perhaps the most popular performance was a reading****'How four men tried to keep house alone.' When it came to their ironing their own shirts the interest was intense. The company held their breath as the story told how the red-hot iron went down on the best shirt front, and thrilled as they 'seemed to see the awful 'oles it made.'
+Dinner-selling over in our coffee-shop, and shutters up, we made our tea-preparations, and packed up refreshments and stores to send across to the Vestry Hall for sale during our evening entertainment. Then sixty girls sat down to tea, which, of course, was followed by dancing until Lady G. White distributed the prizes. So the evening passed until eight o'clock, when we all adjourned to the large room over the way, lent us by the parish guardians. The entertainment was a great success. Besides our girls, 150 older laundresses and their husbands attended, and the interest and attention never flagged until past midnight,when the last song was sung and the doors closed. Perhaps the most popular performance was a reading**–**'How four men tried to keep house alone.' When it came to their ironing their own shirts the interest was intense. The company held their breath as the story told how the red-hot iron went down on the best shirt front, and thrilled as they 'seemed to see the awful 'oles it made.'
 
 I found Peggy O'Brien and her husband in the refreshment department. He was told to behave himself to me, and he did; but I heard afterwards that he had tried to pawn his wife's new petticoat She told me she should be safe from temptation, if we would keep on the entertainment until twelve o'clock. As I said, we broke up a few minutes after, and going home I asked our little maid, 'The worst is over now, isn't it?' 'Oh, no; the pawnshops is open to-morrow, and they'll drink till they have pawned everythink.'
 
@@ -212,7 +215,7 @@ Not strictly Yonge, but a work whichfirstmade its appearance in*The Monthly Pack
 
 From Lewis Carroll's December 1885*Preface*to the collected edition, published in 1885:
 
-"This Tale originally appeared as a serial in*The Monthly Packet*beginning in April 1880. The writer's intention was to embody in each Knot (like medicine so dexterously, but ineffectually, concealed in the jam of our early childhood) one or more mathematical questions  in Arithmetic, Algebra, or Geometry, as the case might be  for the amusement, and possible edification, of the fair readers of that magazine."
+"This Tale originally appeared as a serial in*The Monthly Packet*beginning in April 1880. The writer's intention was to embody in each Knot (like medicine so dexterously, but ineffectually, concealed in the jam of our early childhood) one or more mathematical questions – in Arithmetic, Algebra, or Geometry, as the case might be – for the amusement, and possible edification, of the fair readers of that magazine."
 
 [Click here to read*A Tangled Tale*from Gutenberg](http://gutenberg.readingroo.ms/2/9/0/4/29042/29042-h/29042-h.htm)
 

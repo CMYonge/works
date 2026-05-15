@@ -1,6 +1,8 @@
 ---
 title: "The Long Vacation"
+sort_title: "Long Vacation"
 year: 1895
+gutenberg_url: "https://www.gutenberg.org/ebooks/5251"
 slug: "long_vacation"
 format:
   html:
@@ -8,7 +10,13 @@ format:
 ---
 
 
-#### Online text of this book
+*1895*
+
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/5251)
+
+---
+
 
 [Click here for the latest version of The Long Vacation online from Gutenberg](https://www.gutenberg.org/ebooks/5251)  
 

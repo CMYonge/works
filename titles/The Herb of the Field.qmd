@@ -1,11 +1,16 @@
 ---
 title: "The Herb of the Field"
+sort_title: "Herb of the Field"
 year: 1853
 slug: "The Herb of the Field"
 format:
   html:
     toc: true
 ---
+
+
+*1853*
+
 
 
 [Click here to access and download copies of*The Herb of the Field*](https://archive.org/details/herbfield00yonggoog/page/n9/mode/2up)

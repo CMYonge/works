@@ -1,5 +1,6 @@
 ---
 title: "Details of Charlotte Yonge's novel The Three Brides"
+sort_title: "Details of Charlotte Yonge's novel The Three Brides"
 year: 1876
 slug: "three brides"
 format:
@@ -8,7 +9,9 @@ format:
 ---
 
 
-#### Online text of this book
+*1876*
+
+
 
 [Click here to reach the latest version of*The Three Brides*online from the Internet Archive (opens in a new tab)](https://archive.org/details/threebrides02yonggoog/page/n6/mode/2up)  
   

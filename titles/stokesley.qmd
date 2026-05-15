@@ -1,10 +1,20 @@
 ---
 title: "The Stokesley Secret - Charlotte Mary Yonge"
+sort_title: "Stokesley Secret - Charlotte Mary Yonge"
 year: 1861
+gutenberg_url: "https://www.gutenberg.org/ebooks/3411"
 slug: "stokesley"
 format:
   html:
     toc: true
+---
+
+
+*1861*
+
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/3411)
+
 ---
 
 

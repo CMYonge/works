@@ -1,10 +1,16 @@
 ---
 title: "Cameos of English history, from Rollo to Edward II - Charlotte Mary Yonge"
+sort_title: "Cameos of English history, from Rollo to Edward II - Charlotte Mary Yonge"
+year: 1868-1899
 slug: "cameos"
 format:
   html:
     toc: true
 ---
+
+
+*1868-1899*
+
 
 
 ### ****Cameos from English History****
@@ -23,7 +29,7 @@ IX. The Eighteenth Century (1899)
 ### ****
 
 **Online text of**  
-*Cameos of English History I*********From Rollo to Edward II****
+*Cameos of English History I*******–**From Rollo to Edward II****
 
 [Click here to read the text of***Cameos of English History I***from Making of America books](http://www.hti.umich.edu/cgi/t/text/text-idx?type=boolean&subtype=bib&c=moa&sid=73b72f9dd127a4639b290c060f5327ca&q1=yonge%2C%20charlotte&rgn=author&view=toc&cc=moa&idno=ABA0299.0001.001&start=1&size=25)**  
 **
@@ -44,7 +50,7 @@ February 28th, 1868.
 
 ### INTRODUCTION
 
-YOUNG people learn the history of England by reading small books which connect some memorable event that they can understand, and remember, with the name of each kingsuch as Tyrrell's arrow-shot with: William Rufus or the, wreck of the White Ship with Henry I. But when they begin to grow a little beyond these stories, it becomes difficult to find. a history that will give details and enlarge their knowledge, without being too lengthy. They can hardly be expected to remember or take an interest in personages or events left, as it were, in the block. It was the sense of this want that prompted the writing of the series that here follows, in which the endeavour has been to take either individual characters, or events bearing on our history, and work them out as fully as materials permitted, so that each, taken by itself, might form an individual Cameo, or gem in full relief; and thus become impressed upon the mind.
+YOUNG people learn the history of England by reading small books which connect some memorable event that they can understand, and remember, with the name of each king—such as Tyrrell's arrow-shot with: William Rufus or the, wreck of the White Ship with Henry I. But when they begin to grow a little beyond these stories, it becomes difficult to find. a history that will give details and enlarge their knowledge, without being too lengthy. They can hardly be expected to remember or take an interest in personages or events left, as it were, in the block. It was the sense of this want that prompted the writing of the series that here follows, in which the endeavour has been to take either individual characters, or events bearing on our history, and work them out as fully as materials permitted, so that each, taken by itself, might form an individual Cameo, or gem in full relief; and thus become impressed upon the mind.
 
 The undertaking was first begun sixteen years ago, for a periodical for young people. At that time, the view was to make the Cameos hang, as it were, on the thread furnished by ordinary childish histories, so as to leave out what might be considered as too well-known. However, as the work made progress, this was found to be a mistake; the omissions prevented the finished parts from fitting together, and the characters were incomplete, without being shown in action. Thus, in preparing the Cameos for separate publication, it has been found better to supply what had previously been omitted, as well as to try to correct and alter the other Cameos by the light of increasing information.
 
@@ -55,7 +61,7 @@ Our commencement is with the Dukes of Normandy. The elder England has been so fu
 #### Literary Notes  
 in  
 Appletons' journal: a magazine of general literature.  
-Volume 6, Issue 139, Nov 25, 1871, pp. 611612
+Volume 6, Issue 139, Nov 25, 1871, pp. 611–612
 
 #### (Making of America Journal Articles)
 

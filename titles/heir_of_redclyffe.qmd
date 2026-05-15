@@ -1,5 +1,6 @@
 ---
 title: "The Heir of Redclyffe - Charlotte Mary Yonge"
+sort_title: "Heir of Redclyffe - Charlotte Mary Yonge"
 year: 1853
 slug: "heir_of_redclyffe"
 format:
@@ -8,22 +9,24 @@ format:
 ---
 
 
+*1853*
+
+
+
 **Online text**  
 Printed editions  
 Characters, background and illustrations
 
 Barbara Dennis introduction<a href="#anonreview"><b>Anonymous review</b></a>  
-Realism and Typology in*The Heir of Redclyffe**Gavin Budge*  
+Realism and Typology in*The Heir of Redclyffe*–*Gavin Budge*  
 Ethel Romanes on the*The Heir of Redclyffe*  
 Article in the North American Review (1855)  
 Little Women and*The Heir of Redclyffe*  
-Amabel and Mary Verena  a epilogue to*The Heir of Redclyffe*
+Amabel and Mary Verena – a epilogue to*The Heir of Redclyffe*
 
-[Sintram and*The Heir of Redclyffe*article by Julia Courtney](review/issue%2018%202004/Sintram%20and%20the%20Heir%20of%20Redclyffe.qmd)
+[Sintram and*The Heir of Redclyffe*–article by Julia Courtney](review/issue%2018%202004/Sintram%20and%20the%20Heir%20of%20Redclyffe.qmd)
 
 [Read four customer reviews from Amazon books](http://www.amazon.com/gp/product/customer-reviews/1592249469/ref=cm_cr_dp_pt/102-0213248-3256942?%5Fencoding=UTF8&n=283155&s=books)
-
-### Online text of*The Heir of Redclyffe*
 
 ### [Click here to download the entire text of*The Heir of Redclyffe*from Gutenberg](http://www.gutenberg.org/etext/2505)
 
@@ -45,7 +48,7 @@ It has an introduction by Catherine Wells-Cole and is available cheaply from[Ama
 
 First published in 1853,*The Heir of Redclyffe*was among the most successful novels of the century, equalling even the work of Dickens and Thackeray in popularity.
 
-The story of a clash of personality between well-born cousins, Guy Morville and Philip Edmonstone, the plotfocuses on Guy's spiritual struggle to overcome the darker side of his nature. Philip's sinister insinuations about Guy's character almost thwart Guy's marriage to the gentle Amy, yet despite their bitter feuding the novel reaches an unexpected and dramatic conclusion that vindicates romantic virtue, self-sacrifice, and piety, epitomizing the period's nostalgia for an idealized chivalric past. Adopted by William Morris and Burne-Jones as 'a pattern for actual life', Guy was a popular role model of noble virtue, while Amy is the ideal Victorian wife  redeemer and inspirer, support and guide.
+The story of a clash of personality between well-born cousins, Guy Morville and Philip Edmonstone, the plotfocuses on Guy's spiritual struggle to overcome the darker side of his nature. Philip's sinister insinuations about Guy's character almost thwart Guy's marriage to the gentle Amy, yet despite their bitter feuding the novel reaches an unexpected and dramatic conclusion that vindicates romantic virtue, self-sacrifice, and piety, epitomizing the period's nostalgia for an idealized chivalric past. Adopted by William Morris and Burne-Jones as 'a pattern for actual life', Guy was a popular role model of noble virtue, while Amy is the ideal Victorian wife – redeemer and inspirer, support and guide.
 
 *The Heir of Redclyffe*is a virtual paradigm of the trends of thought which characterized the middle decades of the nineteenth century. It is deeply marked by the influence of the Oxford Movement, an aspect explored by Barbara Dennis in her Introduction to this unique critical edition.
 
@@ -68,15 +71,13 @@ Yonge's novels do not fit this critical paradigm of realism because, whilst 
 
 #### [Chapter IV. 'The Heir of Redclyffe](http://anglicanhistory.org/cmyonge/romanes/04.html)'
 
-#### Online text from Project Canterbury
-
 #### The North American Review (1855)  
 Volume 80, Issue 16, April 1855
 
 #### Miss Yonge's Novels: pp. 439-459
 
   
-ART. VII.  The Heir of Redclyffe. By the Author of TheTwo Guardians, Henriettas Wish, The Kings of England, etc., etc.
+ART. VII. — The Heir of Redclyffe. By the Author of TheTwo Guardians, Henriettas Wish, The Kings of England, etc., etc.
 
 Eighth Thousand. New York: P. H. Appleton & Co. 1854. 2 vols.  
 Heartsease: or the Brothers Wife. By the Author of The Heir of Redclyffe. New York: ID. Appleton & Co. 1855. 2 vols.

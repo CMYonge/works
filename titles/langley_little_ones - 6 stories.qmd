@@ -1,11 +1,16 @@
 ---
 title: "Langley Little Ones"
+sort_title: "Langley Little Ones"
 year: 1882
 slug: "langley_little_ones - 6 stories"
 format:
   html:
     toc: true
 ---
+
+
+*1882*
+
 
 
 #### [Click here for online text ofLangley Little Onesin the Internet Archive](https://archive.org/details/langleylittleon00yonggoog/page/n6/mode/2up)

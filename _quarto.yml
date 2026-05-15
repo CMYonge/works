@@ -12,4 +12,5 @@ website:
 format:
   html:
     theme: cosmo
-    toc: true
+    css: custom.css
+    toc: false

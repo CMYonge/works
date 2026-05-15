@@ -1,5 +1,6 @@
 ---
 title: "The pilgrimage of the Ben Beriah - by Charlotte Mary Yonge(1864)"
+sort_title: "pilgrimage of the Ben Beriah - by Charlotte Mary Yonge(1864)"
 year: 1899
 slug: "The pilgrimage of the Ben Beriah"
 format:
@@ -8,8 +9,9 @@ format:
 ---
 
 
-### Online text of*The pilgrimage of the Ben Beriah  
-*
+*1899*
+
+
 
 ### [Click here to read or download](http://www.archive.org/details/pilgrimageofbenb00yong)
 

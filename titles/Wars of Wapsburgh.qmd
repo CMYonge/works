@@ -1,5 +1,6 @@
 ---
 title: "The wars of Wapsburgh - by Charlotte Mary Yonge(1864)"
+sort_title: "wars of Wapsburgh - by Charlotte Mary Yonge(1864)"
 year: 1864
 slug: "Wars of Wapsburgh"
 format:
@@ -8,8 +9,9 @@ format:
 ---
 
 
-### Online text of***The Wars of Wapsburgh****  
-*
+*1864*
+
+
 
 ### [Click here to read or download](https://onlinebooks.library.upenn.edu/webbin/book//lookupid?key=olbp49537)
 

@@ -1,6 +1,8 @@
 ---
 title: "Young Stepmother: a Chronicle of Mistakes"
+sort_title: "Young Stepmother: a Chronicle of Mistakes"
 year: 1861
+gutenberg_url: "https://www.gutenberg.org/ebooks/5843"
 slug: "young_stepmother"
 format:
   html:
@@ -8,14 +10,20 @@ format:
 ---
 
 
-#### Online text ofThe Young Stepmother
+*1861*
+
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/5843)
+
+---
+
 
 Click here for the latest version of*[The Young Stepmother](https://www.gutenberg.org/ebooks/5843)*online from Gutenberg  
 (Many thanks to Sandra Laythorpe and others)
 
 ### From*The Young Stepmother*
 
-"After all, childhood, if not the happiest, is the saddest period of life  pains, griefs, petty tyrannies, neglects, and terrors have not the alleviation of the experience that 'this also shall pass away'; time moves with a tardier pace, and in the narrower sphere of interests, there is less to distract the attention from the load of grievances".
+"After all, childhood, if not the happiest, is the saddest period of life – pains, griefs, petty tyrannies, neglects, and terrors have not the alleviation of the experience that 'this also shall pass away'; time moves with a tardier pace, and in the narrower sphere of interests, there is less to distract the attention from the load of grievances".
 
 With thanks to**Lesley Hall**for this quotation.
 

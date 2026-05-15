@@ -1,5 +1,6 @@
 ---
 title: "Memoirs of Colonel Bugeaud - translated and edited by Charlotte Mary Yonge (1884)"
+sort_title: "Memoirs of Colonel Bugeaud - translated and edited by Charlotte Mary Yonge (1884)"
 year: 1884
 slug: "memoires_of_colonel_bugeaud"
 format:
@@ -8,7 +9,11 @@ format:
 ---
 
 
-Memoirs of Colonel Bugeaud from his private correspondence and original documents 1784-1815  by the Count H. d'Ideville
+*1884*
+
+
+
+Memoirs of Colonel Bugeaud from his private correspondence and original documents 1784-1815 – by the Count H. d'Ideville
 
 ++++++
 

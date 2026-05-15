@@ -1,11 +1,16 @@
 ---
 title: "Hopes and Fears, or, Scenes from the Life of a Spinster"
+sort_title: "Hopes and Fears, or, Scenes from the Life of a Spinster"
 year: 1860
 slug: "hopes_fears"
 format:
   html:
     toc: true
 ---
+
+
+*1860*
+
 
 
 [Online text of : Hopes and fears; or, Scenes from the life of a spinster (Volume 1)](http://books.google.com/books?vid=05yKlHx0ByJXA-Uj&id=hLIBAAAAQAAJ&pg=PP7&dq=%22charlotte%2Bmary%2Byonge%22&as_brr=1)

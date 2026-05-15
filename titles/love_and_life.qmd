@@ -1,6 +1,8 @@
 ---
 title: "Love and Life. An Old Story in Eighteenth Century Costume - Charlotte Mary Yonge"
+sort_title: "Love and Life. An Old Story in Eighteenth Century Costume - Charlotte Mary Yonge"
 year: 1880
+gutenberg_url: "https://www.gutenberg.org/ebooks/5700"
 slug: "love_and_life"
 format:
   html:
@@ -8,15 +10,19 @@ format:
 ---
 
 
-#### Online text of this bookPublication details, summary and bibliography
+*1880*
+
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/5700)
+
+---
+
 
 #### Charlotte Yonge's Preface to*Love and Life*Charlotte Yonge's sources
 
 #### The Eros and Psyche story in Charlotte Yonge
 
-#### Online text of this book
-
-[Click here for the latest version of*Love and Life*online from Gutenberg](http://digital.library.upenn.edu/webbin/gutbook/lookup?num=5700)  
+[Click here for the latest version of*Love and Life*online from Gutenberg](https://www.gutenberg.org/ebooks/5700)  
 (Many thanks to Sandra Laythorpe and others
 
 ### ***Love and Life*****- Publication details, summary and bibliography**
@@ -55,7 +61,7 @@ For contemporary reviews see L. Madden,*J.B. Shorthouse and C.M. Yonge*, unpubli
   
 PREFACE TO THE SECOND EDITION.
 
-THE first edition of this tale was put forth without explaining the old fable on which it was founded  a fable recurring again and again in fairy myths, though not traceable in the classic world till a very late period, when it appeared among the tales of Apuleius, of the province of Africa, sometimes called the earliest novelist. There are, however, fragments of the same story in the popular tales of all countries, so that it is probable that Apuleius availed himself of an early form of one of these. They are to be found from India to Scandinavia, adapted to the manners and fancy of every country in turn,*Beauty and the Beast*and the*Black Bull of Norroway*are the most familiar forms of the tale, and it seemed to me one of those legends of such universal property that it was quite fair to put it into 18th century English costume.
+THE first edition of this tale was put forth without explaining the old fable on which it was founded – a fable recurring again and again in fairy myths, though not traceable in the classic world till a very late period, when it appeared among the tales of Apuleius, of the province of Africa, sometimes called the earliest novelist. There are, however, fragments of the same story in the popular tales of all countries, so that it is probable that Apuleius availed himself of an early form of one of these. They are to be found from India to Scandinavia, adapted to the manners and fancy of every country in turn,*Beauty and the Beast*and the*Black Bull of Norroway*are the most familiar forms of the tale, and it seemed to me one of those legends of such universal property that it was quite fair to put it into 18th century English costume.
 
 Some have seen in it a remnant of the custom of some barbarous tribes, that the wife should not behold her husband for a year after marriage, and to this the Indian versions lend themselves; but, Apuleius himself either found it, or adapted it to the idea of the Soul (the Life) awakened by Love, grasping too soon and impatiently, then losing it, and, unable to rest, struggling on through severe toils and labours till her hopes are crowned even at the gates of death. Psyche, the soul or life, whose emblem is the butterfly, thus even in heathen philosophy strained towards the higher Love, just glimpsed at for a while.
 
@@ -126,7 +132,7 @@ William Morris was a pioneering socialist, craftsman, book designer, typographer
 Follow this link for an online text of Morris's**Earthly Paradise**(1868-70).  
 For the rest of Morris's works see the**Writings by William Morris**page by the**William Morris Society**.  
 
-You may also like to visit the website of the**William Morris Gallery** this Gallery's internationally important collections illustrate William Morris's life, work and influence. It has permanent displays of printed, woven and embroidered fabrics, rugs, carpets, wallpapers, furniture, stained glass and painted tiles designed by Morris himself and by Edward Burne-Jones, Philip Webb, Dante Gabriel Rossetti, Ford Madox Brown and others who together founded the firm of Morris, Marshall, Faulkner & Company in 1861. The Gallery is in Walthamstow, in**north-east London**.  
+You may also like to visit the website of the**William Morris Gallery**– this Gallery's internationally important collections illustrate William Morris's life, work and influence. It has permanent displays of printed, woven and embroidered fabrics, rugs, carpets, wallpapers, furniture, stained glass and painted tiles designed by Morris himself and by Edward Burne-Jones, Philip Webb, Dante Gabriel Rossetti, Ford Madox Brown and others who together founded the firm of Morris, Marshall, Faulkner & Company in 1861. The Gallery is in Walthamstow, in**north-east London**.  
 
 ### Love and Life: The Eros and Psyche story in Charlotte Yonge
 
@@ -134,7 +140,7 @@ You may also like to visit the website of the**William Morris Gallery** this G
 Resume of a paper read at conference on "Victorians and the Ancient World".  
 University College Worcester 15 April 2000
 
-Charlotte Yonge (1823-1901) is notable as author of a number of contemporary domestic novels which vividly represent life in large Victorian families in provincial England. Some were best-sellers in their day, particularly***[The Heir of Redclyffe](heir_of_redclyffe.qmd)***and***[The Daisy Chain](daisychain.qmd)***. She also wrote several historical novels, including*Love and Life: an old story in eighteenth century costume*(1880)  ostensibly a romance set in the reign of George II. She conveys admirably the feel of town and country life of that period; various minor characters have a liveliness and individuality almost equalling that of Austen or Gaskell.
+Charlotte Yonge (1823-1901) is notable as author of a number of contemporary domestic novels which vividly represent life in large Victorian families in provincial England. Some were best-sellers in their day, particularly***[The Heir of Redclyffe](heir_of_redclyffe.qmd)***and***[The Daisy Chain](daisychain.qmd)***. She also wrote several historical novels, including*Love and Life: an old story in eighteenth century costume*(1880) – ostensibly a romance set in the reign of George II. She conveys admirably the feel of town and country life of that period; various minor characters have a liveliness and individuality almost equalling that of Austen or Gaskell.
 
 The old story of the title is the myth of Eros and Psyche (Love and Soul), best known from Apuleius*Metamorphoses*or*Golden Ass*, and immensely popular in nineteenth-century art. Just as Yonge had rendered the legend of Hercules within a mid-Victorian milieu in*[**My Young Alcides**](my_young_alcides.qmd)*(1875), so she now transposed Apuleius story, plus elements of Beauty and the Beast, into the Georgian period.
 

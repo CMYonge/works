@@ -1,11 +1,16 @@
 ---
 title: "A pictorial history of the world's great nations - Charlotte Mary Yonge"
+sort_title: "pictorial history of the world's great nations - Charlotte Mary Yonge"
 year: 1882
 slug: "pictorial history of the worlds great nations"
 format:
   html:
     toc: true
 ---
+
+
+*1882*
+
 
 
 Online and downloadable versions of[A Pictorial History of the World's Great Nations](https://archive.org/details/pictorialhistory01yonguoft/page/n13/mode/2up)are available here.

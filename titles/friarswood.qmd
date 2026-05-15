@@ -1,10 +1,20 @@
 ---
 title: "Friarswood Post-Office - Charlotte Mary Yonge - CMYF"
+sort_title: "Friarswood Post-Office - Charlotte Mary Yonge - CMYF"
 year: 1860
+gutenberg_url: "https://www.gutenberg.org/ebooks/4296"
 slug: "friarswood"
 format:
   html:
     toc: true
+---
+
+
+*1860*
+
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/4296)
+
 ---
 
 
@@ -14,7 +24,7 @@ format:
 
 Publication
 
-August 1858August 1859 serialised in The Magazine for the Young, editor Ann Mozley, publishers John and Charles Mozley.  
+August 1858–August 1859 serialised in The Magazine for the Young, editor Ann Mozley, publishers John and Charles Mozley.  
 1859 book published by Mozley.
 
 Contents
@@ -57,6 +67,6 @@ University of London Diploma in Librarianship, 1964
 
 #### A full, free, downloadable text version ofFriarswood Post-Officeis available online.
 
-Click here to reach the latest version of***[Friarswood Post-Office](http://digital.library.upenn.edu/webbin/gutbook/lookup?num=4296)***from Gutenberg  
+Click here to reach the latest version of***[Friarswood Post-Office](https://www.gutenberg.org/ebooks/4296)***from Gutenberg  
 (Many thanks to Sandra Laythorpe and others)
 

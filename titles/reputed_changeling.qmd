@@ -1,5 +1,6 @@
 ---
 title: "A Reputed Changeling, or, Three Seventh Years Two Centuries Ago"
+sort_title: "Reputed Changeling, or, Three Seventh Years Two Centuries Ago"
 year: 1889
 slug: "reputed_changeling"
 format:
@@ -8,7 +9,9 @@ format:
 ---
 
 
-#### Online text of A Reputed Changeling
+*1889*
+
+
 
 [Click here to reach the latest version of*A Reputed Changeling*from Gutenberg](http://www.gutenberg.org/dirs/1/2/4/4/12449/12449.txt)  
 (Many thanks to David Price and others)

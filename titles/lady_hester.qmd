@@ -1,6 +1,8 @@
 ---
 title: "Lady Hester, or, Ursula's Narrative - Charlotte Mary Yonge"
+sort_title: "Lady Hester, or, Ursula's Narrative - Charlotte Mary Yonge"
 year: 1874
+gutenberg_url: "https://www.gutenberg.org/ebooks/4659"
 slug: "lady_hester"
 format:
   html:
@@ -8,9 +10,15 @@ format:
 ---
 
 
-#### Online text of this book
+*1874*
 
-[Click here to reach the latest version of Lady Hester online from Gutenberg](http://digital.library.upenn.edu/webbin/gutbook/lookup?num=4659)  
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/4659)
+
+---
+
+
+[Click here to reach the latest version of Lady Hester online from Gutenberg](https://www.gutenberg.org/ebooks/4659)  
 (Many thanks to Sandra Laythorpe and others)  
 
 #### Publication details, summary and further reading

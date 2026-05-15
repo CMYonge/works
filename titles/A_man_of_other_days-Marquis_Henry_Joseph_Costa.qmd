@@ -1,5 +1,6 @@
 ---
 title: "Memoirs of Colonel Bugeaud - translated and edited by Charlotte Mary Yonge (1884)"
+sort_title: "Memoirs of Colonel Bugeaud - translated and edited by Charlotte Mary Yonge (1884)"
 year: 1877
 slug: "A_man_of_other_days-Marquis_Henry_Joseph_Costa"
 format:
@@ -8,7 +9,11 @@ format:
 ---
 
 
-#### Costa de Beauregard, Henry-Joseph, marquis de (1752-1824)  Officier supérieur sarde  
+*1877*
+
+
+
+#### Costa de Beauregard, Henry-Joseph, marquis de (1752-1824) – Officier supérieur sarde  
 Un homme d'autrefois.
 
 #### Souvenirs recueillis par son arrière-petit fils, le marquis Albert Costa de Beauregard

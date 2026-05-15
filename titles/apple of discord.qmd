@@ -1,5 +1,6 @@
 ---
 title: "The apple of discord - by Charlotte Mary Yonge(1864)"
+sort_title: "apple of discord - by Charlotte Mary Yonge(1864)"
 year: 1864
 slug: "apple of discord"
 format:
@@ -8,8 +9,9 @@ format:
 ---
 
 
-### Online text of*The apple of discord*  
-(Google scan of a Bodleian copy)  
+*1864*
+
+
 
 ### [Click here to read or download](https://www.google.co.uk/books/edition/The_apple_of_discord_By_the_author_of_Th/4AQJAAAAQAAJ?hl=en&gbpv=1&pg=PT4&printsec=frontcover#v=onepage&q&f=false)
 

@@ -1,10 +1,20 @@
 ---
 title: "Abbeychurch, or Self control and self conceit"
+sort_title: "Abbeychurch, or Self control and self conceit"
 year: 1844
+gutenberg_url: "https://www.gutenberg.org/ebooks/4267"
 slug: "abbey_church"
 format:
   html:
     toc: true
+---
+
+
+*1844*
+
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/4267)
+
 ---
 
 
@@ -23,9 +33,9 @@ Charlotte Mary Yonge May 9th, 1872,
 
 ### **Online text of*Abbeychurch***
 
-[Click here to reach the latest version of](http://digital.library.upenn.edu/webbin/gutbook/lookup?num=4267)[***Abbeychurch***from Gutenberg](https://www.gutenberg.org/ebooks/4267)  
+[Click here to reach the latest version of](https://www.gutenberg.org/ebooks/4267)[***Abbeychurch***from Gutenberg](https://www.gutenberg.org/ebooks/4267)  
 
-[Click here to reach the latest version of](http://digital.library.upenn.edu/webbin/gutbook/lookup?num=4267)[***Abbeychurch***from the Internet Archive](https://archive.org/details/abbeychurchorse00yonggoog/page/n10/mode/2up)  
+[Click here to reach the latest version of](https://www.gutenberg.org/ebooks/4267)[***Abbeychurch***from the Internet Archive](https://archive.org/details/abbeychurchorse00yonggoog/page/n10/mode/2up)  
 
 ### Publication details, summary and further reading
 

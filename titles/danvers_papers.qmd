@@ -1,11 +1,16 @@
 ---
 title: "The Danvers Papers - Charlotte Mary Yonge"
+sort_title: "Danvers Papers - Charlotte Mary Yonge"
 year: 1867
 slug: "danvers_papers"
 format:
   html:
     toc: true
 ---
+
+
+*1867*
+
 
 
 ### Publication details, summary and further reading

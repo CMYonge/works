@@ -1,11 +1,16 @@
 ---
 title: "Gold Dust - Charlotte Mary Yonge"
+sort_title: "Gold Dust - Charlotte Mary Yonge"
 year: 1880
 slug: "gold_dust"
 format:
   html:
     toc: true
 ---
+
+
+*1880*
+
 
 
 ### [Click here to reach the online text of*Gold Dust*in various formats](http://www.archive.org/details/golddust00yongiala)

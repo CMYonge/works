@@ -1,6 +1,8 @@
 ---
 title: "The Two Sides of the Shield - Charlotte Mary Yonge"
+sort_title: "Two Sides of the Shield - Charlotte Mary Yonge"
 year: 1885
+gutenberg_url: "https://www.gutenberg.org/ebooks/6007"
 slug: "two_sides_of_the_shield"
 format:
   html:
@@ -8,7 +10,13 @@ format:
 ---
 
 
-### Online text of**The Two Sides of the Shield**
+*1885*
+
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/6007)
+
+---
+
 
 It is sometimes treated as an impertinence to revive the personages of one story in another, even though it is after the example of Shakespeare, who revived Falstaff, after his death, at the behest of Queen Elizabeth. This precedent is, however, a true impertinence in calling on the very great to justify the very small!
 

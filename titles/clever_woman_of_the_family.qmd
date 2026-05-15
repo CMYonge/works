@@ -1,5 +1,7 @@
 ---
 title: "The Clever Woman of the Family by Charlotte Mary Yonge"
+sort_title: "Clever Woman of the Family by Charlotte Mary Yonge"
+gutenberg_url: "http://onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=3292"
 slug: "clever_woman_of_the_family"
 format:
   html:
@@ -7,11 +9,11 @@ format:
 ---
 
 
-#### Online textNew printed editionShort summary  
-Full summaryArticle by Janice Fiamengo  
-Dissertation by Diana Pharaoh FrancisContemporary review
 
-### Online text of The Clever Woman of the Family
+[Read free online at Project Gutenberg](http://onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=3292)
+
+---
+
 
 Click here to reach the latest version of[The Clever Woman of the Family](http://onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=3292)from Gutenberg  
 (Many thanks to Sandra Laythorpe and others)

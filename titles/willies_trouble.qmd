@@ -1,10 +1,13 @@
 ---
 title: "Charlotte Mary Yonge - The Miz Maze or The Winkworth Puzzle: A story in letters -- by nine authors: Charlotte Mary Yonge, Frances Awdry, Mary Bramston, Christabel Rose Coleridge, A.E. Mary Anderson Morshead, Frances Mary Peard, Mary Susanna Lee, Eleanor C. Price, and Florence Wilford"
+sort_title: "Charlotte Mary Yonge - The Miz Maze or The Winkworth Puzzle: A story in letters -- by nine authors: Charlotte Mary Yonge, Frances Awdry, Mary Bramston, Christabel Rose Coleridge, A.E. Mary Anderson Morshead, Frances Mary Peard, Mary Susanna Lee, Eleanor C. Price, and Florence Wilford"
 slug: "willies_trouble"
 format:
   html:
     toc: true
 ---
+
+
 
 
 Who can help with the publication details for this booklet ?

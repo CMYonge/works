@@ -1,11 +1,16 @@
 ---
 title: "Charlotte Mary Yonge - Dames of High Estate"
+sort_title: "Charlotte Mary Yonge - Dames of High Estate"
 year: 1872
 slug: "dames_of_high_estate"
 format:
   html:
     toc: true
 ---
+
+
+*1872*
+
 
 
 Witt, Madame de (Henriette Elizabeth), 1829-1908.

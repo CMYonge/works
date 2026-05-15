@@ -1,11 +1,16 @@
 ---
 title: "The Story of the Christians and the Moors in Spain by Charlotte Mary Yonge"
+sort_title: "Story of the Christians and the Moors in Spain by Charlotte Mary Yonge"
 year: 1878
 slug: "story_of_christians"
 format:
   html:
     toc: true
 ---
+
+
+*1878*
+
 
 
 [Click here for](http://www.archive.org/details/TheStoryOfTheChristiansAndMoorsOfSpain)[*The Story of the Christians and Moors of Spain*](http://www.archive.org/details/TheStoryOfTheChristiansAndMoorsOfSpain)[available to read online or to download  

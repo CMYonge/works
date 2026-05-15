@@ -1,5 +1,6 @@
 ---
 title: "Founded on paper"
+sort_title: "Founded on paper"
 year: 1898
 slug: "Founded on paper"
 format:
@@ -8,7 +9,9 @@ format:
 ---
 
 
-### Online text of Founded on Paper
+*1898*
+
+
 
 [Click here to access and download*Founded on Paper*from the Intenet Archive (opens in a new tab)](https://archive.org/details/foundedonpapero00yonggoog/page/n9/mode/2up)
 

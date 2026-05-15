@@ -1,11 +1,16 @@
 ---
 title: "Slaves of Sabinus, Jew & Gentile"
+sort_title: "Slaves of Sabinus, Jew & Gentile"
 year: 1890
 slug: "slaves_of_sabinus"
 format:
   html:
     toc: true
 ---
+
+
+*1890*
+
 
 
 This novel takes as its topic the persecution of Christians under the Roman Emperor Vespasian (69 AD to 79 AD).

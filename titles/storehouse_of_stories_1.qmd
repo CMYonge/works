@@ -1,10 +1,13 @@
 ---
 title: "Charlotte Mary Yonge - A Storehouse of Stories volume 1"
+sort_title: "Charlotte Mary Yonge - A Storehouse of Stories volume 1"
 slug: "storehouse_of_stories_1"
 format:
   html:
     toc: true
 ---
+
+
 
 
 [Click here to access and download*A Storehouse of Stories*volume 1 (1870) online in various formats.  

@@ -1,11 +1,16 @@
 ---
 title: "Charlotte Mary Yonge - The Treasures in the Marshes"
+sort_title: "Charlotte Mary Yonge - The Treasures in the Marshes"
 year: 1893
 slug: "treasures in the marshes"
 format:
   html:
     toc: true
 ---
+
+
+*1893*
+
 
 
 ****[Click here to reach the online text of*The Treasures in the Marshes*  

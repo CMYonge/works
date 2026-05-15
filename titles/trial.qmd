@@ -1,6 +1,8 @@
 ---
 title: "Online text of The Trial: More Links of The Daisy Chain (1864) by Charlotte Mary Yonge"
+sort_title: "Online text of The Trial: More Links of The Daisy Chain (1864) by Charlotte Mary Yonge"
 year: 1864
+gutenberg_url: "https://www.gutenberg.org/ebooks/3744"
 slug: "trial"
 format:
   html:
@@ -8,10 +10,18 @@ format:
 ---
 
 
+*1864*
+
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/3744)
+
+---
+
+
 ###   
 **Online text of**The Trial****
 
-[Click here to reach the latest version of*The Trial*from Gutenberg](http://digital.library.upenn.edu/webbin/gutbook/lookup?num=3744)  
+[Click here to reach the latest version of*The Trial*from Gutenberg](https://www.gutenberg.org/ebooks/3744)  
 (Many thanks to Sandra Laythorpe and others)
 
 #### Modern printed texts ofThe Trialhave also appeared recently
@@ -27,5 +37,5 @@ Search the internet for new and used copies
 #### [Click here to read this article](review/on%20the%20trail%20of%20the%20trial.qmd)
 
 #### Published inThe Review of the Charlotte Mary Yonge Fellowship  
-Edition Number 6  Winter 1997 / 1998
+Edition Number 6 – Winter 1997 / 1998
 

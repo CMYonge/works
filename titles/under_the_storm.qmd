@@ -1,6 +1,8 @@
 ---
 title: "Under The Storm or, Steadfast's Charge"
+sort_title: "Under The Storm or, Steadfast's Charge"
 year: 1887
+gutenberg_url: "https://www.gutenberg.org/ebooks/6006"
 slug: "under_the_storm"
 format:
   html:
@@ -8,7 +10,13 @@ format:
 ---
 
 
-#### Online text ofUnder the Storm
+*1887*
+
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/6006)
+
+---
+
 
 [Click here for the latest version of*Under the Storm*from Gutenberg](https://www.gutenberg.org/ebooks/6006)  
   

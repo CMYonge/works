@@ -1,11 +1,16 @@
 ---
 title: "Pioneers and Founders - Charlotte Mary Yonge"
+sort_title: "Pioneers and Founders - Charlotte Mary Yonge"
 year: 1871
 slug: "pioneers and founders"
 format:
   html:
     toc: true
 ---
+
+
+*1871*
+
 
 
 ###   

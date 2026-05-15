@@ -1,11 +1,16 @@
 ---
 title: "The Pupils of St John the Divine - Charlotte Mary Yonge"
+sort_title: "Pupils of St John the Divine - Charlotte Mary Yonge"
 year: 1868
 slug: "pupils_of_st_john_the_divine"
 format:
   html:
     toc: true
 ---
+
+
+*1868*
+
 
 
 #### This book is available online.

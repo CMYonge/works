@@ -1,11 +1,16 @@
 ---
 title: "Charlotte Mary Yonge - The Disturbing Element, or, Chronicles of the Blue-Bell Society"
+sort_title: "Charlotte Mary Yonge - The Disturbing Element, or, Chronicles of the Blue-Bell Society"
 year: 1878
 slug: "disturbing element, or, chronicles of the Blue-Bell Society"
 format:
   html:
     toc: true
 ---
+
+
+*1878*
+
 
 
 ### **[Click here to reach the online text of](http://ia350631.us.archive.org/3/items/disturbingeleme00macqgoog/)**[*The Disturbing Element, or, Chronicles of the Blue-Bell Society*](http://ia350631.us.archive.org/3/items/disturbingeleme00macqgoog/)**  

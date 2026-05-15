@@ -1,5 +1,6 @@
 ---
 title: "Charlotte Mary Yonge - The Miz Maze or The Winkworth Puzzle: A story in letters -- by nine authors: Charlotte Mary Yonge, Frances Awdry, Mary Bramston, Christabel Rose Coleridge, A.E. Mary Anderson Morshead, Frances Mary Peard, Mary Susanna Lee, Eleanor C. Price, and Florence Wilford"
+sort_title: "Charlotte Mary Yonge - The Miz Maze or The Winkworth Puzzle: A story in letters -- by nine authors: Charlotte Mary Yonge, Frances Awdry, Mary Bramston, Christabel Rose Coleridge, A.E. Mary Anderson Morshead, Frances Mary Peard, Mary Susanna Lee, Eleanor C. Price, and Florence Wilford"
 year: 1883
 slug: "miz_maze"
 format:
@@ -8,7 +9,9 @@ format:
 ---
 
 
-#### Online text ofThe Miz Maze
+*1883*
+
+
 
 [*Click here to view and download online versions of*The Miz Maze**](http://ia350613.us.archive.org/0/items/mizmazeorwinkwo00awdrgoog/)
 

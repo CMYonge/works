@@ -1,10 +1,13 @@
 ---
 title: "The History of the LIfe and Death of the Good Knight Sir Tom Thumb - Charlotte Mary Yonge"
+sort_title: "History of the LIfe and Death of the Good Knight Sir Tom Thumb - Charlotte Mary Yonge"
 slug: "thomas_thumb"
 format:
   html:
     toc: true
 ---
+
+
 
 
 [Online text of: The History of Sir Thomas Thumb](http://books.google.com/books?vid=OCLC01212279&id=3ErmsfmqA0QC&printsec=copyright&dq=%22charlotte%2Bmary%2Byonge%22)

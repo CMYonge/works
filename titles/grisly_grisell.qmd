@@ -1,11 +1,16 @@
 ---
 title: "Grisly Grisell - Charlotte Mary Yonge"
+sort_title: "Grisly Grisell - Charlotte Mary Yonge"
 year: 1893
 slug: "grisly_grisell"
 format:
   html:
     toc: true
 ---
+
+
+*1893*
+
 
 
 ###   
@@ -16,7 +21,7 @@ format:
 Click here to reach the latest version of**[Grisly Grisell](http://www2.cddc.vt.edu/gutenberg/etext05/grgr10.txt)**from Gutenberg  
 (Many thanks to David Price)
 
-***Grisly Grisell*** Publication details, summary and bibliography
+***Grisly Grisell***– Publication details, summary and bibliography
 
 (Kindly supplied by Amy de Gruchy)
 

@@ -1,10 +1,20 @@
 ---
 title: "The Pigeon Pie - Charlotte Mary Yonge"
+sort_title: "Pigeon Pie - Charlotte Mary Yonge"
 year: 1860
+gutenberg_url: "https://www.gutenberg.org/ebooks/2606"
 slug: "pigeon"
 format:
   html:
     toc: true
+---
+
+
+*1860*
+
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/2606)
+
 ---
 
 
@@ -22,7 +32,7 @@ Publication details, summary and bibliography
 
 #### Publication
 
-November 1851  October 1852 as a serial in*[The Monthly Packet](monthly_packet.qmd)*, editor C. M. Yonge, publishers John and Charles Mozley.
+November 1851 – October 1852 as a serial in*[The Monthly Packet](monthly_packet.qmd)*, editor C. M. Yonge, publishers John and Charles Mozley.
 
 Book version, 1860 (second edition 1861) also published by Mozleys. Price one shilling.  
 British Library copy is on coarse paper, lacks illustration and clearly aimed at a different class of reader to that envisaged for The Little Duke.  

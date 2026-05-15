@@ -1,10 +1,13 @@
 ---
 title: "NA"
+sort_title: "NA"
 slug: "old_journal_of_the_Lady_Beatrix_Graham"
 format:
   html:
     toc: true
 ---
+
+
 
 
   

@@ -1,11 +1,16 @@
 ---
 title: "Charlotte Mary Yonge - Landmarks of History- II - Middle Ages: from the Reign of Charlemagne to that of Charles (1853)"
+sort_title: "Charlotte Mary Yonge - Landmarks of History- II - Middle Ages: from the Reign of Charlemagne to that of Charles (1853)"
 year: 1853
 slug: "landmarks_of_history_middle_ages"
 format:
   html:
     toc: true
 ---
+
+
+*1853*
+
 
 
 #### Charlotte Yonge's own Preface toLandmarks of HistoryII, Middle Ages

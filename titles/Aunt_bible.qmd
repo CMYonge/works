@@ -1,11 +1,16 @@
 ---
 title: "Aunt Charlotte's Stories of Bible History for the little ones"
+sort_title: "Aunt Charlotte's Stories of Bible History for the little ones"
 year: 1875
 slug: "Aunt_bible"
 format:
   html:
     toc: true
 ---
+
+
+*1875*
+
 
 
 #### This book is available online.

@@ -1,10 +1,13 @@
 ---
 title: "The Cook and the Captive, or Attalus the Hostage"
+sort_title: "Cook and the Captive, or Attalus the Hostage"
 slug: "cook_and_captive"
 format:
   html:
     toc: true
 ---
+
+
 
 
 This story, so far as the captivity and escape of Attalus, and Leo's devotion to him are concerned, is literally true in very point, and stands on the authority of the noted contemporary, the historian of the time, St. Gregory, Bishop of Tours. It may be read in Thierry's*Récits des Temps Mérovingiens*, and in Madame Guizot de Witt's*Histoire de France en Chroniques*; or, more accessibly to English readers, the adventures are given in[*Golden Deeds*](golden_deeds.qmd).

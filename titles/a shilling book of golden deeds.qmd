@@ -1,11 +1,16 @@
 ---
 title: "A Shilling Book of Golden Deeds - by Charlotte Mary Yonge(1864)"
+sort_title: "Shilling Book of Golden Deeds - by Charlotte Mary Yonge(1864)"
 year: 1867
 slug: "a shilling book of golden deeds"
 format:
   html:
     toc: true
 ---
+
+
+*1867*
+
 
 
 ### **Online text of*****A Shilling Book of Golden Deeds****  

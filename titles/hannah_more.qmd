@@ -1,11 +1,16 @@
 ---
 title: "Hannah More by Charlotte Mary Yonge"
+sort_title: "Hannah More by Charlotte Mary Yonge"
 year: 1888
 slug: "hannah_more"
 format:
   html:
     toc: true
 ---
+
+
+*1888*
+
 
 
 [Click here to download online versions of*Hannah More,*including PDFs](http://ia311205.us.archive.org/2/items/hannahmore00yonggoog/)  

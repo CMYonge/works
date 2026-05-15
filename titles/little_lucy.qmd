@@ -1,6 +1,8 @@
 ---
 title: "Little Lucy's Wonderful Globe - Charlotte Mary Yonge (1871)"
+sort_title: "Little Lucy's Wonderful Globe - Charlotte Mary Yonge (1871)"
 year: 1871
+gutenberg_url: "https://www.gutenberg.org/ebooks/4538"
 slug: "little_lucy"
 format:
   html:
@@ -8,14 +10,20 @@ format:
 ---
 
 
-### Online text of this book
+*1871*
 
-[Click here for the latest version of***Little Lucy***from Gutenberg](http://digital.library.upenn.edu/webbin/gutbook/lookup?num=4538)  
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/4538)
+
+---
+
+
+[Click here for the latest version of***Little Lucy***from Gutenberg](https://www.gutenberg.org/ebooks/4538)  
 (Many thanks to Sandra Laythorpe and others)
 
 ### Excerpt from Little Lucy's Wonderful Globe
 
-This was a very big pair of globes  bigger than globes commonly are now, and with more frames round them  one great flat one, with odd names painted on it, and another brass one, nearly upright, going half-way round from top to bottom, and with the globe hung upon it by two pins, which Lucy's elder sisters called the poles, or the ends of the axis. The huge round balls went very easily with a slight touch, and there was something very charming in making them go whisk, whisk, whisk; now faster, now slower, now spinning so quickly that nothing on them could be seen, now turning slowly and gradually over and showing all that was on them.
+This was a very big pair of globes – bigger than globes commonly are now, and with more frames round them – one great flat one, with odd names painted on it, and another brass one, nearly upright, going half-way round from top to bottom, and with the globe hung upon it by two pins, which Lucy's elder sisters called the poles, or the ends of the axis. The huge round balls went very easily with a slight touch, and there was something very charming in making them go whisk, whisk, whisk; now faster, now slower, now spinning so quickly that nothing on them could be seen, now turning slowly and gradually over and showing all that was on them.
 
 The mere twirling was quite enough for Lucy at first, but soon she liked to look at what was on them. One she thought more entertaining than the other. It was covered with wonderful creatures: one bear was fastened by his long tail to the pole; another bigger one was trotting round; a snake was coiling about anywhere; a lady stood disconsolate against a rock; another sat in a chair; a giant sprawled with a club in one hand and a lion's skin in the other; a big dog and a little dog stood on their hind legs; a lion seem just about to spring on a young maiden's head; and all were thickly spotted over, just as if they had Lucy's rash, with stars big and little: and still more strange, her brothers declared these were the stars in the sky, and this was the way people found their road at sea; but if Lucy asked how, they always said she was not big enough to understand, and it had occurred to Lucy to ask whether the truth was not that they were not big enough to explain.
 

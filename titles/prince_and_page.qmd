@@ -1,6 +1,8 @@
 ---
 title: "The Prince and the Page - Charlotte Mary Yonge"
+sort_title: "Prince and the Page - Charlotte Mary Yonge"
 year: 1866
+gutenberg_url: "https://www.gutenberg.org/ebooks/3696"
 slug: "prince_and_page"
 format:
   html:
@@ -8,10 +10,18 @@ format:
 ---
 
 
+*1866*
+
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/3696)
+
+---
+
+
 ###   
 **Online text of The Prince and the Page**
 
-[Click here to reach the latest version of*The Prince and the Page*from Gutenberg](http://digital.library.upenn.edu/webbin/gutbook/lookup?num=3696)  
+[Click here to reach the latest version of*The Prince and the Page*from Gutenberg](https://www.gutenberg.org/ebooks/3696)  
 (Many thanks to Sandra Laythorpe and others)
 
 ### The Prince and the Page
@@ -20,7 +30,7 @@ format:
 
 #### Publication
 
-January  December 1865 serialized in[*The Monthly Packet*](monthly_packet.qmd), editor C. M. Yonge, publishers John and Charles Mozley  
+January – December 1865 serialized in[*The Monthly Packet*](monthly_packet.qmd), editor C. M. Yonge, publishers John and Charles Mozley  
 1866 book version published by Macmillan.  
 
 #### Contents

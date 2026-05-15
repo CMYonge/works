@@ -1,11 +1,16 @@
 ---
 title: "Catharine of Aragon and the sources of the English Reformation by Charlotte Mary Yonge"
+sort_title: "Catharine of Aragon and the sources of the English Reformation by Charlotte Mary Yonge"
 year: 1881
 slug: "catherine_of_aragon"
 format:
   html:
     toc: true
 ---
+
+
+*1881*
+
 
 
 #### Catharine of Aragon and the sources of the English Reformation.

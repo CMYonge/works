@@ -1,6 +1,8 @@
 ---
 title: "The Pillars of the House, or Under Wode, Under Rode"
+sort_title: "Pillars of the House, or Under Wode, Under Rode"
 year: 1873
+gutenberg_url: "https://www.gutenberg.org/ebooks/6331"
 slug: "pillars_of_the_house"
 format:
   html:
@@ -8,9 +10,17 @@ format:
 ---
 
 
+*1873*
+
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/6331)
+
+---
+
+
 [[Illustration from the title page of The Pillars of the House. Click to see a larger version of this picture]](../images/pillars/Frontispiece%20vol1%2050percent.gif)
 
-Click here to reach the latest version of***[Pillars of the House Volume I](http://digital.library.upenn.edu/webbin/gutbook/lookup?num=6331)***from Gutenberg
+Click here to reach the latest version of***[Pillars of the House Volume I](https://www.gutenberg.org/ebooks/6331)***from Gutenberg
 
 (Many thanks to Sandra Laythorpe)
 
@@ -22,13 +32,13 @@ This is the story of the thirteen Underwood children. Their father, the Rev. Edw
 
 At the moment of their fathers death the children are:
 
-The book chronicles the history of the family from Felixs sixteenth birthday to Stellas marriage, with a final chapter and conclusion to tie up loose ends. Before his parents die, Felix has lost status by giving up his hopes for University and going to work for a local printer and bookseller to help with the family finances. After their parents' death, in spite of offers from well-meaning friends, Felix and Wilmet determine that the family shall stay together. They accept a certain amount of help  school places for Clement and Lancelot, and Edgar and Alda go to live with a family connection in London  but it is Felix and Wilmet who are the two Pillars of the House.
+The book chronicles the history of the family from Felixs sixteenth birthday to Stellas marriage, with a final chapter and conclusion to tie up loose ends. Before his parents die, Felix has lost status by giving up his hopes for University and going to work for a local printer and bookseller to help with the family finances. After their parents' death, in spite of offers from well-meaning friends, Felix and Wilmet determine that the family shall stay together. They accept a certain amount of help — school places for Clement and Lancelot, and Edgar and Alda go to live with a family connection in London — but it is Felix and Wilmet who are the two Pillars of the House.
 
 The first part of the book tells of their struggles in the early years, but it is not just a depressing chronicle of make do. After a spectacular fire at the hotel next door, a romantic half-Mexican young man, Ferdinand Travis, becomes part of the household for a time and part of the family in due course.
 
 Very few of the Underwoods live quiet, humdrum lives. Felix, who works hard, both at his job and attempting to be a father to his younger siblings, gives up all hope of marriage, although he twice falls in love. At length, after several convenient deaths, he inherits the family home at Vale Leston and has the satisfaction, before he dies, of seeing all the family at home there. Little Theodore of the last twins, who is mentally and physically retarded, survives until the age of 17, gently guarded and supported by Felix.
 
-Edgar, the brilliant, studies Art but cannot persevere, causes problems among his female acquaintances, forges a cheque and runs away, ending up in America where he is killed by Indians and leaves behind a son to succeed Felix. Alda, after rudely jilting Ferdinand Travis, marries a rich baronet for his money and produces a succession of small girls  the hoped-for son only arrives as his father dies of DTs. Wilmet rules the family with a rod of iron in the early years, then has a romantic marriage with an engineer. Clement, who goes to an Anglican church school in London is a bit of a prig at first but develops into a thoroughly competent and compassionate clergyman and brother. Geraldine, limited by a crippled ankle but with artistic talent, is Felixs right hand and sister-confidante; she also studies in London and has pictures hung at the Royal Academy.
+Edgar, the brilliant, studies Art but cannot persevere, causes problems among his female acquaintances, forges a cheque and runs away, ending up in America where he is killed by Indians and leaves behind a son to succeed Felix. Alda, after rudely jilting Ferdinand Travis, marries a rich baronet for his money and produces a succession of small girls — the hoped-for son only arrives as his father dies of DTs. Wilmet rules the family with a rod of iron in the early years, then has a romantic marriage with an engineer. Clement, who goes to an Anglican church school in London is a bit of a prig at first but develops into a thoroughly competent and compassionate clergyman and brother. Geraldine, limited by a crippled ankle but with artistic talent, is Felixs right hand and sister-confidante; she also studies in London and has pictures hung at the Royal Academy.
 
 Of Fulbert we hear the least; he is, at first, a thoroughly tough young boy. He then goes out to Australia, only to return just before Stellas wedding. Lancelot (Lance) however, has an eventful career, beginning as a chorister but in the end he joins Felix 'in trade. Angela is the problem girl as soon as she goes to school and on to the end of the book and in the books that follow. Angela has enthusiasms and carries them too far and has to be rescued by her family. She is redeemed by her whole-hearted devotion to Felix. Robina when at school, is one of those who suffer from Angelas enthusiasms but she is a steady persevering girl, gets herself educated to the best of her ability and goes out as a governess to be independent and help the family budget. Last of the boys (not counting Theodore) Bernard is spoiled, until the change in the family fortunes allow him to go to a decent school and Stella, last of the girls, is the familys Princess Fair-Star until she leaves them to get married.
 
@@ -55,7 +65,7 @@ Sexual and artistic dissipation are linked in Yonge's strongly negative portraya
 
 **Chapter on*****Pillars of the House*****by Ethel Romanes**
 
-[Click here to read*Chapter VIII. 'The Pillars of the House,' and other Family Chronicles  Changes*](http://anglicanhistory.org/cmyonge/romanes/08.html)
+[Click here to read*Chapter VIII. 'The Pillars of the House,' and other Family Chronicles – Changes*](http://anglicanhistory.org/cmyonge/romanes/08.html)
 
 #### fromCharlotte Mary Yonge: An Appreciationby Ethel Romanes (1908)
 

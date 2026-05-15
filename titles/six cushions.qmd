@@ -1,5 +1,6 @@
 ---
 title: "The Six Cushions - by Charlotte Mary Yonge(1867)"
+sort_title: "Six Cushions - by Charlotte Mary Yonge(1867)"
 year: 1867
 slug: "six cushions"
 format:
@@ -8,8 +9,9 @@ format:
 ---
 
 
-### Online text of**The Six Cushions***  
-*****
+*1867*
+
+
 
 ### [Click here to read or download from the Internet Archive](https://archive.org/details/sixcushionsbyau00yonggoog/page/n6)
 

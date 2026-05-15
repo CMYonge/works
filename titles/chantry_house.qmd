@@ -1,10 +1,20 @@
 ---
 title: "Chantry House - Charlotte Mary Yonge"
+sort_title: "Chantry House - Charlotte Mary Yonge"
 year: 1886
+gutenberg_url: "https://www.gutenberg.org/ebooks/7378"
 slug: "chantry_house"
 format:
   html:
     toc: true
+---
+
+
+*1886*
+
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/7378)
+
 ---
 
 
@@ -51,7 +61,7 @@ Katherine M Briggs Folklore in the works of Charlotte Yonge, Occasional pape
 
 ### Charlotte Yonge's Gothic Murder
 
-### Ruth Bienstock Anolik  Haverford College
+### Ruth Bienstock Anolik – Haverford College
 
 ### **Ruth Bienstock Anolik**presented the following paper, then entitled***Charlotte Yonge's Gothic Murder***  
 at the IGA Conference 2001 "Gothic Cults and Gothic Cultures".
@@ -83,13 +93,13 @@ Notes
 
 [3] Recalling the site of Austens Gothic parody.
 
-[4] That is, the law of 1707 when Margaret Fordyce writes her will and the law of the 1830s when the action of Chantry House occurs. By the time of the writing of Chantry House, the Married Womans Property Act, which secured to a woman as her separate property all real and personal property which shall belong to her at the time of the marriage had been enacted  in 1882 (Perkin 305).
+[4] That is, the law of 1707 when Margaret Fordyce writes her will and the law of the 1830s when the action of Chantry House occurs. By the time of the writing of Chantry House, the Married Womans Property Act, which secured to a woman as her separate property all real and personal property which shall belong to her at the time of the marriage had been enacted – in 1882 (Perkin 305).
 
 [5] There is also a biographical explanation for Yonges preference for female property transmission: Yonges family inherited her beloved childhood home Otterbourne from her maternal grandmother; Yonge herself was displaced from the line of inheritance because of her gender.
 
 ### Gothic Murder: Containment of Horror in Charlotte Yonges Chantry House
 
-### Ruth Bienstock Anolik  Haverford College
+### Ruth Bienstock Anolik – Haverford College
 
 ### FULL TEXT OF THIS PAPER  
 (see above for abstract)

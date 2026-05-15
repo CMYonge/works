@@ -1,5 +1,6 @@
 ---
 title: "Life of H.R.H. the Prince Consort"
+sort_title: "Life of H.R.H. the Prince Consort"
 year: 1890
 slug: "hrh_prince_consort"
 format:
@@ -8,9 +9,13 @@ format:
 ---
 
 
+*1890*
+
+
+
 [Click here to read Charlotte Yonge's*Life of HRH the Prince Consort*by Alison Millard](review/issue%2015%202002/HRH%20the%20Prince%20Consort%20by%20Millard.qmd),**  
 published in "The Review of the Charlotte Mary Yonge Fellowship"  
-**Edition Number 15  Autumn 2002
+**Edition Number 15 – Autumn 2002
 
 Yonge's*Life of H.R.H. The Prince Consort*is available online on Google Books
 

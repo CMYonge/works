@@ -1,5 +1,6 @@
 ---
 title: "Womankind"
+sort_title: "Womankind"
 year: 1877
 slug: "womankind"
 format:
@@ -8,7 +9,9 @@ format:
 ---
 
 
-### Online text of***Womankind***
+*1877*
+
+
 
 ### [Click here for an online text of Womankind (Second edition - 1890) from the Internet Archive](https://archive.org/details/womankind00yong/page/n5/mode/2up)
 

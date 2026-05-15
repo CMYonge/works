@@ -1,11 +1,16 @@
 ---
 title: "Charlotte Mary Yonge - English Church History (1883)"
+sort_title: "Charlotte Mary Yonge - English Church History (1883)"
 year: 1883
 slug: "english_church_history"
 format:
   html:
     toc: true
 ---
+
+
+*1883*
+
 
 
 Online texts of***English Church History***

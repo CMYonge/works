@@ -1,10 +1,16 @@
 ---
 title: "History of Christian Names"
+sort_title: "History of Christian Names"
+year: 1863, 1884
 slug: "history_of_christian_names"
 format:
   html:
     toc: true
 ---
+
+
+*1863, 1884*
+
 
 
 ### Review**of*History of Christian Names***  
@@ -48,7 +54,7 @@ of Yonge's*History of Christian Names*
 
 The appearance of Charlotte Yonge's*History of Christian Names*stimulated a number of reviews or critiques pointing out omissions in her coverage. One of the most amusing of these is[*Christian Names*](http://www.bodley.ox.ac.uk/cgi-bin/ilej/image1.pl?item=page&seq=1&size=1&id=nq.1863.11.7.4.97.x.369)by Cuthbert Bede, which appeared in*Notes and Queries*in 1863.
 
-Bede  whose real name was Edward Bradley was the author of various comic novels and sketches, including*The Adventures of Mr. Verdant Green, An Oxford Freshman*and*Photographic Pleasures*. Among the names he attests are Sabrina, Christmas and Mareli; the last of these, used in a story of his own (see*The Curate of Cranston*), had in real life been given to a girl whose godmothers were Mary and Elizabeth. Yonge might well have compared her own Marilda (Mary Alda) Underwood, in**[*The Pillars of the House*](pillars_of_the_house.qmd)**.
+Bede – whose real name was Edward Bradley– was the author of various comic novels and sketches, including*The Adventures of Mr. Verdant Green, An Oxford Freshman*and*Photographic Pleasures*. Among the names he attests are Sabrina, Christmas and Mareli; the last of these, used in a story of his own (see*The Curate of Cranston*), had in real life been given to a girl whose godmothers were Mary and Elizabeth. Yonge might well have compared her own Marilda (Mary Alda) Underwood, in**[*The Pillars of the House*](pillars_of_the_house.qmd)**.
 
 Reference and online facsimile :  
 [*Christian Names*](http://www.bodley.ox.ac.uk/cgi-bin/ilej/image1.pl?item=page&seq=1&size=1&id=nq.1863.11.7.4.97.x.369), by Cuthbert Bede  
@@ -58,7 +64,7 @@ Notes and Queries Vol. 4 3rd S. (97) Nov 7 1863 Page 369
 
 "Yonge is no longer considered a trustworthy source. Her main strength is the breadth of languages she covered; for many of those languages (including French) she has been superceded by far more reliable works." (LoAR Sep 92, p. 6)
 
-(LoAR****Letters of Acceptances and Returns. The Laurel letters are historical records of the SCA College of Arms.)
+(LoAR**–**Letters of Acceptances and Returns. The Laurel letters are historical records of the SCA College of Arms.)
 
 **1863 Review of History of Christian Names.**
 

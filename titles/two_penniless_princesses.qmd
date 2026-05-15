@@ -1,6 +1,8 @@
 ---
 title: "Two Penniless Princesses - Charlotte Mary Yonge"
+sort_title: "Two Penniless Princesses - Charlotte Mary Yonge"
 year: 1891
+gutenberg_url: "https://www.gutenberg.org/ebooks/2942"
 slug: "two_penniless_princesses"
 format:
   html:
@@ -8,9 +10,15 @@ format:
 ---
 
 
-#### Online text of Two Penniless Princesses
+*1891*
 
-[Click here to reach the latest version of*Two Penniless Princesses*from Gutenberg](http://digital.library.upenn.edu/webbin/gutbook/lookup?num=2942)  
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/2942)
+
+---
+
+
+[Click here to reach the latest version of*Two Penniless Princesses*from Gutenberg](https://www.gutenberg.org/ebooks/2942)  
 (Many thanks to Sandra Laythorpe and others)
 
 ### Publication details, summary and further reading for*Two Penniless Princesses*

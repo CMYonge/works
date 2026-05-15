@@ -1,10 +1,13 @@
 ---
 title: "Astray"
+sort_title: "Astray"
 slug: "astray"
 format:
   html:
     toc: true
 ---
+
+
 
 
 Review of Astray by Oscar Wilde

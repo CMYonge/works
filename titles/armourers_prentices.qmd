@@ -1,9 +1,20 @@
 ---
 title: "The Armourer's 'Prentices"
+sort_title: "Armourer's 'Prentices"
+year: 1883-1884
+gutenberg_url: "https://www.gutenberg.org/ebooks/9959"
 slug: "armourers_prentices"
 format:
   html:
     toc: true
+---
+
+
+*1883-1884*
+
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/9959)
+
 ---
 
 
@@ -63,17 +74,12 @@ I mention all this because I have so often been asked my authorities in historic
 
 August 1st. 1884  
 
-#### Online text of The Armourer's 'Prentices  
-  
-
-#### Click here to reach the latest online version of[The Armourer's 'Prentices](https://www.gutenberg.org/ebooks/9959)from Gutenberg  
-
 ### **Charlotte Yonge's bibliography for*The Armourer's 'Prentices***
 
 #### Where did Yonge get the historical information for her novels?  
 Here some details of the authors and works that Yonge cites in her Preface to The Armourer's 'Prentices
 
-Many of these details are still quite skimpy  do tell us if you can supply more details (especially websites)!
+Many of these details are still quite skimpy – do tell us if you can supply more details (especially websites)!
 
   
 **John Stowe**  
@@ -83,7 +89,7 @@ Recent paperback edition with introduction by Lady Antonia Fraser 1997
 ISBN: 0750908270  
 
 **Mr. Loftie's excellent history ...**  
-Loftie, W. J. A History of London. 2 vols. 18834.
+Loftie, W. J. A History of London. 2 vols. 1883–4.
 
 **Hall's*Chronicle****  
 *[**Edward Hall**](http://www.bartleby.com/213/1501.html), died 1547.*  
@@ -101,10 +107,10 @@ Maria, Lady Calcott (1785-1842) travelled extensively with her father, Admiral G
 Brand, John, 1744-1806, antiquary, topographer, and clergyman, was born on 19 August 1744 at Washington, in the county of Durham and educated at Lincoln College, Oxford. On 6 October 1744 he was given the perpetual curacy of Cramlington, a chapel of ease to St. Nicholas at Newcastle. On 29 May 1777 he was elected a fellow in the Society of Antiquaries, later becoming resident secretary. He was appointed to the rectory of the united parishes of St. Mary-at-Hill and St. Mary Hubbard in 1784. He is the author of several works including Observations on the Popular Antiquities of Great Britain (1777). He died on 11 September 1806 in his rectory.
 
 **Frederick Seebohm**  
-*The Oxford Reformers of 1498  being a history of the fellow-work of John Colet, Erasmus and Thomas More.  
+*The Oxford Reformers of 1498 – being a history of the fellow-work of John Colet, Erasmus and Thomas More.  
 *1st ed. London, Longmans, Green, 1867
 
-**Manning, Anne**(18071879)  
+**Manning, Anne**(1807–1879)  
 *Household of Sir Thomas More*(1851)  
 " ...a delightful picture of Mores home life told in the form of a diary written by his daughter Margaret."  
 says one source, while the view from another is " ... a satire on government ... "

@@ -1,10 +1,13 @@
 ---
 title: "Mothers in Council - edited in the 1880s-1890s by Charlotte Mary Yonge"
+sort_title: "Mothers in Council - edited in the 1880s-1890s by Charlotte Mary Yonge"
 slug: "mother_in_council"
 format:
   html:
     toc: true
 ---
+
+
 
 
 A Real Childhood
@@ -88,7 +91,7 @@ Yet there is another extreme. Some become almost slaves to their stepchildren in
 
 The Church of England Union for Mothers was founded by Mary Sumner in about 1875.
 
-Charlotte Yonge, though, though never a mother herself, was a contributor to and editor of its Journal *Mothers in Council* at quite an elderly age, and carried out this work in the 1880s 1890s.
+Charlotte Yonge, though, though never a mother herself, was a contributor to and editor of its Journal –*Mothers in Council*– at quite an elderly age, and carried out this work in the 1880s –1890s.
 
 The Mothers' Union, now with over 3 million members worldwide, recently celebrated its 125th anniversary. See the impressive[Mother's Union website and online shop](http://www.themothersunion.org/)for more on the organisation today
 

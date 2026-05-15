@@ -1,6 +1,8 @@
 ---
 title: "A Modern Telemachus - Charlotte Mary Yonge"
+sort_title: "Modern Telemachus - Charlotte Mary Yonge"
 year: 1886
+gutenberg_url: "https://www.gutenberg.org/ebooks/4271"
 slug: "modern_telemachus"
 format:
   html:
@@ -8,10 +10,18 @@ format:
 ---
 
 
+*1886*
+
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/4271)
+
+---
+
+
 ### ****  
 **Online text of***A Modern Telemachus*****
 
-[Click here to reach the latest version of*A Modern Telemachus*from Gutenberg](http://digital.library.upenn.edu/webbin/gutbook/lookup?num=4271)  
+[Click here to reach the latest version of*A Modern Telemachus*from Gutenberg](https://www.gutenberg.org/ebooks/4271)  
 (Many thanks to Sandra Laythorpe and others)
 
 ### Publication details, summary and further reading
@@ -55,7 +65,7 @@ For contemporary reviews see L. Madden, 'J B Shorthouse and C. M. Yonge' unpubli
 **Charlotte Yonge's own Preface  
 to***A Modern Telemachus*****
 
-The idea of this tale was taken fromThe Mariners' Chronicle, compiled, by a person named Scott early in the last centurya curious book of narratives of maritime adventures, with exceedingly quaint illustrations. Nothing has ever shown me more plainly that truth is stranger than fiction, for all that is most improbable here is the actual fact.
+The idea of this tale was taken fromThe Mariners' Chronicle, compiled, by a person named Scott early in the last century—a curious book of narratives of maritime adventures, with exceedingly quaint illustrations. Nothing has ever shown me more plainly that truth is stranger than fiction, for all that is most improbable here is the actual fact.
 
 The Comte de Bourke was really an Irish Jacobite, naturalised in France, and married to the daughter of the Marquis de Varennes, as well as in high favour with the Marshal Duke of Berwick.
 
@@ -63,7 +73,7 @@ In 1719, just when the ambition of Elizabeth Farnese, the second wife of Philip 
 
 This arrangement was so strange that I can only account for it by supposing that as this was the date of a feeble Spanish attempt on behalf of the Jacobites in Scotland, Comte de Bourke may not have ventured by the direct route. Or it may not have been etiquette for him to re-enter France when appointed ambassador. At any rate, the poor Countess did take this route to the South, and I am inclined to think the narrative must be correct, as all the side-lights I have been able to gain perfectly agree with it, often in an unexpected manner.
 
-The suite and the baggage were just as related in the storythe only liberty I have taken being the bestowal of names. 'M. Arture' was really of the party, but I have made him Scotch instead of Irish, and I have no knowledge that the lackey was not French. The imbecility of the Abbé is merely a deduction from his helplessness, but of course this may have been caused by illness.
+The suite and the baggage were just as related in the story—the only liberty I have taken being the bestowal of names. 'M. Arture' was really of the party, but I have made him Scotch instead of Irish, and I have no knowledge that the lackey was not French. The imbecility of the Abbé is merely a deduction from his helplessness, but of course this may have been caused by illness.
 
 The meeting with M. de Varennes at Avignon, Berwick's offer of an escort, and the Countess's dread of the Pyrenees, are all facts, as well as her embarkation in the Genoese tartane bound for Barcelona, and its capture by the Algerine corsair commanded by a Dutch renegade, who treated her well, and to whom she gave her watch.
 
@@ -77,9 +87,9 @@ The real 'Arture' tried to swim to the shore, but never was seen again; so that 
 
 The account of these captors was a great difficulty, till in the old*Universal History*I found a description of Algeria which tallied wonderfully with the narrative. It was taken from a survey of the coast made a few years later by English officials.
 
-The tribe inhabiting Mounts Araz and Couco, and bordering on Djigheli Bay, were really wild Arabs, claiming high descent, but very loose Mohammedans, and savage in their habits. 'Their name of Cabeleyzes is saidwith what truth I know notto mean 'revolted,' and they held themselves independent of the Dey. They were 'in the habit of murdering or enslaving all shipwrecked travellers, except subjects of Algiers, whom they released with nothing but their lives.
+The tribe inhabiting Mounts Araz and Couco, and bordering on Djigheli Bay, were really wild Arabs, claiming high descent, but very loose Mohammedans, and savage in their habits. 'Their name of Cabeleyzes is said—with what truth I know not—to mean 'revolted,' and they held themselves independent of the Dey. They were 'in the habit of murdering or enslaving all shipwrecked travellers, except subjects of Algiers, whom they released with nothing but their lives.
 
-All this perfectly explains the sufferings of Mademoiselle de Bourke. The history of the plundering, the threats, the savage treatment of the corpses, the wild dogs, the councils of the tribe, the separation of the captives, and the child's heroism, is all literally truethe expedient of Victorine's defence alone being an invention. It is also true that the little girl and the*maître d'hôtel*wrote four letters, and sent them by different chances to Algiers, but only the last ever arrived, and it created a great sensation.
+All this perfectly explains the sufferings of Mademoiselle de Bourke. The history of the plundering, the threats, the savage treatment of the corpses, the wild dogs, the councils of the tribe, the separation of the captives, and the child's heroism, is all literally true—the expedient of Victorine's defence alone being an invention. It is also true that the little girl and the*maître d'hôtel*wrote four letters, and sent them by different chances to Algiers, but only the last ever arrived, and it created a great sensation.
 
 M. Dessault is a real personage, and the kindness of the Dey and of the Moors was exactly as related, also the expedient of sending the Marabout of Bugia to negotiate.
 
@@ -91,9 +101,9 @@ The welcome at Algiers and the*Te Deum*in the Consul's chapel also are related i
 
 I will only mention further that a rescued Abyssinian slave named Fareek (happily not tongueless) was well known to me many years ago in the household of the late Warden Barter of Winchester College.
 
-Since writing the above I have by the kindness of friends been enabled to discover Mr. Scott's authority, namely, a book entitledVoyage pour la Redemption des captifs aux Royaumes d'Alger et de Tunis, fait en 1720 par les P.P. François Comelin, Philemon de la Motte, et Joseph Bernard, de l'Ordre de la Sainte Trinité, dit Mathurine. This Order was established by Jean Matha for the ransom and rescue of prisoners in the hands of the Moors.A translation of the adventures of the Comtesse de Bourkeand her daughter was published in the*Catholic World*, New York, July 1881. It exactly agrees with the narration in*The Mariners' Chronicle*except that, in the true spirit of the eighteenth century, Mr. Scott thought fit to suppress that these ecclesiastics were at Algiers at the time of the arrival of Mademoiselle de Bourke's letter, that they interested themselves actively on her behalf; and that they wrote the narrative from the lips of the*maître d'hôtel*(who indeed may clearly be traced throughout). It seems also that the gold cups were chalices, and that a complete set of altar equipments fell a prey to the Cabeleyzes, whose name the good fathers endeavour to connect with*Cabale*with about as much reason as if we endeavoured to derive that word from the ministry of Charles II.
+Since writing the above I have by the kindness of friends been enabled to discover Mr. Scott's authority, namely, a book entitledVoyage pour la Redemption des captifs aux Royaumes d'Alger et de Tunis, fait en 1720 par les P.P. François Comelin, Philemon de la Motte, et Joseph Bernard, de l'Ordre de la Sainte Trinité, dit Mathurine. This Order was established by Jean Matha for the ransom and rescue of prisoners in the hands of the Moors.A translation of the adventures of the Comtesse de Bourkeand her daughter was published in the*Catholic World*, New York, July 1881. It exactly agrees with the narration in*The Mariners' Chronicle*except that, in the true spirit of the eighteenth century, Mr. Scott thought fit to suppress that these ecclesiastics were at Algiers at the time of the arrival of Mademoiselle de Bourke's letter, that they interested themselves actively on her behalf; and that they wrote the narrative from the lips of the*maître d'hôtel*(who indeed may clearly be traced throughout). It seems also that the gold cups were chalices, and that a complete set of altar equipments fell a prey to the Cabeleyzes, whose name the good fathers endeavour to connect with*Cabale*—with about as much reason as if we endeavoured to derive that word from the ministry of Charles II.
 
-Had I known In time of the assistance of these benevolent brethren IL would certainly have introduced them with all due honour, but, like the Abbé Vertot, I have to say,*Mon histoire est écrit*, and what is worseprinted. Moreover, they do not seem to have gone on the mission with the Marabout from Bugia, so that their presence really only accounts for the*Te Deum*with which the redeemed captives were welcomed.
+Had I known In time of the assistance of these benevolent brethren IL would certainly have introduced them with all due honour, but, like the Abbé Vertot, I have to say,*Mon histoire est écrit*, and what is worse—printed. Moreover, they do not seem to have gone on the mission with the Marabout from Bugia, so that their presence really only accounts for the*Te Deum*with which the redeemed captives were welcomed.
 
 It does not seem quite certain whether M. Dessault was Consul or Envoy; I incline to think the latter. The translation in the Catholic World .speaks of Sir Arthur, but Mr. Scott's 'M. Arture' is much more*vraisemblable*. He probably had either a surname to be concealed or else unpronounceable to French lips. Scott must have had some further information of the after history of Mademoiselle de Bourke since he mentions her marriage, which could hardly have taken place when Père Comelin's book was published in 1720.
 
@@ -104,7 +114,7 @@ C. M. YONGE
 Where did Yonge get the historical information for her novels?  
 Here some details of the authors and works that Yonge cites in her Preface to*A Modern Telemachus*
 
-*M*any***of these details are still quite skimpy  do tell us if you can supply more details (especially websites)!*
+*M*any***of these details are still quite skimpy – do tell us if you can supply more details (especially websites)!*
 
 **  
 The Mariner's Chronicle**:*Containing Narratives of the Most Remarkable Disasters at Sea, such as Shipwrecks, Storms, Fires and Famines: Also, Naval Engagements, Piratical Adventures, Incidents of Discovery, and Other Extraordinary and Interesting Occurrences*. By Archibald Duncan. 1804.

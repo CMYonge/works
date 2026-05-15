@@ -1,11 +1,16 @@
 ---
 title: "Charlotte Mary Yonge - The Instructive Picture Book"
+sort_title: "Charlotte Mary Yonge - The Instructive Picture Book"
 year: 1857
 slug: "instructive_picture_book"
 format:
   html:
     toc: true
 ---
+
+
+*1857*
+
 
 
 THE INSTRUCTIVE PICTURE BOOK  

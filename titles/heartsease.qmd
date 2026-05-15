@@ -1,10 +1,20 @@
 ---
 title: "Heartsease - Charlotte Mary Yonge"
+sort_title: "Heartsease - Charlotte Mary Yonge"
 year: 1854
+gutenberg_url: "https://www.gutenberg.org/ebooks/2601"
 slug: "heartsease"
 format:
   html:
     toc: true
+---
+
+
+*1854*
+
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/2601)
+
 ---
 
 
@@ -16,9 +26,9 @@ Heartsease is Violet, the sixteen year old daughter of an ambitious solicitor, w
 
 The reactions of the family are barely favourable - Mrs Nesbit is furious, Lord Martindale not happy but prepared to support the young couple, while Lady Martindale seems to have no strong feelings. Theodora, however, is angry and jealous. John goes on a mission of reconciliation to the young couple, and, to his surprised, is impressed by his new sister-in-law and comes out strongly in her defence. He plays a major part in strengthening Violet's rather timid character by holding up to her the example of Helen Fotheringham, who had borne wearisome domestic trials with a brave and cheerful spirit.
 
-All this sounds very unpromising, and in the early years, Violet is very unhappy ****not allowed to see her own family, disliked and distrusted by her in-laws, apart from John and his father, and neglected by her husband. She remains quiet and unassuming, fights her way through her misfortunes and eventually her influence permeates the family. The prime instance of this is Theodora  the 'other' heroine: high-principled but also wilful, jealous and intransigent. Under Violet's guidance, Theodora gradually grows in self-knowledge and patience.
+All this sounds very unpromising, and in the early years, Violet is very unhappy –****not allowed to see her own family, disliked and distrusted by her in-laws, apart from John and his father, and neglected by her husband. She remains quiet and unassuming, fights her way through her misfortunes and eventually her influence permeates the family. The prime instance of this is Theodora – the 'other' heroine: high-principled but also wilful, jealous and intransigent. Under Violet's guidance, Theodora gradually grows in self-knowledge and patience.
 
-It takes several family upheavals and disasters  including a fire which destroys the family mansion and kills off Mrs Nesbit  to make everyone aware of the beneficial effect Violet has come to exert on the whole family. In one of the later chapters, Percival Fotheringham, an important character and eventually the husband of Theodora, says this of Violet: "The history of these years is this ... Everyone else has acted more or less idiotically . She has gone about softening, healing, stirring up the saving part of each one's disposition ..."
+It takes several family upheavals and disasters – including a fire which destroys the family mansion and kills off Mrs Nesbit – to make everyone aware of the beneficial effect Violet has come to exert on the whole family. In one of the later chapters, Percival Fotheringham, an important character and eventually the husband of Theodora, says this of Violet: "The history of these years is this ... Everyone else has acted more or less idiotically . She has gone about softening, healing, stirring up the saving part of each one's disposition ..."
 
 ###   
 **Online text of***Heartsease*****
@@ -42,14 +52,14 @@ Wikipedia has a[useful illustrated page about this plant](http://en.wikipedia.or
 
 **Volume 5, Issue 26, February 1855 : page 220**
 
- The central idea of Heartsease (by tbe author of*The Heir of Redc/yffe*) is the same with that of*The Pride of Life*; namely: tlse experience of a wife, married for her loveliness, into a sphere above her own. Perhaps novels of this species are a sigti and outgrowth of the gradual equalization which seems to he slowly supervening upon the stratified texture of English society. But the book is of a much higher order, morally and artistically. than Lady Scotts. The characters are exceedingly well drawn and distinguished. Violet is a true and lovely woman, operating upon her unstable husband, and her outrageously proud sister-in-law, Theodora, by forces beautiful and womanly, unconscious and still, but powerful and sure. Her own trials and changes, and those of her relatives, are very skillfully developed. The book, although not of the intense kind, bears evidence of very keen observation, and very true and careful thought; and as a work of art, must rank very high. There is one noticeable defect, in the management of the moral. This, which was apparently intended to permeate the whole texture of the narrative, is stuck in in unassimilated, uncomfortable lumps. We come upon them as upon an unexpected jolt ; with a start and an "oh !  
+— The central idea of Heartsease (by tbe author of*The Heir of Redc/yffe*) is the same with that of*The Pride of Life*; namely: tlse experience of a wife, married for her loveliness, into a sphere above her own. Perhaps novels of this species are a sigti and outgrowth of the gradual equalization which seems to he slowly supervening upon the stratified texture of English society. But the book is of a much higher order, morally and artistically. than Lady Scotts. The characters are exceedingly well drawn and distinguished. Violet is a true and lovely woman, operating upon her unstable husband, and her outrageously proud sister-in-law, Theodora, by forces beautiful and womanly, unconscious and still, but powerful and sure. Her own trials and changes, and those of her relatives, are very skillfully developed. The book, although not of the intense kind, bears evidence of very keen observation, and very true and careful thought; and as a work of art, must rank very high. There is one noticeable defect, in the management of the moral. This, which was apparently intended to permeate the whole texture of the narrative, is stuck in in unassimilated, uncomfortable lumps. We come upon them as upon an unexpected jolt ; with a start and an "oh !  
   
 
 ### Last Heartsease Leaves
 
 MAY we be allowed a glimpse of Martindale House in the present spring?
 
-The drawing-room is no stiff or stately apartment, but a pleasant room, full of comfort and prettiness. It is late in the evening, and the seats are vacant that stand so cosily round the central table, covered with tokens of occupationwork-box, basket, books, pencil, and paper adorned with schoolboy drawings. A low chair and small rosewood table have a candle-lamp to themselves, and by the fire is a large arm-chair, where a little dog lies perdu, sunk among the cushions like a presuming pet.
+The drawing-room is no stiff or stately apartment, but a pleasant room, full of comfort and prettiness. It is late in the evening, and the seats are vacant that stand so cosily round the central table, covered with tokens of occupation—work-box, basket, books, pencil, and paper adorned with schoolboy drawings. A low chair and small rosewood table have a candle-lamp to themselves, and by the fire is a large arm-chair, where a little dog lies perdu, sunk among the cushions like a presuming pet.
 
 Two figures are lingering over their good-nights before the fire. That slight youth, fair-haired and dark-eyed, of delicate complexion and features of feminine purity and regularity, is John, third Baron Martindale. Gentle as is his manner, and fragile as is his appearance, he has no lack of moral strength, and his handsome, high-spirited brothers and sisters look up to him as to a father. He has gained high honours at school and college; but there is one who thinks most of his having passed through those trials without injury to the innocence and sweetness of his disposition. It is she who stands beside him in her black dress; her tall and graceful figure so youthful, her cheek and brow so exquisitely smooth and fair, and her dark brown eyes so clear and soft, that she would hardly be supposed to be the mother of a grown-up son. He thinks her unrivalled in loveliness, and indeed the trust and affection between those two is as intense as it can be without idolatry.
 
@@ -61,11 +71,11 @@ Two figures are lingering over their good-nights before the fire. That slight yo
 
 'And if she wishes it no one could object. But I did not expect her to like it, and I know you do not, mamma.'
 
-'Yes, I shall, for'with a sweet smile'I shall think of your dear father's and uncle's pleasure in their boy. And although it may be punishment to his lordship himself, how the rest will enjoy it, and what a family gathering it will be! I am glad of anything to bring us the Fotheringhams.'
+'Yes, I shall, for'—with a sweet smile—'I shall think of your dear father's and uncle's pleasure in their boy. And although it may be punishment to his lordship himself, how the rest will enjoy it, and what a family gathering it will be! I am glad of anything to bring us the Fotheringhams.'
 
 'One thing is certain, I will go to Wrangerton and fetch the grandmamma that is there. She shall not be afraid of railways with me to take care of her!"
 
-'Oh, Johnnie, if you can but bring her! I really think she would consent. She will never refuse you, and once here, how happy she will be! That is an excellent thought.' She kissed him, and he, thinking it the good-night, continued'Can you stay a little longer? There is something I have been wishing to say to you.'
+'Oh, Johnnie, if you can but bring her! I really think she would consent. She will never refuse you, and once here, how happy she will be! That is an excellent thought.' She kissed him, and he, thinking it the good-night, continued—'Can you stay a little longer? There is something I have been wishing to say to you.'
 
 "Well?'
 
@@ -75,19 +85,19 @@ Two figures are lingering over their good-nights before the fire. That slight yo
 
 'My uncle, not long before his death, talked over family matters, and told me the history of its being settled on me.'
 
-'I am glad you know itit was on my mind to tell you.'
+'I am glad you know it—it was on my mind to tell you.'
 
 'What a frightful injustice it was! I have been considering a good deal lately, and this seems to be the right way. I find it is not much less than 150,000*l*. Now I suppose if the poor old lady had acted as most people would, it would have been divided between the three, and my Aunt Theodora has a clear right to her third part. Could you persuade Uncle Percy to see it is only fair they should have it?'
 
-'I hope he will,' said Mrs. Martindale. 'No one can doubt that it is just, and they will be particularly glad to be able to live in England now that their children are old enough to want education, and with that little Marcia Gardner on their hands tooadopting her as they have done with no dependence for the future.'
+'I hope he will,' said Mrs. Martindale. 'No one can doubt that it is just, and they will be particularly glad to be able to live in England now that their children are old enough to want education, and with that little Marcia Gardner on their hands too—adopting her as they have done with no dependence for the future.'
 
 'What is her connexion with them, mamma? I am sure the name of Mr. Gardner is one that I used to hear in old times.' He suddenly paused, as there was a look of pain on his mother's face; but she calmly answered,
 
-'He has been dead a long time, poor man. He married a sister of Lady Fotheringham's, a great friend of your Aunt Theodora, spent all her property, used her very ill, and at last deserted her and this little girl at Dresden, where your Uncle Percy found them in great poverty and distress. Mrs. Gardner had been maintaining herself by teaching English
+'He has been dead a long time, poor man. He married a sister of Lady Fotheringham's, a great friend of your Aunt Theodora, spent all her property, used her very ill, and at last deserted her and this little girl at Dresden, where your Uncle Percy found them in great poverty and distress. Mrs. Gardner had been maintaining herself by teaching English—
 
 'But surely Lady Fotheringham must have helped her?'
 
-'Lady Fotheringham was never a very warm-hearted person. I believe she thought the Gardners werewere undeserving, and she makes her son her one object. Poor Mrs. Gardner said she had wearied out her sister's kindness, and now her health was failing, and she only begged that Mr. Fotheringham would, after her death, see the child safely sent to Worthbourne, as her sister could not refuse the care of the poor little thing.'
+'Lady Fotheringham was never a very warm-hearted person. I believe she thought the Gardners were—were undeserving, and she makes her son her one object. Poor Mrs. Gardner said she had wearied out her sister's kindness, and now her health was failing, and she only begged that Mr. Fotheringham would, after her death, see the child safely sent to Worthbourne, as her sister could not refuse the care of the poor little thing.'
 
 'Did she not die in their house?'
 
@@ -129,7 +139,7 @@ It is the interval between the villagers' dinner and the arrival of the county n
 
 Mr. Fotheringham, who looks somewhat gray, but hearty and merry as ever, holds out his arm as if it was her fate, and they turn towards the house. She turns round and says, 'I suppose I need not talk of Theodora's resting. Where is she?'
 
-'Don't you see her? There, on the slopes,she is teaching little Antony to climb the old scraggy thorn where her governess once captured her. Now have I not brought her home as buxom, blithe, and debonair a dame as you would wish to see?'
+'Don't you see her? There, on the slopes,—she is teaching little Antony to climb the old scraggy thorn where her governess once captured her. Now have I not brought her home as buxom, blithe, and debonair a dame as you would wish to see?'
 
 'I have been wondering at her. She is so much fatter and handsomer than ever before, and her spirits so high! Why, she used to be the gravest person!'
 
@@ -145,13 +155,13 @@ Mr. Fotheringham, who looks somewhat gray, but hearty and merry as ever, holds o
 
 'Not hers alone, perhaps! This house, such as it has been of late years, must have a very different influence from the pinnacle of state it used to be.'
 
-'Did you see Emma's orphansthe nicest looking children here?'
+'Did you see Emma's orphans—the nicest looking children here?'
 
 'What I did see was the instinct that pounced on Marcia from among the whole contemporary bunch of Violets, and indeed the child is very like her father.'
 
 'I suspect if you want to keep Marcia to yourself you will have a battle to fight.'
 
-'Hem! No, no, we could not spare herthe prettiest thing in the family,Dolly would break her heart, and mamma, too! No, no, not just as we have something for the creatures to live on.
+'Hem! No, no, we could not spare her—the prettiest thing in the family,—Dolly would break her heart, and mamma, too! No, no, not just as we have something for the creatures to live on.
 
 'I am very glad to hear you say that. I trusted you were not going to mortify Johnnie.'
 
@@ -167,7 +177,7 @@ Mr. Fotheringham, who looks somewhat gray, but hearty and merry as ever, holds o
 
 'You will help Johnnie and me. We shall want your advice very often, for it is a great responsibility for so young a head of the family. The dear boys are as good and affectionate as possible, and we have never had the least difficulty, but Johnnie is very little older to be in authority.'
 
-'I don't think you and he likely to break down. I was impressed the other day, when Arthur was talking nonsense, with the quiet effective way in which Johnnie set him down-a great big fellow taller than himself. I thought it indicated a most wholesome state of affairs.'
+'I don't think you and he likely to break down. I was impressed the other day, when Arthur was talking nonsense, with the quiet effective way in which Johnnie set him down—-a great big fellow taller than himself. I thought it indicated a most wholesome state of affairs.'
 
 'Yes, Arthur looks up to Johnnie with all his heart. Is he not a fine fellow, so exactly like his father?'
 
@@ -205,13 +215,13 @@ The saddened voice was checked by the appearance of a brilliant-looking young la
 
 'Of course you did meet him?'
 
-'Yes; there was a fine young guardsman, a son of Mrs. Bryanstone's, talking to us, and Helen looking grave and wearied, when we saw Lord St. Erme coming, andit was too transparent! Helen's black eyes were dancing and sparkling, and her cheeks in a glow. I know she felt as if she was meeting a conqueror after a victory, as if the honour was in his notice. Their eyes met as she held out her hand, and then the change was in an instant; the colour spread and deepened, her eyes were cast down, and for him, he blushed as he used to do in Theodora's time. Poor Mr. Bryanstone! I pitied him, and tried to talk to him.'
+'Yes; there was a fine young guardsman, a son of Mrs. Bryanstone's, talking to us, and Helen looking grave and wearied, when we saw Lord St. Erme coming, and—it was too transparent! Helen's black eyes were dancing and sparkling, and her cheeks in a glow. I know she felt as if she was meeting a conqueror after a victory, as if the honour was in his notice. Their eyes met as she held out her hand, and then the change was in an instant; the colour spread and deepened, her eyes were cast down, and for him, he blushed as he used to do in Theodora's time. Poor Mr. Bryanstone! I pitied him, and tried to talk to him.'
 
 'When did he speak?'
 
 'He came to me the next morning and told me how he had thought it impossible he should ever form another attachment, but now Helen had gone beyond all his visions. I cannot tell you what he said. I could only remember your declaring he had a gift of perpetual youth. Not that it was foolish, but so ardent, and so well understanding dear Helen, except that he fancied himself too old for her, and that his position was against him.'
 
-'Did you sayTry?'
+'Did you say—Try?'
 
 'I thought it best to speak to Helen myself. Poor dear! she fairly burst into tears, because she said it was too much, and he did not know what a wilful, headstrong temper she had; but it was great joy all the time.'
 
@@ -229,13 +239,13 @@ Johnnie and I were sure it was a real deep attachment, but it seemed safer to wa
 
 'I like to remember her papa's answer. It is like his consent. How he liked to stroke Helen's head, and call her Theodora's deputy!'
 
-A silence, broken by Mr. Fotheringham'How do you think Lady Martindale? She looks very well.'
+A silence, broken by Mr. Fotheringham—'How do you think Lady Martindale? She looks very well.'
 
 'Yes, she lives in her grandchildren. Yours, as being younger than mine, will be a renewal of delight.'
 
 'I wonder whether I shall ever see the warmth you all ascribe to her; she seems to me to be as grand and impassive as ever.'
 
-'That is an outward habitual manner, but if you had seen her in grief, or had it to share with youOh! grandmamma and I could never get on without each other; we have come quite to lean on each other now, and there are such bonds between us,the buried links are the firmest, as you once wrote.'
+'That is an outward habitual manner, but if you had seen her in grief, or had it to share with you—Oh! grandmamma and I could never get on without each other; we have come quite to lean on each other now, and there are such bonds between us,—the buried links are the firmest, as you once wrote.'
 
 'I think they are. I dare say you still wear my sister's cross.'
 

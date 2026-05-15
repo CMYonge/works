@@ -1,6 +1,8 @@
 ---
 title: "Magnum Bonum, or, Mother Carey's Brood"
+sort_title: "Magnum Bonum, or, Mother Carey's Brood"
 year: 1879
+gutenberg_url: "https://www.gutenberg.org/ebooks/5080"
 slug: "magnum_bonum"
 format:
   html:
@@ -8,7 +10,13 @@ format:
 ---
 
 
-#### Online text ofMagnum Bonum
+*1879*
+
+
+[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/5080)
+
+---
+
 
 [Click here for the latest version of*Magnum Bonum*online from Gutenberg](https://www.gutenberg.org/ebooks/5080)  
 

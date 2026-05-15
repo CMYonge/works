@@ -1,11 +1,16 @@
 ---
 title: "Charlotte Mary Yonge - Landmarks of Recent History 1770-1883 (1883)"
+sort_title: "Charlotte Mary Yonge - Landmarks of Recent History 1770-1883 (1883)"
 year: 1883
 slug: "landmarks_of_history_recent_events"
 format:
   html:
     toc: true
 ---
+
+
+*1883*
+
 
 
 #### Charlotte Yonge's own Preface toLandmarks of Recent History

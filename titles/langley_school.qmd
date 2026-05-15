@@ -1,5 +1,6 @@
 ---
 title: "Langley School"
+sort_title: "Langley School"
 slug: "langley_school"
 format:
   html:
@@ -7,7 +8,7 @@ format:
 ---
 
 
-#### Online text of:Langley School
+
 
 A Google scan of an 1850 edition at Bodley is currently (March 2008) available on Google. A PDF version is also available for download from the Google webpage.
 

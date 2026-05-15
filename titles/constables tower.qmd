@@ -1,5 +1,6 @@
 ---
 title: "The Constable's Tower, or, The Times of Magna Carta - Charlotte Mary Yonge"
+sort_title: "Constable's Tower, or, The Times of Magna Carta - Charlotte Mary Yonge"
 year: 1891
 slug: "constables tower"
 format:
@@ -8,7 +9,9 @@ format:
 ---
 
 
-#### Online text ofThe Constable's Tower
+*1891*
+
+
 
 [Click here to reach the latest version of*The Constable's Tower*](http://ia340905.us.archive.org/1/items/constablestowero00yong/)  
 
