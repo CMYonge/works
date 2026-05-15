@@ -1,0 +1,23 @@
+---
+title: "NA"
+slug: "template_works"
+format:
+  html:
+    toc: true
+---
+
+
+(Text kindly supplied by Amy de Gruchy)
+
+#### Publication
+
+#### Contents
+
+#### Further Reading
+
+L. Madden,*J.B. Shorthouse and C.M. Yonge*, unpublished thesis, University of London Diploma in Librarianship, 1964
+
+Ethel Romanes,*Charlotte Mary Yonge. An Appreciation*. A.R. Mowbray & Co., London 1908  
+Georgina Battiscombe,*Charlotte Mary Yonge*. Constable, London 1943  
+Alice Fairfax Lucy, 'The other Miss Yonge', in*A Chaplet for Charlotte Yonge*. Edited for The Charlotte Yonge Society by Georgina Battiscombe and Marghanita Laski. The Cresset Press, London 1965
+

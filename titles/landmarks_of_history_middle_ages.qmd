@@ -1,0 +1,24 @@
+---
+title: "Charlotte Mary Yonge - Landmarks of History- II - Middle Ages: from the Reign of Charlemagne to that of Charles (1853)"
+year: 1853
+slug: "landmarks_of_history_middle_ages"
+format:
+  html:
+    toc: true
+---
+
+
+#### Charlotte Yonge's own Preface toLandmarks of HistoryII, Middle Ages
+
+CERTAIN caterpillars are said to spin a number of different threads, all forming one loop, through which they proceed to creep, so judiciously holding the strands apart, that no two of them ever become entangled.
+
+In weaving the warp and woof of the History of the Middle Ages, it would be most desirable to possess the skill of the insect; since, instead of the one broad line of Roman Empire, the threads of the story do indeed present a complex web, often more tangled in the mind than in reality.
+
+It has been attempted to class the subjects, according to the periods when some general object or idea influenced most of the historical countries; looking on the Landmarks rather as a sketch of European events, than as a history of any individual state or country, in the hope that they may be found useful in connecting other more detailed records.
+
+As an assistance to chronology, Tables of the Sovereigns of each country are given at the end, and if constantly consulted, with the assistance of either a Stream of Time, or of the lists of Contemporaries in the "Kings of England," they will, it is hoped, prevent confusion. The list of Popes is not here given, as it is to be found in the above-mentioned book.
+
+English history is only touched on so far as to show how far it was affected by the same influences as the rest of Europe.
+
+The national spelling of Christian names has been in general followed, for if each had been Anglicised, the confusion of similar names would have been serious; as, for instance, England, France, Germany, and Castile, having each had a Henry IV., greater clearness is gained by terming them respectively, Henry, Henri, Heinrich, and Enrique. It is hoped this consideration will cause the unusual spelling of some few familiar names to be excused.
+

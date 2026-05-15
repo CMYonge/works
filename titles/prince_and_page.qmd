@@ -1,0 +1,42 @@
+---
+title: "The Prince and the Page - Charlotte Mary Yonge"
+year: 1866
+slug: "prince_and_page"
+format:
+  html:
+    toc: true
+---
+
+
+###   
+**Online text of The Prince and the Page**
+
+[Click here to reach the latest version of*The Prince and the Page*from Gutenberg](http://digital.library.upenn.edu/webbin/gutbook/lookup?num=3696)  
+(Many thanks to Sandra Laythorpe and others)
+
+### The Prince and the Page
+
+#### (Text kindly supplied by Amy de Gruchy)
+
+#### Publication
+
+January  December 1865 serialized in[*The Monthly Packet*](monthly_packet.qmd), editor C. M. Yonge, publishers John and Charles Mozley  
+1866 book version published by Macmillan.  
+
+#### Contents
+
+The Prince is Prince Edward, afterwards King Edward I. The tale is concerned with the real events of his adult life, and the imaginary dealings with his cousins, the de Montfort brothers. It commences in 1265 (six centuries before the serial) soon after the battle of Evesham in which the Royalist forces under Prince Edward were victorious and Simon de Montfort was killed. One of his sons, a boy of thirteen called Wilfred in the serial and Richard in the book, survives the battle and is sheltered by an outlaw. Prince Edward finds and captures them, but spares the outlaw, and takes the boy into his service, to protect him from the evil influence of his elder brothers, Simon and Guy de Montfort. After a conflict of loyalties, Richard becomes a devoted follower of the Prince. The narrative then moves on four years. Richard rescues a young child from drowning, and finds that the blind beggar, her father, is his eldest brother, Henry de Montfort, left for dead after the battle of Evesham. Richard promises to keep his existence secret, but when he goes to the Holy Land with Prince Edward this places him under suspicion of spying for Simon and Guy de Montfort. The Prince withdraws his trust, but soon realises his error. When Simon tries to murder the prince , Richard takes the blow and dies.
+
+Prince Edward on his return to England as king, seeks out the beggar, tells him of his brother's death, and begs him to return to court, but Henry refuses. Nine years pass, his daughter, an exceedingly beautiful girl is wooed by many, but they draw back on learning that she is a beggar's child. However, a young knight, once a page like Richard, and his friend, is constant, passes the beggar's test, and marries his Bessee. The tale does not end here, but has two more episodes. In one, the king and Henry hear of the penitent death of Simon, killed defending Acre, which has fallen to the Moslems, thus ending the Christian presence in the Holy Land, though the king still hopes to lead a successful Crusade. The final scene is at the tomb of King Edward, where the beggar laments him. Richard, the page is a somewhat colourless figure, caught between loyalty to his lord and affection for his own family. C. M.Yonge had a great admiration for Edward I whom she depicts as someone very like her own father, cold and severe to all but a very few, just and religious. As with his page, his characteristics are too often described, rather than shown. This is not the case with Henry de Montfort, whose independence, bitter tongue and enjoyment of the beggar's life are shown vividly. Of the minor characters the twelve year old page John of Dunster is a real boy, and most of the other minor characters are credible.
+
+There is no moralizing over failings in this tale, but virtues of loyalty and uprightness, as exemplified in the page and the prince are stressed. C. M. Yonge accurately describes historical event; but adapts the ballad of the outlaw and of the blind beggar which occur at the beginning and towards the end of the tale to suit her own purposes. In the Preface she apologises for minor errors, but makes it clear that the purpose of the tale is enjoyment rather than instruction. This may be seen as the justification for her unhistorical account of the de Montforts.
+
+#### Further Reading
+
+For contemporary reviews see L. Madden,*J.B. Shorthouse and C.M. Yonge*, unpublished thesis, University of London Diploma in Librarianship, 1964.
+
+For C.M. Yonge's historical fiction:
+
+Alice Fairfax Lucy, 'The other Miss Yonge', in*A Chaplet for Charlotte Yonge*.  
+Edited for The Charlotte Yonge Society by Georgina Battiscombe and Marghanita Laski. The Cresset Press, London 1965
+

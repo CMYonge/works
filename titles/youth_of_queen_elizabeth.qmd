@@ -1,0 +1,11 @@
+---
+title: "Charlotte Mary Yonge"
+slug: "youth_of_queen_elizabeth"
+format:
+  html:
+    toc: true
+---
+
+
+Wiesener, Louis. La jeunesse d'Elisabeth d'Angleterre : (1533-1558) ****Paris, Hachette, 1878
+

@@ -1,0 +1,35 @@
+---
+title: "The Long Vacation"
+year: 1895
+slug: "long_vacation"
+format:
+  html:
+    toc: true
+---
+
+
+#### Online text of this book
+
+[Click here for the latest version of The Long Vacation online from Gutenberg](https://www.gutenberg.org/ebooks/5251)  
+
+### Charlotte Yonge's own Preface to***The Long Vacation***
+
+If a book by an author who must call herself a veteran should be taken up by readers of a younger generation, they are begged to consider the first few chapters as a sort of prologue, introduced for the sake of those of elder years, who were kind enough to be interested in the domestic politics of the Mohuns and the Underwoods.
+
+Continuations are proverbially failures, and yet it is perhaps a consequence of the writer's realization of characters that some seem as if they could not be parted with, and must be carried on in the mind, and not only have their after-fates described, but their minds and opinions under the modifications of advancing years and altered circumstances.
+
+Turner and other artists have been known literally to see colours in absolutely different hues as they grew older, and so no doubt it is with thinkers. The outlines may be the same, the tints are insensibly modified and altered, and the effect thus far changed.
+
+Thus it is with the writers of fiction. The young write in full sympathy with, as well as for, the young, they have a pensive satisfaction in feeling and depicting the full pathos of a tragedy, and on the other hand they delight in their own mirth, and fully share it with the beings of their imagination, or they work out great questions with the unhesitating decision of their youth.
+
+Thus the vivid fancy passes away, which the young are carried along with, and the older feel refreshed by; there is still a sense of experience, and a pleasure in tracing the perspective from another point of sight, where what was once distant has become near at hand, the earnest of many a day-dream has been gained, and more than one ideal has been tried, and merits and demerits have become apparent.
+
+And thus it is hoped that the*Long Vacation*may not be devoid of interest for readers who have sympathized in early days with Beechcroft, Stoneborough, and Vale Leston, when they were peopled with the outcome of a youthful mind, and that they may be ready to look with interest on the perplexities and successes attending on the matured characters in after years.
+
+If they will feel as if they were on a visit to friends grown older, with their children about them, and if the young will forgive the seeing with elder eyes, and observing instead of participating, that is all the veteran author would ask.
+
+C. M. YONGE.
+
+*Elderfield  
+January 31, 1895*
+

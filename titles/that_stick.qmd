@@ -1,0 +1,16 @@
+---
+title: "Details of Charlotte Yonge's novel That Stick"
+year: 1892
+slug: "that_stick"
+format:
+  html:
+    toc: true
+---
+
+
+#### Online text of this book
+
+[Click here to reach the latest version of*That Stick*online from Gutenberg](http://www.gutenberg.org/etext/20323)  
+(Many thanks to Les Bowler)  
+
+

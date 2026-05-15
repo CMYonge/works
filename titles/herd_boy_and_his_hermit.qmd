@@ -1,0 +1,10 @@
+---
+title: "The Herd-boy and his Hermit"
+year: 1900
+slug: "herd_boy_and_his_hermit"
+format:
+  html:
+    toc: true
+---
+
+

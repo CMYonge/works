@@ -1,0 +1,21 @@
+---
+title: "Charlotte Mary Yonge - Landmarks of History- Charlotte Mary Yonge - Landmarks of History - Ancient History: from from the Earliest Times to the Mahometan Conquest"
+year: 1852
+slug: "landmarks_of_history_ancient_history"
+format:
+  html:
+    toc: true
+---
+
+
+#### Online copy of this book
+
+[Click here to access a Google Books scan of an 1852 copy in Oxford's Bodleian Libary](http://www.google.com/books?printsec=frontcover&dq=landmarks%2Bof%2Bhistory%2Byonge&id=-oQBAAAAQAAJ&as_brr=1&axs=1)
+
+#### Charlotte Yonge's own Preface toLandmarks of History, Ancient History
+
+If the present volume be found to answer its purpose, it is intended to follow it up with Landmarks of Mediaeval History, beginning from the reign of Charlemagne, and reaching to the Reformation; and Landmarks of Modern History, extending from the Reformation to the present time.
+
+  
+July 14th, 1862.
+

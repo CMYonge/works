@@ -1,0 +1,20 @@
+---
+title: "Charlotte Mary Yonge - Landmarks of Recent History 1770-1883 (1883)"
+year: 1883
+slug: "landmarks_of_history_recent_events"
+format:
+  html:
+    toc: true
+---
+
+
+#### Charlotte Yonge's own Preface toLandmarks of Recent History
+
+IN accordance with wishes that have been expressed, the Landmarks of History have been continued to the present time. When the Landmarks of Modern History were brought down to the Congress of Vienna, the question arose whether they should be carried any further, and I remember the publisher, Mr. John Mozley, advising against doing so, because he felt that we were then only at the beginning of one of the great historical dramas of the world, and that the end was not yet. That was a quarter of a century ago, and we have only gone further and further on into the acts of the tragedy. Yet those who have grown up in their midst need to have a brief and accessible record of their bearings, and this I have here attempted, though very diffidently, as materials for the latter part are indeed abundant enough, but require a power of sifting which I do not possess.
+
+The recent Landmarks have been made to include the history of the first French Revolution. This was formerly part of the Modern Landmarks, but it is the true beginning of the century of changes and shocks here recorded.
+
+C. M. YONGE.
+
+29th August 1883.
+

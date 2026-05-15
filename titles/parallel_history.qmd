@@ -1,0 +1,18 @@
+---
+title: "A Parallel History of France and England by Charlotte Yonge (1871)"
+year: 1871
+slug: "parallel_history"
+format:
+  html:
+    toc: true
+---
+
+
+### Online text of*A Parallel History*
+
+[Click here to reach an illustrated online version of*A Parallel History of France and England*from the Celebration of Women Writers](http://digital.library.upenn.edu/women/yonge/history/history.html)  
+
+This book has been put on-line as part of the[BUILD-A-BOOK](http://digital.library.upenn.edu/women/instructions-2.html)Initiative at the[Celebration of Women Writers](http://digital.library.upenn.edu/women/writers.html).
+
+Originally intended as an aid for students, the information in the book is arranged in a tri-column layout: one column for events in Britain, one for France, and one for those affecting both countries. Yonge's parallel presentation, reproduced in this online version, makes it quite easy to relate events.
+

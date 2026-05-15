@@ -1,0 +1,20 @@
+---
+title: "The Carbonels - 1895 - a novel by Charlotte Mary Yonge"
+year: 1895
+slug: "carbonels"
+format:
+  html:
+    toc: true
+---
+
+
+#### Online text of this book
+
+Click here for online copies of[*The Carbonels*](https://archive.org/details/carbonels00yong/page/n7/mode/2up)from the Internet Archive (opens in new tab).  
+
+#### Manuscript of The Carbonels
+
+The Morris L. Parrish Collection of Victorian Novelists at Princeton includes the**manuscript**of*The Carbonels.*
+
+See our[Major Holdings](manuscripts_and_letters.html#parrish)page for full details of the Parrish Collection.
+

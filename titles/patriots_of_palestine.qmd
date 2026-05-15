@@ -1,0 +1,26 @@
+---
+title: "The Patriots of Palestine - A Story of the Macabees by Charlotte Yonge"
+year: 1898
+slug: "patriots_of_palestine"
+format:
+  html:
+    toc: true
+---
+
+
+#### Charlotte Yonge's Preface to*Patriots of Palestine*
+
+### Charlotte Yonge's own Preface to*Patriots of Palestine*
+
+OUR young readers may perhaps be disappointed that more individual story is not dwelt upon, but the writer was anxious that the real career of Maccabeus and his brother Eleazar should be left untouched, as it is perhaps too little known by those familiar with the rest of Jewish history, and the real interest is quite independent of fictitious dressing. If they turn to the Apocryphal books of the Maccabees they will be grateful for the tale that has sent them. The first book is indubitable history, the second does not stand criticism equally well, though probably some of the incidents are true. Our Church, following St. Jerome, declares these books as of uncertain authority, and not to be used to establish doctrine, though the historical facts are to be trusted in the first and in the second so far as they agree with other secular histories. The further narrative may be found in the third and fourth books of Maccabees, as well as in the Jewish historian Josephus, down to Gospel times.
+
+A word may be said here, on the authority of a scholar, on the surnames given to the Maccabean brothers. No one has been able to give a satisfactory interpretation, as, though the books are written in Greek, these names apparently belong to the mixed dialect spoken in Palestine after the return from the captivity at Babylon. Maccabee has been explained as the 'Hammer,' and likewise as the motto on the banner, 'Who is like to God?' Caddis, or Kaddis, may be the Aramean Kaddis, 'Holy,' but the better reading of the word is Gaddi, the same name as Leah gave to Zilpah's son, which, as the Revised Version shows, means 'the Fortunate.' There was a Syrian god called 'Fortune' or 'Gad,' and it is more likely that Johanan would be called 'Holy.' 'El Khoddis the Holy' is the name the Moslems still give to Jerusalem.
+
+Avaran may mean the 'White,' and this is more probable than the 'Beast piercer from below,' a title that would only have been bestowed after the death of Eleazar. It is Savaran in the second book, and probably all the words came in a corrupted form to the Greek writers. Complexion or dress may easily have given the sobriquet of 'White.'
+
+The 'Speaker's Commentary' explains*Thassi*as gentle,*Apphus*as dissembler, but these are not considered as capable of proof.
+
+It should be further mentioned that the conjectures of the higher criticism with regard to certain passages in the prophecies have not been accepted.  
+
+C. M. YONGE
+

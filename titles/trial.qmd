@@ -1,0 +1,31 @@
+---
+title: "Online text of The Trial: More Links of The Daisy Chain (1864) by Charlotte Mary Yonge"
+year: 1864
+slug: "trial"
+format:
+  html:
+    toc: true
+---
+
+
+###   
+**Online text of**The Trial****
+
+[Click here to reach the latest version of*The Trial*from Gutenberg](http://digital.library.upenn.edu/webbin/gutbook/lookup?num=3744)  
+(Many thanks to Sandra Laythorpe and others)
+
+#### Modern printed texts ofThe Trialhave also appeared recently
+
+Search the internet for new and used copies
+
+#### On the Trail ofThe Trial
+
+#### An account of an expedition to the Isle of Wight by a Fellowship team
+
+#### by Stephen Shell
+
+#### [Click here to read this article](review/on%20the%20trail%20of%20the%20trial.qmd)
+
+#### Published inThe Review of the Charlotte Mary Yonge Fellowship  
+Edition Number 6  Winter 1997 / 1998
+

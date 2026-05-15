@@ -1,0 +1,16 @@
+---
+title: "The Railroad Children - Charlotte Mary Yonge"
+year: 1849
+slug: "railroad children"
+format:
+  html:
+    toc: true
+---
+
+
+###   
+**Online text of The Railroad Children**
+
+[Click here to read a facsimile scan of The The railroad children](http://books.google.com/books?vid=0jcE7MpXliLfJhhU&id=qU4DAAAAQAAJ&pg=PA1&lpg=PA1&dq=charlotte%2Byonge&as_brr=1#PPP8,M1).  
+(Google scan of a Bodleian copy)
+

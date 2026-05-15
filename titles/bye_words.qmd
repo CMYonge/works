@@ -1,0 +1,37 @@
+---
+title: "Charlotte Mary Yonge - Bye-words : a collection of tales, new and old"
+year: 1880
+slug: "bye_words"
+format:
+  html:
+    toc: true
+---
+
+
+[Click here to download*Byewords*in a variety of file formats](http://ia350627.us.archive.org/2/items/byewordsacollec01yonggoog/)
+
+#### Contents
+
+The boy bishop  
+(published in[The Monthly Packet](monthly_packet.qmd), Christmas 1878)
+
+One will and three ways  
+(published in[The Monthly Packet](monthly_packet.qmd), Christmas 1877)
+
+Kaspar's summer dream  
+(published in[The Monthly Packet](monthly_packet.qmd), Christmas 1876)
+
+Buy a broom
+
+The travels of two kits
+
+Selma's secret sighs
+
+Our ghost at Fantford
+
+Anna's wedding cake
+
+Autobiography of Patty Applecheeks
+
+A holiday engagement, or, The Campbells are coming.
+

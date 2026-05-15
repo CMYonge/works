@@ -1,0 +1,14 @@
+---
+title: "Charlotte Yonge's Book of Worthies (1869) - online text"
+year: 1869
+slug: "a book of worthies"
+format:
+  html:
+    toc: true
+---
+
+
+**Online illustrated and plain texts**
+
+### Online texts of*A Book of Worthies*
+

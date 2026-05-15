@@ -1,0 +1,15 @@
+---
+title: "Modern Broods - by Charlotte Yonge"
+year: 1900
+slug: "modern_broods"
+format:
+  html:
+    toc: true
+---
+
+
+#### Online text ofModern Broods
+
+Click here for the latest version of*[Modern Broods](https://www.gutenberg.org/ebooks/7191)*online from Gutenberg  
+(Many thanks to David Price and others)
+

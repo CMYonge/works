@@ -1,0 +1,15 @@
+---
+title: "Langley School"
+slug: "langley_school"
+format:
+  html:
+    toc: true
+---
+
+
+#### Online text of:Langley School
+
+A Google scan of an 1850 edition at Bodley is currently (March 2008) available on Google. A PDF version is also available for download from the Google webpage.
+
+[Click here to see the text](http://books.google.co.uk/books?id=0a8NAAAAQAAJ&printsec=frontcover&dq=charlotte%2Bmary%2Byonge&lr=&as_brr=1#PPP7,M1)
+

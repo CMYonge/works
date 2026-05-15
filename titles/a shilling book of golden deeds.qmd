@@ -1,0 +1,16 @@
+---
+title: "A Shilling Book of Golden Deeds - by Charlotte Mary Yonge(1864)"
+year: 1867
+slug: "a shilling book of golden deeds"
+format:
+  html:
+    toc: true
+---
+
+
+### **Online text of*****A Shilling Book of Golden Deeds****  
+*  
+This is a**Google scan of a Bodley copy**
+
+### [Click here to read or download](http://books.google.com/books?id=GdgBAAAAQAAJ&printsec=toc#PPA3,M1)
+

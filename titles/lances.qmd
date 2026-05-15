@@ -1,0 +1,97 @@
+---
+title: "The Lances of Lynwood by Charlotte Mary Yonge"
+year: 1855
+slug: "lances"
+format:
+  html:
+    toc: true
+---
+
+
+###   
+**Online text of*The Lances of Lynwood***
+
+[Click here to reach***The Lances of Lynwood***](https://www.gutenberg.org/ebooks/4364)  
+
+(Text kindly supplied by Amy de Gruchy)
+
+Publication
+
+January1853  December 1854, serialised in[*The Monthly Packet*](monthly_packet.qmd), editor C.M.Yonge, publishers John and Charles Mozley  
+1855 book published by Parker and Son, price seven shillings and sixpence.  
+Numerous later editions.
+
+First editions well printed on good paper with illustrations.  
+Presumably aimed at same class of reader as The Little Duke but slightly higher age range.  
+
+#### Contents
+
+The story is set in the reign of Edward III. The hero, Eustace Lynwood accompanies his elder brother and his troop, the Lances of Lynwood, to France, and with them joins the Black Prince in his expedition to Spain. There Eustace distinguishes himself, is knighted, and on the death of his brother in battle becomes the leader of the troop, a difficult post. When the English army returns to France the troop is disbanded, and some time later Eustace returns to England to rescue his brother's young son, in danger from an enemy of the family. He takes the boy to the court of the Black Prince in France, but falls under suspicion himself. He loses the favour of the Prince, and is sent to a post of great danger. He survives the peril and the story ends with his marriage to the gentle sister of the family enemy.
+
+Eustace is portrayed as quiet, modest and scholarly, but brave, determined and above all loyal, a family trait, which has often cost them dear. He has no faults needing correction, but has to learn how to cope with new situations. There is a large cast of historical figures, well-drawn minor characters, whose actions affect the hero's fortunes. There are also a number of fictitious characters, such as the gallant Gascon squire and the boorish Somerset one who see, to be the stock of historical fiction.
+
+In this tale Yonge does not moralize over failings, but emphasizes a virtue, loyalty, exemplified in the hero, who remains loyal even when unjustly treated.
+
+Her historical information was partly drawn from a French chronicle, but mainly from the history of**[Froissart](http://www.nipissingu.ca/department/history/muhlberger/froissart/tales.htm)**, which she hoped her readers would study for themselves.
+
+The book resembles[***The Little Duke***](little_duke.qmd)in that it falls into two parts, but unlike the latter, the second part is as interesting as the first, though lacking the historical inevitability found In the earlier tale.
+
+The book has one addition to the serial, a Gascon legend. It also has numerous stylistic alterations.  
+
+#### Further Reading
+
+For contemporary reviews see L. Madden,*J.B. Shorthouse and C.M. Yonge*, unpublished thesis, University of London Diploma in Librarianship, 1964.
+
+For C.M. Yonge's historical fiction:
+
+Alice Fairfax Lucy, 'The other Miss Yonge', in*A Chaplet for Charlotte Yonge*.  
+Edited for The Charlotte Yonge Society by Georgina Battiscombe and Marghanita Laski. The Cresset Press, London 1965
+
+L.A. de Gruchy, 'C.M. Yonge's historical novels - the influence of Scott', 1837-1901:  
+*Journal of the Loughborough Victorian Studies Group*, no. 5, October 1980, pp. 30-49.
+
+L.A. de Gruchy,*The Monthly Packet*, unpublished thesis, University of London, 1986, p. 153 et seq.  
+
+***Back to top of page***
+
+### **From: The Saturday Review  
+Dec. 8, 1855 p102-3**  
+
+NUMEROUS as are the books written specially for the amusement and instruction of young people, it is impossible to look over a shelf of them without being painfully convinced that, for the most part, they are miserable failures. How childish - a very different thing from childlike - are some, how weak and twaddling are others! How dry and uninteresting those that aim at cultivating the understanding, how full of mawkish religious sentimentality and morbid feeling those that address themselves to the heart! With what wretched food is the imagination supplied, how unreal are the stories in which impossible paragons of perfection serve no other purpose than to run the risk of exciting the dislike of healthy-natured children to goodness itself! That children love the purely ideal is evident from the delight they take in fairy tales. But even these would lose their charm if the opposing principles of good and evil were not always represented; and though they will be content that in fairy natures, which they instinctively feel to be different from their own, the struggle between the two principles should not always take place in the same person, they will never be satisfied with, take any interest in, or derive any good from attempted pictures of real life, unless they can see either the actual struggle or its fruits exhibited in every character of the story.
+
+Amongst the most admirable books that have ever been written for children, we shall not very greatly err in giving the highest place to those of Sir Walter Scott. And if we would seek to discover the secret of the success of his*Tales of a Grandfather*, we believe that we should find it mainly to consist in the tone of chivalry with which they are imbued. The young are by nature chivalrous, and it is in the apparent impossibility of extinguishing this spirit altogether that our principal hope for future generations lies. Anything, therefore, that adds fuel to the flame is most acceptable, and we hail, with peculiar thankfulness, every attempt to cherish and increase in their hearts a feeling so noble, so pure, and so unworldly - one which, in after life, will be among the surest safeguards against evil, and the best incentives to good. For this reason we cordially welcome The*Lances of Lynwood*, which we are sure will be read by the young (and not by the young alone) with as earnest an interest and as deep a delight as its predecessor, the*Little Duke*, which we have seen children listening to with half open mouth and eager eye, and all the signs of interested and abstracted attention. To give an outline of the story would be but to destroy the freshness of its interest for the reader. Suffice it to say that the scene is laid partly in France and partly in England, that the characters belong to one of the most stirring and prosperous periods of English History - the reign of Edward III. - and that the hero, young Eustace Lynwood, although he is almost perfection, never becomes uninteresting, but from first to last, through all his trials and difficulties, has our heartiest sympathy and our most earnest wishes for his welfare. "Tender and true, brave and loving, with a spirit as high as a Paladin's of old, a hand as deft at writing as a clerk's, and a heart as soft as a woman's," we have a right to look for great things from him, and we are never disappointed.
+
+Some portions of the book - especially that in which the young Sir Eustace is appointed governor of the Chateau de Norbelle, which his enemies have found means of filling with a treacherous garrison - remind us strongly of*Ivanhoe*; and that the author does not suffer by the comparison will, we think, be evident from the following quotation, in which the wounded Sir Eustace is represented as lying on his pallet, listening to the fight that is going on outside:
+
+Sir Eustace heard the loud cries of "Montjoie St. Denis! Clisson!" on the one side, and the "St. George for Merry England! a Lynwood!" with which his own party replied; he heard the thundering of heavy stones, the rush of combatants, the cries of victory or defeat. Sometimes his whole being seemed in the fight; he clenched his teeth, he shouted his war-cry, tried to raise himself and lift his powerless arm; then returned again to the consciousness of his condition, clasped either the rosary or the crucifix, and turned his soul to fervent prayer; then again the strange wild cries without confounded themselves into one maddening noise on his feverish ear, or in the confusion of his weakened faculties, he would, as it were, believe himself to be his brother dying on the field of Navaretta, and scarce be able to rouse himself to a feeling of his own identity.
+
+This Gaston D'Aubricour, by the way, is one of the best drawn characters in the story, and it requires but little acquaintance with the old chronicles of the times to feel how lifelike a portrait it is. Then there is Leonard Ashton, a type of a lower nature, a spirited sketch of Bertrand du Guesclin, and a lovely picture of Arthur Lynwood, Eustace's nephew; and of ladies, we have Arthur's mother and the maiden of Eustace's love, both perfect of their kind. The local colouring is never lost sight of, and the language, though removed from quaintness and not burdened with obsolete words, sufficiently resembles that in use at the period to be in harmony with the speakers.
+
+We have but one more remark to make, which is, that our readers need only pass in review the works of the author of the*Lances of Lynwood*to be convinced of the truth of our axiom that genius can become all things to all men. The hand that drew with such delicate refinement the exquisite portrait of Violet Martindale is the same that portrayed with such masterly pencil the Heir of Redclyffe. The pen that gave us such a beautiful sketch of child-life in modern days in the*Castle Builders*, shows itself equally at home in gone-by times and amid the most exciting scenes of English history, as pictured in the story of the*Little Duke*and of the*Lances of Lynwood*; and difficult indeed we should find it to decide whether to her domestic cabinet pictures or to her historical sketches the palm ought to be assigned.
+
+Our notice of the*Lances of Lynwood*would scarcely be complete without some allusion to the illustrations by which it is accompanied. These strike us as being most masterly and beautiful, full alike of power and grace. We can scarcely glance at them without being reminded of the great advance which has been made within the last twenty years in the illustration of children's books. Formerly, we seem to have thought it a matter of no consequence how careless, how untrue to nature, how vulgar and absolutely repulsive, were the pictures with which we disfigured them. Happily for the present generation, we appear to have at last awakened to the consciousness that, if we expect the young to have refined tastes, and to appreciate beauty when they grow up, it is necessary that from their very earliest years we should set before them examples of the very highest kinds of beauty, and surround them with things that are really calculated to delight the eye for ever.
+
+#### The Lances of Lynwood  
+by Mrs. Julia C. R. Dorr
+
+#### in The North American review  
+Volume 82, Issue 171, April 1856  
+page 578
+
+Had The Lances of Lynwood been the first of Miss Yonge's novels, it would have seemed to us a work of singular talent, skill, and promise. But it falls below the expectations which she herself has authorized. The reason probably is, that the glow of composition was somewhat chilled, and the free expression of sentiment checked, by the incessant endeavor to shun anachronisms. The plot is laid in the days, and to a considerable extent in the camp, of the Black Prince. The story, though bristling with arms, glorifies the gentler virtues that redeem, rather than the passions that govern, epochs of violence and scenes of carnage; and Eustace Lynwood, the chief personage, the most valiant knight in his princes retinue, in all meek Christian graces, in the lesser amenities and charities of daily intercourse, and in what men, to their shame, are wont to designate as womanly tenderness, yields not even to Yiolet in Heartsease. Yet we cannot help feeling that the rude and stern exteriors of life in those unsettled times have constrained and cramped the writers genius, as must his first suit of armor the limbs of the studious and clerkly youth, her hero.
+
+#### The North American review
+
+#### Volume 82, Issue 171, April 1856: pp 578-9
+
+#### The Lances of Linwood. By the author of "The Little Duke," Heartsease," "Heir of Redclyffe," &c..
+
+#### 1. The Lances of Lynwood. By the Author of The LittleDuke, Heartsease, Heir of Redelyffe, &c.  
+New York: ID. Appleton & Co. 1856. 24mo. pp. 277.
+
+#### 2. Rachel Gray: a Tale founded on Fact. By JULIA KAVANAGH. New York: D. Appleton & Co. 1856. 24mo. pp. 308.
+
+#### 3. Lanmere. By Mrs. JULIA C. R. DORR. New York: Mason Brothers. 1856. 24mo. pp. 447.
+
+WE select these from among the novels received since our last issue, not because we know that they are the best, but because we have read them. With regard to all the rest, we are in the condition so happily free from prejudice, which, according to Sydney Smith, would qualify us to review them. Had The Lances of Lynwood been the first of Miss Yonges novels, it would have seemed to us a work of singular talent, skill, and promise. But it falls below the expectations which she herself has authorized. The reason probably is, that the glow of composition was somewhat chilled, and the free expression of sentiment checked, by the incessant endeavor to shun anachronisms. The plot is laid in the days, and to a considerable extent in the camp, of the Black Prince. The story, though bristling with arms, glorifies the gentler virtues that redeem, rather than the passions that govern, epochs of violence and scenes of carnage; and Eustace Lynwood, the chief personage, the most valiant kni ~ht in his princes retinue, in all meek Christian graces, in the lesser amenities and charities of daily intercourse, and in what men, to their shame, are wont to designate as womanly tenderness, yields not even to Yiolet in Heartsease. Yet we cannot help feeling that the rude and stern exteriors of life in those unsettled times have constrained and cramped the writers genius, as must his first suit of armor the limbs of the studious and clerkly youth, her hero.Rachel Gray reminds us of Pleyels Hymn, which produces the most exquisite melody by the simplest arrangement of a very few notes on the minor key. Rachel is an obscure, illiterate, unattractive needlewoman, dull of comprehension and awkward in speech, living in one of the dingy and decayin~ suhurbs of London; and the story is the record of the struggles and trials of her uneventful life, and of like straitnesses and sorrows in the little circle around her, in which hers is the one queenly spirit, always firm, brave, and helpful, because her conscious feebleness is supplemented by the might of religious faith and the unfailing efficacy of prayer. From these slender materials is constructed a tale of engrossing interest, and, yet more, a series of grace ful and unohtrusive lessons in the science of holy living. Is not the power of Christianity so to transfigure and glorify the lowliest personages and the paltriest incidents one of the most luculent tokens of its divinity? There must be greatness of station, circumstance, achievement, wisdom, or culture to constitute the hero or heroine of Pagan or non-religious fiction, while the Christian literary artist needs but to wave his wand over the very dust-heaps of humanity to turn the clods into diamonds.
+

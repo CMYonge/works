@@ -1,0 +1,25 @@
+---
+title: "Gold Dust - Charlotte Mary Yonge"
+year: 1880
+slug: "gold_dust"
+format:
+  html:
+    toc: true
+---
+
+
+### [Click here to reach the online text of*Gold Dust*in various formats](http://www.archive.org/details/golddust00yongiala)
+
+#### Yonge's Preface to Gold Dust
+
+This little book is a translation from a collection of devotional thoughts published in France under the title of "Paillettes d'Or." It is necessarily a selection, since the gold dust which suits French readers requires a fresh sifting for the English; but the value of most of the thoughts seems to me well to deserve the term of gold. There are many who will much enjoy having  
+this little collection on their table, so as to be able to take it up and dwell upon some one of its grains at leisure times throughout the day's business.  
+C. M. YONGE.
+
+### The following details from a library catalogue:
+
+### Gold dust : a collection of golden counsels for the sanctification of daily life /  
+translated and abridged from the French by E. L. E. B. [ i.e. C. M. Yonge ]
+
+### "A translation from a collection of devotional thoughts published in France under the title of Paillettes d'Or."
+

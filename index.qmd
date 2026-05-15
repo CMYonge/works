@@ -1,0 +1,8 @@
+---
+title: "Charlotte M. Yonge — Works"
+listing:
+  contents: "titles/*.qmd"
+  type: table
+  fields: [title, year]
+  sort: "title asc"
+---

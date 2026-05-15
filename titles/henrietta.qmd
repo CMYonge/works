@@ -1,0 +1,20 @@
+---
+title: "Details of Charlotte Yonge's novel Henrietta's Wish, or Domineering"
+year: 1850
+slug: "henrietta"
+format:
+  html:
+    toc: true
+---
+
+
+[Click this link for an on-line copy (1899 edition) of*Henrietta's Wish*,  
+from the Internet Archive  
+](https://archive.org/details/henriettaswish00yonguoft/page/n3/mode/2up)
+
+#### The novel starts ....
+
+ON the afternoon of a warm day in the end of July, an open carriage was waiting in front of the painted toy-looking building which served as the railway station of Teignmouth. The fine bay horses stood patiently enduring the attacks of hosts of winged foes, too well-behaved to express their annoyance otherwise than by twitchings of their sleek shining skins, but duly grateful to the coachman, who roused himself now and then to whisk off some more pertinacious tormentor with the end of his whip.
+
+Less patient was the sole occupant of the carriage, a maiden of about sixteen years of age, whose shady dark grey eyes, parted lips, and flushed complexion, were all full of the utmost eagerness, as every two or three minutes she looked up from the book which she held in her hand to examine the clock over the station door, compare it with her watch, and study the countenances of the bystanders to see whether they expressed any anxiety respecting the non-arrival of the train. All, however, seemed quite at their ease, and after a time the arrival of the railway omnibus and two or three other carriages, convinced her that the rest of the world only now began to consider it to be due. At last the ringing of a bell quickened everybody into a sudden state of activity, and assured her that the much-desired moment was come. The cloud of smoke was seen, the panting of the engine was heard, the train displayed its length before the station, men ran along tapping the doors of the carriages, and shouting a word which bore some distant resemblance to "Teignmouth," and at the same moment various travellers emerged from the different vehicles.
+
