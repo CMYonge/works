@@ -2,6 +2,7 @@
 title: "Lady Hester, or, Ursula's Narrative"
 sort_title: "Lady Hester, or, Ursula's Narrative"
 year: 1874
+subtitle: "1874"
 gutenberg_url: "https://www.gutenberg.org/ebooks/4659"
 slug: "lady_hester"
 format:

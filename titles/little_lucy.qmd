@@ -2,6 +2,7 @@
 title: "Little Lucy's Wonderful Globe"
 sort_title: "Little Lucy's Wonderful Globe"
 year: 1871
+subtitle: "1871"
 gutenberg_url: "https://www.gutenberg.org/ebooks/4538"
 slug: "little_lucy"
 format:

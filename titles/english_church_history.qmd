@@ -2,6 +2,7 @@
 title: "English Church History"
 sort_title: "English Church History"
 year: 1883
+subtitle: "1883"
 slug: "english_church_history"
 format:
   html:

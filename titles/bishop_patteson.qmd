@@ -2,6 +2,7 @@
 title: "Life of John Coleridge Patteson, Missionary Bishop of the Melanesian Islands"
 sort_title: "Life of John Coleridge Patteson, Missionary Bishop of the Melanesian Islands"
 year: 1873
+subtitle: "1873"
 gutenberg_url: "https://www.gutenberg.org/ebooks/4952"
 slug: "bishop_patteson"
 format:

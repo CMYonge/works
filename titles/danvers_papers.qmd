@@ -2,6 +2,7 @@
 title: "The Danvers Papers"
 sort_title: "Danvers Papers"
 year: 1867
+subtitle: "1867"
 slug: "danvers_papers"
 format:
   html:

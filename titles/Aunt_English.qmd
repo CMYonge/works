@@ -2,6 +2,7 @@
 title: "Aunt Charlotte's Stories of English History for the Little Ones"
 sort_title: "Aunt Charlotte's Stories of English History for the Little Ones"
 year: 1873
+subtitle: "1873"
 gutenberg_url: "https://www.gutenberg.org/ebooks/4769"
 slug: "Aunt_English"
 format:

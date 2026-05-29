@@ -2,6 +2,7 @@
 title: "Marie Thérèse de Lamourous"
 sort_title: "Marie Thérèse de Lamourous"
 year: 1858
+subtitle: "1858"
 slug: "marie_therese_de_lamourous"
 format:
   html:

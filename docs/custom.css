@@ -14,3 +14,8 @@ display: none;
 max-width: 860px;
 margin: auto;
 }
+
+.subtitle {
+  font-size: 1.15rem;
+  font-weight: bold;
+}

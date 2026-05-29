@@ -2,6 +2,7 @@
 title: "The Carbonels"
 sort_title: "Carbonels"
 year: 1895
+subtitle: "1895"
 slug: "carbonels"
 format:
   html:

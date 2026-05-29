@@ -2,6 +2,7 @@
 title: "Pioneers and Founders"
 sort_title: "Pioneers and Founders"
 year: 1871
+subtitle: "1871"
 slug: "pioneers and founders"
 format:
   html:

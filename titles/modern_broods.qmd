@@ -2,6 +2,7 @@
 title: "Modern Broods"
 sort_title: "Modern Broods"
 year: 1900
+subtitle: "1900"
 gutenberg_url: "https://www.gutenberg.org/ebooks/7191"
 slug: "modern_broods"
 format:

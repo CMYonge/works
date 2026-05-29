@@ -2,6 +2,7 @@
 title: "The Two Sides of the Shield"
 sort_title: "Two Sides of the Shield"
 year: 1885
+subtitle: "1885"
 gutenberg_url: "https://www.gutenberg.org/ebooks/6007"
 slug: "two_sides_of_the_shield"
 format:

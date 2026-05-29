@@ -2,6 +2,7 @@
 title: "Grisly Grisell"
 sort_title: "Grisly Grisell"
 year: 1893
+subtitle: "1893"
 slug: "grisly_grisell"
 format:
   html:

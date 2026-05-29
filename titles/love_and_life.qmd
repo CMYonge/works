@@ -2,6 +2,7 @@
 title: "Love and Life: An Old Story in Eighteenth Century Costume"
 sort_title: "Love and Life: An Old Story in Eighteenth Century Costume"
 year: 1880
+subtitle: "1880"
 gutenberg_url: "https://www.gutenberg.org/ebooks/5700"
 slug: "love_and_life"
 format:

@@ -2,6 +2,7 @@
 title: "The Making of a Missionary, or, Daydreams in Earnest"
 sort_title: "Making of a Missionary, or, Daydreams in Earnest"
 year: 1890
+subtitle: "1890"
 slug: "making of a missionary"
 format:
   html:

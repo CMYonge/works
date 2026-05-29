@@ -2,6 +2,7 @@
 title: "The Pillars of the House, or Under Wode, Under Rode"
 sort_title: "Pillars of the House, or Under Wode, Under Rode"
 year: 1873
+subtitle: "1873"
 gutenberg_url: "https://www.gutenberg.org/ebooks/6331"
 slug: "pillars_of_the_house"
 format:

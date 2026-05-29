@@ -2,6 +2,7 @@
 title: "John Keble's Parishes: A History of Hursley and Otterbourne"
 sort_title: "John Keble's Parishes: A History of Hursley and Otterbourne"
 year: 1898
+subtitle: "1898"
 gutenberg_url: "https://www.gutenberg.org/ebooks/6405"
 slug: "john_keble_parishes"
 format:

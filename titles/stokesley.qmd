@@ -2,6 +2,7 @@
 title: "The Stokesley Secret"
 sort_title: "Stokesley Secret"
 year: 1861
+subtitle: "1861"
 gutenberg_url: "https://www.gutenberg.org/ebooks/3411"
 slug: "stokesley"
 format:

@@ -2,6 +2,7 @@
 title: "The Three Brides"
 sort_title: "Three Brides"
 year: 1876
+subtitle: "1876"
 slug: "three brides"
 format:
   html:

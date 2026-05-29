@@ -2,6 +2,7 @@
 title: "Womankind"
 sort_title: "Womankind"
 year: 1877
+subtitle: "1877"
 slug: "womankind"
 format:
   html:

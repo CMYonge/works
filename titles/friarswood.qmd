@@ -2,6 +2,7 @@
 title: "Friarswood Post-Office"
 sort_title: "Friarswood Post-Office"
 year: 1860
+subtitle: "1860"
 gutenberg_url: "https://www.gutenberg.org/ebooks/4296"
 slug: "friarswood"
 format:

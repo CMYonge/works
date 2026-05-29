@@ -2,6 +2,7 @@
 title: "The Cunning Woman's Grandson"
 sort_title: "Cunning Woman's Grandson"
 year: 1889
+subtitle: "1889"
 slug: "cunning_woman"
 format:
   html:

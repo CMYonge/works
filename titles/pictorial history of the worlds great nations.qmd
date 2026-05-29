@@ -2,6 +2,7 @@
 title: "A Pictorial History of the World's Great Nations"
 sort_title: "Pictorial History of the World's Great Nations"
 year: 1882
+subtitle: "1882"
 slug: "pictorial history of the worlds great nations"
 format:
   html:

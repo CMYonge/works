@@ -2,6 +2,7 @@
 title: "Ben Sylvester's Word"
 sort_title: "Ben Sylvester's Word"
 year: 1856
+subtitle: "1856"
 slug: "Ben Sylvester's Word"
 format:
   html:

@@ -2,6 +2,7 @@
 title: "Heartsease"
 sort_title: "Heartsease"
 year: 1854
+subtitle: "1854"
 gutenberg_url: "https://www.gutenberg.org/ebooks/2601"
 slug: "heartsease"
 format:

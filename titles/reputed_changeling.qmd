@@ -2,6 +2,7 @@
 title: "A Reputed Changeling, or, Three Seventh Years Two Centuries Ago"
 sort_title: "Reputed Changeling, or, Three Seventh Years Two Centuries Ago"
 year: 1889
+subtitle: "1889"
 slug: "reputed_changeling"
 format:
   html:

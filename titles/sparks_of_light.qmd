@@ -2,6 +2,7 @@
 title: "Sparks of Light for Every Day"
 sort_title: "Sparks of Light for Every Day"
 year: 1881
+subtitle: "1881"
 slug: "sparks_of_light"
 format:
   html:

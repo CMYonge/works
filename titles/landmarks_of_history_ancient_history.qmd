@@ -2,6 +2,7 @@
 title: "Landmarks of History, Part I: Ancient History"
 sort_title: "Landmarks of History, Part I: Ancient History"
 year: 1852
+subtitle: "1852"
 slug: "landmarks_of_history_ancient_history"
 format:
   html:

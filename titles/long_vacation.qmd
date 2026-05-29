@@ -2,6 +2,7 @@
 title: "The Long Vacation"
 sort_title: "Long Vacation"
 year: 1895
+subtitle: "1895"
 gutenberg_url: "https://www.gutenberg.org/ebooks/5251"
 slug: "long_vacation"
 format:

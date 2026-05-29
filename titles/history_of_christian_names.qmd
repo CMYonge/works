@@ -2,6 +2,7 @@
 title: "History of Christian Names"
 sort_title: "History of Christian Names"
 year: 1863, 1884
+subtitle: "1863, 1884"
 slug: "history_of_christian_names"
 format:
   html:

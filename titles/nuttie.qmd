@@ -2,6 +2,7 @@
 title: "Nuttie's Father"
 sort_title: "Nuttie's Father"
 year: 1885
+subtitle: "1885"
 gutenberg_url: "https://www.gutenberg.org/ebooks/4053"
 slug: "nuttie"
 format:

@@ -2,6 +2,7 @@
 title: "The Trial: More Links of the Daisy Chain"
 sort_title: "Trial: More Links of the Daisy Chain"
 year: 1864
+subtitle: "1864"
 gutenberg_url: "https://www.gutenberg.org/ebooks/3744"
 slug: "trial"
 format:

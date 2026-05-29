@@ -2,6 +2,7 @@
 title: "The Herd-Boy and His Hermit"
 sort_title: "Herd-Boy and His Hermit"
 year: 1900
+subtitle: "1900"
 gutenberg_url: "https://www.gutenberg.org/ebooks/5313"
 slug: "herd_boy_and_his_hermit"
 format:

@@ -14,3 +14,5 @@ format:
     theme: cosmo
     css: custom.css
     toc: false
+    template-partials:
+      - title-block.html

@@ -2,6 +2,7 @@
 title: "The Story of the Christians and the Moors in Spain"
 sort_title: "Story of the Christians and the Moors in Spain"
 year: 1878
+subtitle: "1878"
 slug: "story_of_christians"
 format:
   html:

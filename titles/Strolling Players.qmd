@@ -2,6 +2,7 @@
 title: "Strolling Players: A Harmony of Contrasts"
 sort_title: "Strolling Players: A Harmony of Contrasts"
 year: 1893
+subtitle: "1893"
 slug: "Strolling Players"
 format:
   html:

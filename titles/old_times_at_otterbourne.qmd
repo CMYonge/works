@@ -2,6 +2,7 @@
 title: "Old Times at Otterbourne"
 sort_title: "Old Times at Otterbourne"
 year: 1891
+subtitle: "1891"
 slug: "old_times_at_otterbourne"
 format:
   html:

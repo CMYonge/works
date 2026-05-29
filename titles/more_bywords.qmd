@@ -2,6 +2,7 @@
 title: "More Bywords"
 sort_title: "More Bywords"
 year: 1890
+subtitle: "1890"
 slug: "more_bywords"
 format:
   html:

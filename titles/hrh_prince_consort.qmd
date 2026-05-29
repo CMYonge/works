@@ -2,6 +2,7 @@
 title: "Life of H.R.H. the Prince Consort"
 sort_title: "Life of H.R.H. the Prince Consort"
 year: 1890
+subtitle: "1890"
 slug: "hrh_prince_consort"
 format:
   html:

@@ -2,6 +2,7 @@
 title: "That Stick"
 sort_title: "That Stick"
 year: 1892
+subtitle: "1892"
 slug: "that_stick"
 format:
   html:

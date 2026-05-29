@@ -2,6 +2,7 @@
 title: "Talks About the Laws We Live Under, or, at Langley Night School"
 sort_title: "Talks About the Laws We Live Under, or, at Langley Night School"
 year: 1882
+subtitle: "1882"
 slug: "talks about the laws we live under, or, Langley night school"
 format:
   html:

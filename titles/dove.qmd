@@ -2,6 +2,7 @@
 title: "The Dove in the Eagle's Nest"
 sort_title: "Dove in the Eagle's Nest"
 year: 1866
+subtitle: "1866"
 gutenberg_url: "https://www.gutenberg.org/ebooks/3139"
 slug: "dove"
 format:

@@ -2,6 +2,7 @@
 title: "The Constable's Tower, or, the Times of Magna Carta"
 sort_title: "Constable's Tower, or, the Times of Magna Carta"
 year: 1891
+subtitle: "1891"
 slug: "constables tower"
 format:
   html:

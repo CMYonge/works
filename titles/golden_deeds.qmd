@@ -2,6 +2,7 @@
 title: "The Book of Golden Deeds"
 sort_title: "Book of Golden Deeds"
 year: 1864
+subtitle: "1864"
 gutenberg_url: "http://onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=6489"
 slug: "golden_deeds"
 format:

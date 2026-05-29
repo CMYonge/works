@@ -2,6 +2,7 @@
 title: "Dames of High Estate"
 sort_title: "Dames of High Estate"
 year: 1872
+subtitle: "1872"
 slug: "dames_of_high_estate"
 format:
   html:

@@ -2,6 +2,7 @@
 title: "Hopes and Fears, or, Scenes from the Life of a Spinster"
 sort_title: "Hopes and Fears, or, Scenes from the Life of a Spinster"
 year: 1860
+subtitle: "1860"
 slug: "hopes_fears"
 format:
   html:

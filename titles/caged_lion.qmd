@@ -2,6 +2,7 @@
 title: "The Caged Lion"
 sort_title: "Caged Lion"
 year: 1868-9, 1870
+subtitle: "1868-9, 1870"
 gutenberg_url: "https://www.gutenberg.org/ebooks/2573"
 slug: "caged_lion"
 format:

@@ -2,6 +2,7 @@
 title: "New Ground"
 sort_title: "New Ground"
 year: 1868
+subtitle: "1868"
 slug: "New Ground"
 format:
   html:

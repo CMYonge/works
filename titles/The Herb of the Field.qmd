@@ -2,6 +2,7 @@
 title: "The Herb of the Field"
 sort_title: "Herb of the Field"
 year: 1853
+subtitle: "1853"
 slug: "The Herb of the Field"
 format:
   html:

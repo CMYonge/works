@@ -2,6 +2,7 @@
 title: "The Disturbing Element, or, Chronicles of the Blue-Bell Society"
 sort_title: "Disturbing Element, or, Chronicles of the Blue-Bell Society"
 year: 1878
+subtitle: "1878"
 slug: "disturbing element, or, chronicles of the Blue-Bell Society"
 format:
   html:

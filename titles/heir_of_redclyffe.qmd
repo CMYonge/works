@@ -2,6 +2,7 @@
 title: "The Heir of Redclyffe"
 sort_title: "Heir of Redclyffe"
 year: 1853
+subtitle: "1853"
 slug: "heir_of_redclyffe"
 format:
   html:

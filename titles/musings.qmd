@@ -2,6 +2,7 @@
 title: "Musings over the Christian Year and Lyra Innocentium"
 sort_title: "Musings over the Christian Year and Lyra Innocentium"
 year: 1871
+subtitle: "1871"
 slug: "musings"
 format:
   html:

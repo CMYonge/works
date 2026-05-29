@@ -2,6 +2,7 @@
 title: "The Armourer's 'Prentices"
 sort_title: "Armourer's 'Prentices"
 year: 1883-1884
+subtitle: "1883-1884"
 gutenberg_url: "https://www.gutenberg.org/ebooks/9959"
 slug: "armourers_prentices"
 format:
@@ -9,7 +10,9 @@ format:
     toc: true
 ---
 
-
+::: {style="text-align: center;"}
+![Alt text](../images/armourers_title.jpg){width=40%}
+:::
 
 
 ### Publication details, summary and further reading

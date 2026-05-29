@@ -2,6 +2,7 @@
 title: "The Castle Builders or the Deferred Confirmation"
 sort_title: "Castle Builders or the Deferred Confirmation"
 year: 1854
+subtitle: "1854"
 slug: "castle_builders"
 format:
   html:

@@ -2,6 +2,7 @@
 title: "Landmarks of History, Part II: Middle Ages"
 sort_title: "Landmarks of History, Part II: Middle Ages"
 year: 1853
+subtitle: "1853"
 slug: "landmarks_of_history_middle_ages"
 format:
   html:

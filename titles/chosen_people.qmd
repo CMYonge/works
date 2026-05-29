@@ -2,6 +2,7 @@
 title: "The Chosen People"
 sort_title: "Chosen People"
 year: 1862
+subtitle: "1862"
 slug: "chosen_people"
 format:
   html:

@@ -2,6 +2,7 @@
 title: "Memoirs of Colonel Bugeaud"
 sort_title: "Memoirs of Colonel Bugeaud"
 year: 1884
+subtitle: "1884"
 slug: "memoires_of_colonel_bugeaud"
 format:
   html:

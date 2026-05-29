@@ -2,6 +2,7 @@
 title: "Magnum Bonum, or, Mother Carey's Brood"
 sort_title: "Magnum Bonum, or, Mother Carey's Brood"
 year: 1879
+subtitle: "1879"
 gutenberg_url: "https://www.gutenberg.org/ebooks/5080"
 slug: "magnum_bonum"
 format:

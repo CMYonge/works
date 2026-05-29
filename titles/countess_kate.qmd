@@ -2,6 +2,7 @@
 title: "Countess Kate"
 sort_title: "Countess Kate"
 year: 1862
+subtitle: "1862"
 gutenberg_url: "https://www.gutenberg.org/ebooks/3259"
 slug: "countess_kate"
 format:

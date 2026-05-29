@@ -2,6 +2,7 @@
 title: "Hannah More"
 sort_title: "Hannah More"
 year: 1888
+subtitle: "1888"
 slug: "hannah_more"
 format:
   html:

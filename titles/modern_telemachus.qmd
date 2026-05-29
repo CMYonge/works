@@ -2,6 +2,7 @@
 title: "A Modern Telemachus"
 sort_title: "Modern Telemachus"
 year: 1886
+subtitle: "1886"
 gutenberg_url: "https://www.gutenberg.org/ebooks/4271"
 slug: "modern_telemachus"
 format:

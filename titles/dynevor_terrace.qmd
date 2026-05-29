@@ -2,6 +2,7 @@
 title: "Dynevor Terrace"
 sort_title: "Dynevor Terrace"
 year: 1857
+subtitle: "1857"
 gutenberg_url: "https://www.gutenberg.org/ebooks/4235"
 slug: "dynevor_terrace"
 format:

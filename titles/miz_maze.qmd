@@ -2,6 +2,7 @@
 title: "The Miz Maze, or, The Winkworth Puzzle"
 sort_title: "Miz Maze, or, The Winkworth Puzzle"
 year: 1883
+subtitle: "1883"
 slug: "miz_maze"
 format:
   html:

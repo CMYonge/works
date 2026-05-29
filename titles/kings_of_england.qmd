@@ -2,6 +2,7 @@
 title: "Charlotte Mary Yonge - Landmarks of History- Charlotte Mary Yonge - Landmarks of History - Ancient History: from from the Earliest Times to the Mahometan Conquest"
 sort_title: "Charlotte Mary Yonge - Landmarks of History- Charlotte Mary Yonge - Landmarks of History - Ancient History: from from the Earliest Times to the Mahometan Conquest"
 year: 1848
+subtitle: "1848"
 slug: "kings_of_england"
 format:
   html:

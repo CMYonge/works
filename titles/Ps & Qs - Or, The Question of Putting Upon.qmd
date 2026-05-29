@@ -2,6 +2,7 @@
 title: "P's & Q's: Or, the Question of Putting Upon"
 sort_title: "P's & Q's: Or, the Question of Putting Upon"
 year: 1872
+subtitle: "1872"
 slug: "Ps & Qs - Or, The Question of Putting Upon"
 format:
   html:

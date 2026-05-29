@@ -2,6 +2,7 @@
 title: "Cameos of English History, from Rollo to Edward II"
 sort_title: "Cameos of English History, from Rollo to Edward II"
 year: 1868-1899
+subtitle: "1868-1899"
 slug: "cameos"
 format:
   html:

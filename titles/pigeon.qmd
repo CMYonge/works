@@ -2,6 +2,7 @@
 title: "The Pigeon Pie"
 sort_title: "Pigeon Pie"
 year: 1860
+subtitle: "1860"
 gutenberg_url: "https://www.gutenberg.org/ebooks/2606"
 slug: "pigeon"
 format:

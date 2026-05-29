@@ -2,6 +2,7 @@
 title: "The Six Cushions"
 sort_title: "Six Cushions"
 year: 1867
+subtitle: "1867"
 slug: "six cushions"
 format:
   html:

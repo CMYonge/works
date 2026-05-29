@@ -2,6 +2,7 @@
 title: "The History of the Universities' Mission to Central Africa"
 sort_title: "History of the Universities' Mission to Central Africa"
 year: 1897
+subtitle: "1897"
 slug: "History of the Universities Mission to Central Africa"
 format:
   html:

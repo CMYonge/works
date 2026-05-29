@@ -2,6 +2,7 @@
 title: "What Books to Lend and What to Give"
 sort_title: "What Books to Lend and What to Give"
 year: 1887
+subtitle: "1887"
 slug: "what_books_to_lend"
 format:
   html:

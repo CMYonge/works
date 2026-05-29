@@ -2,6 +2,7 @@
 title: "Beechcroft at Rockstone"
 sort_title: "Beechcroft at Rockstone"
 year: 1888
+subtitle: "1888"
 slug: "beechcroft_at_rockstone"
 gutenberg_url: "https://www.gutenberg.org/ebooks/5156"
 format:

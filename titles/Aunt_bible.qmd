@@ -2,6 +2,7 @@
 title: "Aunt Charlotte's Stories of Bible History for the Little Ones"
 sort_title: "Aunt Charlotte's Stories of Bible History for the Little Ones"
 year: 1875
+subtitle: "1875"
 slug: "Aunt_bible"
 format:
   html:

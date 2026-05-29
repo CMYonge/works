@@ -2,6 +2,7 @@
 title: "Chantry House"
 sort_title: "Chantry House"
 year: 1886
+subtitle: "1886"
 gutenberg_url: "https://www.gutenberg.org/ebooks/7378"
 slug: "chantry_house"
 format:

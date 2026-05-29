@@ -2,6 +2,7 @@
 title: "Landmarks of History, Part III: Modern History"
 sort_title: "Landmarks of History, Part III: Modern History"
 year: 1857
+subtitle: "1857"
 slug: "landmarks_of_history_modern"
 format:
   html:

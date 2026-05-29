@@ -2,6 +2,7 @@
 title: "The Instructive Picture Book"
 sort_title: "Instructive Picture Book"
 year: 1857
+subtitle: "1857"
 slug: "instructive_picture_book"
 format:
   html:

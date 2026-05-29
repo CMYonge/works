@@ -2,6 +2,7 @@
 title: "The Lances of Lynwood"
 sort_title: "Lances of Lynwood"
 year: 1855
+subtitle: "1855"
 gutenberg_url: "https://www.gutenberg.org/ebooks/4364"
 slug: "lances"
 format:

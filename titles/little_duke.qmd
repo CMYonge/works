@@ -2,6 +2,7 @@
 title: "The Little Duke"
 sort_title: "Little Duke"
 year: 1854
+subtitle: "1854"
 gutenberg_url: "https://www.gutenberg.org/ebooks/3048"
 slug: "little_duke"
 format:

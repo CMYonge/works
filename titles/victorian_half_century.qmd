@@ -2,6 +2,7 @@
 title: "Victorian Half-Century: A Jubilee Book"
 sort_title: "Victorian Half-Century: A Jubilee Book"
 year: 1886, 1887
+subtitle: "1886, 1887"
 slug: "victorian_half_century"
 format:
   html:

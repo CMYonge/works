@@ -2,6 +2,7 @@
 title: "The Pupils of St John the Divine"
 sort_title: "Pupils of St John the Divine"
 year: 1868
+subtitle: "1868"
 slug: "pupils_of_st_john_the_divine"
 format:
   html:

@@ -2,6 +2,7 @@
 title: "The Two Guardians, or, Home in This World"
 sort_title: "Two Guardians, or, Home in This World"
 year: 1852
+subtitle: "1852"
 slug: "two_guardians"
 format:
   html:

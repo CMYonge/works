@@ -2,6 +2,7 @@
 title: "Aunt Charlotte's Evenings at Home with the Poets"
 sort_title: "Aunt Charlotte's Evenings at Home with the Poets"
 year: 1881
+subtitle: "1881"
 slug: "Aunt Charlotte's evenings at home with the poets"
 format:
   html:

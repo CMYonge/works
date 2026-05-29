@@ -2,6 +2,7 @@
 title: "A Shilling Book of Golden Deeds"
 sort_title: "Shilling Book of Golden Deeds"
 year: 1867
+subtitle: "1867"
 slug: "a shilling book of golden deeds"
 format:
   html:

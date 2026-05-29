@@ -2,6 +2,7 @@
 title: "The Daisy Chain"
 sort_title: "Daisy Chain"
 year: 1856
+subtitle: "1856"
 gutenberg_url: "https://www.gutenberg.org/ebooks/3610"
 slug: "daisychain"
 format:

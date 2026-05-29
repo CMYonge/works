@@ -2,6 +2,7 @@
 title: "The Pilgrimage of the Ben Beriah"
 sort_title: "Pilgrimage of the Ben Beriah"
 year: 1899
+subtitle: "1899"
 slug: "The pilgrimage of the Ben Beriah"
 format:
   html:

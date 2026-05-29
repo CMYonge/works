@@ -2,6 +2,7 @@
 title: "A Parallel History of France and England"
 sort_title: "Parallel History of France and England"
 year: 1871
+subtitle: "1871"
 slug: "parallel_history"
 format:
   html:

@@ -2,6 +2,7 @@
 title: "Bye-words: A Collection of Tales, New and Old"
 sort_title: "Bye-words: A Collection of Tales, New and Old"
 year: 1880
+subtitle: "1880"
 slug: "bye_words"
 format:
   html:

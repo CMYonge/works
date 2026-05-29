@@ -2,6 +2,7 @@
 title: "The Patriots of Palestine: A Story of the Maccabees"
 sort_title: "Patriots of Palestine: A Story of the Maccabees"
 year: 1898
+subtitle: "1898"
 slug: "patriots_of_palestine"
 format:
   html:

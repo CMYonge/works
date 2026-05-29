@@ -2,6 +2,7 @@
 title: "How to Teach the New Testament"
 sort_title: "How to Teach the New Testament"
 year: 1881
+subtitle: "1881"
 slug: "how_to_teach_the_New_Testament"
 format:
   html:
