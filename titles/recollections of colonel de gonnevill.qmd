@@ -1,5 +1,5 @@
 ---
-title: "by Charlotte Mary Yonge"
+title: "Recollections of Colonel de Gonneville"
 sort_title: "by Charlotte Mary Yonge"
 slug: "recollections of colonel de gonnevill"
 format:

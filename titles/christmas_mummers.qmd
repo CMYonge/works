@@ -1,15 +1,12 @@
 ---
-title: "The Christmas Mummers - Charlotte Mary Yonge"
-sort_title: "Christmas Mummers - Charlotte Mary Yonge"
+title: "The Christmas Mummers"
+sort_title: "Christmas Mummers"
 year: 1858
 slug: "christmas_mummers"
 format:
   html:
     toc: true
 ---
-
-
-*1858*
 
 
 

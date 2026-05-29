@@ -1,6 +1,6 @@
 ---
-title: "Kenneth; or, The Rear Guard of the Grand Army(1850) by Charlotte Mary Yonge"
-sort_title: "Kenneth; or, The Rear Guard of the Grand Army(1850) by Charlotte Mary Yonge"
+title: "Kenneth; Or, the Rear Guard of the Grand Army"
+sort_title: "Kenneth; Or, the Rear Guard of the Grand Army"
 year: 1850
 slug: "kenneth"
 format:

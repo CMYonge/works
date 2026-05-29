@@ -1,6 +1,6 @@
 ---
-title: "The Six Cushions - by Charlotte Mary Yonge(1867)"
-sort_title: "Six Cushions - by Charlotte Mary Yonge(1867)"
+title: "The Six Cushions"
+sort_title: "Six Cushions"
 year: 1867
 slug: "six cushions"
 format:

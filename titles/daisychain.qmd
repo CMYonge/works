@@ -1,6 +1,6 @@
 ---
-title: "Charlotte Mary Yonge - The Daisy Chain - 1856"
-sort_title: "Charlotte Mary Yonge - The Daisy Chain - 1856"
+title: "The Daisy Chain"
+sort_title: "Daisy Chain"
 year: 1856
 gutenberg_url: "https://www.gutenberg.org/ebooks/3610"
 slug: "daisychain"

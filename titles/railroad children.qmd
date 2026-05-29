@@ -1,6 +1,6 @@
 ---
-title: "The Railroad Children - Charlotte Mary Yonge"
-sort_title: "Railroad Children - Charlotte Mary Yonge"
+title: "The Railroad Children"
+sort_title: "Railroad Children"
 year: 1849
 slug: "railroad children"
 format:

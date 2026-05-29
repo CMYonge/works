@@ -1,6 +1,6 @@
 ---
-title: "Under The Storm or, Steadfast's Charge"
-sort_title: "Under The Storm or, Steadfast's Charge"
+title: "Under the Storm or, Steadfast's Charge"
+sort_title: "Under the Storm or, Steadfast's Charge"
 year: 1887
 gutenberg_url: "https://www.gutenberg.org/ebooks/6006"
 slug: "under_the_storm"

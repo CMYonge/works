@@ -1,6 +1,6 @@
 ---
-title: "The Pigeon Pie - Charlotte Mary Yonge"
-sort_title: "Pigeon Pie - Charlotte Mary Yonge"
+title: "The Pigeon Pie"
+sort_title: "Pigeon Pie"
 year: 1860
 gutenberg_url: "https://www.gutenberg.org/ebooks/2606"
 slug: "pigeon"

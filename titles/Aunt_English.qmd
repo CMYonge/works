@@ -1,6 +1,6 @@
 ---
-title: "Aunt Charlotte's Stories of English History for the little ones"
-sort_title: "Aunt Charlotte's Stories of English History for the little ones"
+title: "Aunt Charlotte's Stories of English History for the Little Ones"
+sort_title: "Aunt Charlotte's Stories of English History for the Little Ones"
 year: 1873
 gutenberg_url: "https://www.gutenberg.org/ebooks/4769"
 slug: "Aunt_English"
@@ -10,16 +10,7 @@ format:
 ---
 
 
-*1873*
 
-
-[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/4769)
-
----
-
-
-[Click here to reach the latest version of*Aunt Charlotte's Stories of English History*online from Gutenberg](https://www.gutenberg.org/ebooks/4769)  
-(Many thanks to Doug Levy and the Gutenberg team)
 
 Yonge's*Aunt Charlotte's Stories of English History*is available on microfiche from**The Nineteenth Century**(this site gives you free access to an online catalogue of over 25,000 nineteenth-century works available on microfiche)
 

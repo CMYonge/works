@@ -1,6 +1,6 @@
 ---
-title: "The Danvers Papers - Charlotte Mary Yonge"
-sort_title: "Danvers Papers - Charlotte Mary Yonge"
+title: "The Danvers Papers"
+sort_title: "Danvers Papers"
 year: 1867
 slug: "danvers_papers"
 format:

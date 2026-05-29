@@ -1,6 +1,6 @@
 ---
-title: "New Ground - by Charlotte Mary Yonge(1864)"
-sort_title: "New Ground - by Charlotte Mary Yonge(1864)"
+title: "New Ground"
+sort_title: "New Ground"
 year: 1868
 slug: "New Ground"
 format:

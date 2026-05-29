@@ -1,6 +1,6 @@
 ---
-title: "The Prince and the Page - Charlotte Mary Yonge"
-sort_title: "Prince and the Page - Charlotte Mary Yonge"
+title: "The Prince and the Page"
+sort_title: "Prince and the Page"
 year: 1866
 gutenberg_url: "https://www.gutenberg.org/ebooks/3696"
 slug: "prince_and_page"

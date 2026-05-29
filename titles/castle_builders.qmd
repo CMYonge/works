@@ -1,16 +1,12 @@
 ---
-title: "The Castle Builders or The Deferred Confirmation"
-sort_title: "Castle Builders or The Deferred Confirmation"
+title: "The Castle Builders or the Deferred Confirmation"
+sort_title: "Castle Builders or the Deferred Confirmation"
 year: 1854
 slug: "castle_builders"
 format:
   html:
     toc: true
 ---
-
-
-*1854*
-
 
 
 [Online text of : The Castle Builders](https://archive.org/details/castlebuilderso00yonggoog/page/n6/mode/2up)

@@ -1,6 +1,6 @@
 ---
-title: "The Two Guardians, or, Home in this World - Charlotte Mary Yonge (1852)"
-sort_title: "Two Guardians, or, Home in this World - Charlotte Mary Yonge (1852)"
+title: "The Two Guardians, or, Home in This World"
+sort_title: "Two Guardians, or, Home in This World"
 year: 1852
 slug: "two_guardians"
 format:

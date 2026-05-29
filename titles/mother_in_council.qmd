@@ -1,6 +1,6 @@
 ---
-title: "Mothers in Council - edited in the 1880s-1890s by Charlotte Mary Yonge"
-sort_title: "Mothers in Council - edited in the 1880s-1890s by Charlotte Mary Yonge"
+title: "Mothers in Council"
+sort_title: "Mothers in Council"
 slug: "mother_in_council"
 format:
   html:

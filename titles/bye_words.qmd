@@ -1,16 +1,12 @@
 ---
-title: "Charlotte Mary Yonge - Bye-words : a collection of tales, new and old"
-sort_title: "Charlotte Mary Yonge - Bye-words : a collection of tales, new and old"
+title: "Bye-words: A Collection of Tales, New and Old"
+sort_title: "Bye-words: A Collection of Tales, New and Old"
 year: 1880
 slug: "bye_words"
 format:
   html:
     toc: true
 ---
-
-
-*1880*
-
 
 
 [Click here to download*Byewords*in a variety of file formats](http://ia350627.us.archive.org/2/items/byewordsacollec01yonggoog/)

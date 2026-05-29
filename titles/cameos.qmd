@@ -1,19 +1,12 @@
 ---
-title: "Cameos of English history, from Rollo to Edward II - Charlotte Mary Yonge"
-sort_title: "Cameos of English history, from Rollo to Edward II - Charlotte Mary Yonge"
+title: "Cameos of English History, from Rollo to Edward II"
+sort_title: "Cameos of English History, from Rollo to Edward II"
 year: 1868-1899
 slug: "cameos"
 format:
   html:
     toc: true
 ---
-
-
-*1868-1899*
-
-
-
-### ****Cameos from English History****
 
 ### ****I.From Rollo to Edward II(1868)  
 II. The Wars in France (1871)  

@@ -1,7 +1,8 @@
 ---
-title: "Aunt Charlotte's Stories of Roman History for the little ones"
-sort_title: "Aunt Charlotte's Stories of Roman History for the little ones"
+title: "Aunt Charlotte's Stories of Roman History for the Little Ones"
+sort_title: "Aunt Charlotte's Stories of Roman History for the Little Ones"
 slug: "Aunt_Roman"
+gutenberg_url: "https://www.gutenberg.org/ebooks/16667"
 format:
   html:
     toc: true

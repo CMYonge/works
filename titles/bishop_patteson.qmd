@@ -1,6 +1,6 @@
 ---
-title: "Life of John Coleridge Patteson, Missionary Bishop tp the Melanesian Islands - Charlotte Mary Yonge (1873)"
-sort_title: "Life of John Coleridge Patteson, Missionary Bishop tp the Melanesian Islands - Charlotte Mary Yonge (1873)"
+title: "Life of John Coleridge Patteson, Missionary Bishop of the Melanesian Islands"
+sort_title: "Life of John Coleridge Patteson, Missionary Bishop of the Melanesian Islands"
 year: 1873
 gutenberg_url: "https://www.gutenberg.org/ebooks/4952"
 slug: "bishop_patteson"
@@ -10,21 +10,11 @@ format:
 ---
 
 
-*1873*
-
-
-[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/4952)
-
----
-
 
 **Summary of Patteson's life**Patteson / Melanesian Links
 
-Online text of*Life of John Coleridge Patteson*
 
-Click here to reach the latest version of***[Life of John Coleridge Patteson](https://www.gutenberg.org/ebooks/4952)***from Gutenberg
-
-### J**ohn Coleridge Patteson 1827–1871**
+### **John Coleridge Patteson 1827–1871**
 
 Born in London (9 Gower St., Bedford Square) 1 April 1827  
 Eldest son of John Patteson and Frances Duke Coleridge.  

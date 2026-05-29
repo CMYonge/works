@@ -1,6 +1,6 @@
 ---
-title: "Details of Charlotte Yonge's novel The Three Brides"
-sort_title: "Details of Charlotte Yonge's novel The Three Brides"
+title: "The Three Brides"
+sort_title: "Three Brides"
 year: 1876
 slug: "three brides"
 format:

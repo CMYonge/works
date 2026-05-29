@@ -1,6 +1,6 @@
 ---
-title: "Charlotte Mary Yonge - Historical Dramas -The Mice at Play -- The Apple of Discord"
-sort_title: "Charlotte Mary Yonge - Historical Dramas -The Mice at Play -- The Apple of Discord"
+title: "Historical Dramas: The Mice at Play; The Apple of Discord"
+sort_title: "Historical Dramas: The Mice at Play; The Apple of Discord"
 year: 1864
 slug: "historical_dramas"
 format:

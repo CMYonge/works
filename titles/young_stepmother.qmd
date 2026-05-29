@@ -1,6 +1,6 @@
 ---
-title: "Young Stepmother: a Chronicle of Mistakes"
-sort_title: "Young Stepmother: a Chronicle of Mistakes"
+title: "Young Stepmother: A Chronicle of Mistakes"
+sort_title: "Young Stepmother: A Chronicle of Mistakes"
 year: 1861
 gutenberg_url: "https://www.gutenberg.org/ebooks/5843"
 slug: "young_stepmother"

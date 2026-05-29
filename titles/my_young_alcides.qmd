@@ -1,6 +1,6 @@
 ---
-title: "My Young Alcides (1875) by Charlotte Mary Yonge - translated and edited by Charlotte Mary Yonge (1884)"
-sort_title: "My Young Alcides (1875) by Charlotte Mary Yonge - translated and edited by Charlotte Mary Yonge (1884)"
+title: "My Young Alcides"
+sort_title: "My Young Alcides"
 gutenberg_url: "https://www.gutenberg.org/ebooks/4347"
 slug: "my_young_alcides"
 format:

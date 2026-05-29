@@ -1,6 +1,6 @@
 ---
-title: "Aunt Charlotte's Stories of Bible History for the little ones"
-sort_title: "Aunt Charlotte's Stories of Bible History for the little ones"
+title: "Aunt Charlotte's Stories of Bible History for the Little Ones"
+sort_title: "Aunt Charlotte's Stories of Bible History for the Little Ones"
 year: 1875
 slug: "Aunt_bible"
 format:
@@ -8,8 +8,6 @@ format:
     toc: true
 ---
 
-
-*1875*
 
 
 

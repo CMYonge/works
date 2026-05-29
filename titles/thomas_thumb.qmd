@@ -1,6 +1,6 @@
 ---
-title: "The History of the LIfe and Death of the Good Knight Sir Tom Thumb - Charlotte Mary Yonge"
-sort_title: "History of the LIfe and Death of the Good Knight Sir Tom Thumb - Charlotte Mary Yonge"
+title: "The History of the Life and Death of the Good Knight Sir Tom Thumb"
+sort_title: "History of the Life and Death of the Good Knight Sir Tom Thumb"
 slug: "thomas_thumb"
 format:
   html:

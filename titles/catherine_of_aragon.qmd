@@ -1,6 +1,6 @@
 ---
-title: "Catharine of Aragon and the sources of the English Reformation by Charlotte Mary Yonge"
-sort_title: "Catharine of Aragon and the sources of the English Reformation by Charlotte Mary Yonge"
+title: "Catharine of Aragon and the Sources of the English Reformation"
+sort_title: "Catharine of Aragon and the Sources of the English Reformation"
 year: 1881
 slug: "catherine_of_aragon"
 format:
@@ -8,12 +8,6 @@ format:
     toc: true
 ---
 
-
-*1881*
-
-
-
-#### Catharine of Aragon and the sources of the English Reformation.
 
 #### Author: Du Boys, Albert, 1804-1889.
 

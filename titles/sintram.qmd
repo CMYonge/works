@@ -1,6 +1,6 @@
 ---
-title: "Sintram and his companions with Introduction by Charlotte Mary Yonge"
-sort_title: "Sintram and his companions with Introduction by Charlotte Mary Yonge"
+title: "Sintram and His Companions"
+sort_title: "Sintram and His Companions with Introduction"
 slug: "sintram"
 format:
   html:

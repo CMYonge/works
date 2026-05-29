@@ -1,6 +1,6 @@
 ---
-title: "What Books to Lend and What to Give - Charlotte Mary Yonge (1884)"
-sort_title: "What Books to Lend and What to Give - Charlotte Mary Yonge (1884)"
+title: "What Books to Lend and What to Give"
+sort_title: "What Books to Lend and What to Give"
 year: 1887
 slug: "what_books_to_lend"
 format:

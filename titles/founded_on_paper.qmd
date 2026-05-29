@@ -1,6 +1,6 @@
 ---
-title: "Founded on Paper by Charlotte Mary Yonge"
-sort_title: "Founded on Paper by Charlotte Mary Yonge"
+title: "Founded on Paper"
+sort_title: "Founded on Paper"
 slug: "founded_on_paper"
 format:
   html:

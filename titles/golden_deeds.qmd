@@ -1,6 +1,6 @@
 ---
-title: "Charlotte Yonge's Book of Golden Deeds (1864) - online text, contents list, original preface, bibliography, contemporary notices"
-sort_title: "Charlotte Yonge's Book of Golden Deeds (1864) - online text, contents list, original preface, bibliography, contemporary notices"
+title: "The Book of Golden Deeds"
+sort_title: "Book of Golden Deeds"
 year: 1864
 gutenberg_url: "http://onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=6489"
 slug: "golden_deeds"

@@ -1,20 +1,12 @@
 ---
-title: "Abbeychurch, or Self control and self conceit"
-sort_title: "Abbeychurch, or Self control and self conceit"
+title: "Abbeychurch, or Self Control and Self Conceit"
+sort_title: "Abbeychurch, or Self Control and Self Conceit"
 year: 1844
 gutenberg_url: "https://www.gutenberg.org/ebooks/4267"
 slug: "abbey_church"
 format:
   html:
     toc: true
----
-
-
-*1844*
-
-
-[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/4267)
-
 ---
 
 

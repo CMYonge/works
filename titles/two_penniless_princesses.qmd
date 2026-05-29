@@ -1,6 +1,6 @@
 ---
-title: "Two Penniless Princesses - Charlotte Mary Yonge"
-sort_title: "Two Penniless Princesses - Charlotte Mary Yonge"
+title: "Two Penniless Princesses"
+sort_title: "Two Penniless Princesses"
 year: 1891
 gutenberg_url: "https://www.gutenberg.org/ebooks/2942"
 slug: "two_penniless_princesses"

@@ -1,6 +1,6 @@
 ---
-title: "Undine - with Introduction by Charlotte Mary Yonge"
-sort_title: "Undine - with Introduction by Charlotte Mary Yonge"
+title: "Undine"
+sort_title: "Undine"
 slug: "undine"
 format:
   html:

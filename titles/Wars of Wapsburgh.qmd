@@ -1,6 +1,6 @@
 ---
-title: "The wars of Wapsburgh - by Charlotte Mary Yonge(1864)"
-sort_title: "wars of Wapsburgh - by Charlotte Mary Yonge(1864)"
+title: "The Wars of Wapsburgh"
+sort_title: "Wars of Wapsburgh"
 year: 1864
 slug: "Wars of Wapsburgh"
 format:

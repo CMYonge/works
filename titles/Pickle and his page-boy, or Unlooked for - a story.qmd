@@ -1,6 +1,6 @@
 ---
-title: "Charlotte Mary Yonge - Pickle and his page-boy, or Unlooked for: a story"
-sort_title: "Charlotte Mary Yonge - Pickle and his page-boy, or Unlooked for: a story"
+title: "Pickle and His Page-Boy, or Unlooked for: A Story"
+sort_title: "Pickle and His Page-Boy, or Unlooked for: A Story"
 year: 1882
 slug: "Pickle and his page-boy, or Unlooked for - a story"
 format:

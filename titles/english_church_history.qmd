@@ -1,6 +1,6 @@
 ---
-title: "Charlotte Mary Yonge - English Church History (1883)"
-sort_title: "Charlotte Mary Yonge - English Church History (1883)"
+title: "English Church History"
+sort_title: "English Church History"
 year: 1883
 slug: "english_church_history"
 format:

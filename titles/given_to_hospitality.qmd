@@ -1,6 +1,6 @@
 ---
-title: "Given to hospitality"
-sort_title: "Given to hospitality"
+title: "Given to Hospitality"
+sort_title: "Given to Hospitality"
 slug: "given_to_hospitality"
 format:
   html:

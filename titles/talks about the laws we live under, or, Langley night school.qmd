@@ -1,6 +1,6 @@
 ---
-title: "Charlotte Mary Yonge - Talks about the laws we live under, or, At Langley Night sShool"
-sort_title: "Charlotte Mary Yonge - Talks about the laws we live under, or, At Langley Night sShool"
+title: "Talks About the Laws We Live Under, or, at Langley Night School"
+sort_title: "Talks About the Laws We Live Under, or, at Langley Night School"
 year: 1882
 slug: "talks about the laws we live under, or, Langley night school"
 format:

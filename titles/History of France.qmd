@@ -1,6 +1,6 @@
 ---
-title: "History of France written by Charlotte Yonge and edited by John Richard Green"
-sort_title: "History of France written by Charlotte Yonge and edited by John Richard Green"
+title: "History of France"
+sort_title: "History of France"
 slug: "History of France"
 format:
   html:

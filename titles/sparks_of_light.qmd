@@ -1,6 +1,6 @@
 ---
-title: "Charlotte Mary Yonge - Sparks of light for every day"
-sort_title: "Charlotte Mary Yonge - Sparks of light for every day"
+title: "Sparks of Light for Every Day"
+sort_title: "Sparks of Light for Every Day"
 year: 1881
 slug: "sparks_of_light"
 format:

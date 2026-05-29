@@ -1,6 +1,6 @@
 ---
-title: "Charlotte Mary Yonge - Marie Thérèse de Lamourous"
-sort_title: "Charlotte Mary Yonge - Marie Thérèse de Lamourous"
+title: "Marie Thérèse de Lamourous"
+sort_title: "Marie Thérèse de Lamourous"
 year: 1858
 slug: "marie_therese_de_lamourous"
 format:

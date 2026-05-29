@@ -1,15 +1,12 @@
 ---
-title: "The apple of discord - by Charlotte Mary Yonge(1864)"
-sort_title: "apple of discord - by Charlotte Mary Yonge(1864)"
+title: "The Apple of Discord"
+sort_title: "Apple of Discord"
 year: 1864
 slug: "apple of discord"
 format:
   html:
     toc: true
 ---
-
-
-*1864*
 
 
 

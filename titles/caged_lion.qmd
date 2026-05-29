@@ -1,6 +1,6 @@
 ---
-title: "The Caged Lion by Charlotte Mary Yonge"
-sort_title: "Caged Lion by Charlotte Mary Yonge"
+title: "The Caged Lion"
+sort_title: "Caged Lion"
 year: 1868-9, 1870
 gutenberg_url: "https://www.gutenberg.org/ebooks/2573"
 slug: "caged_lion"
@@ -9,17 +9,6 @@ format:
     toc: true
 ---
 
-
-*1868-9, 1870*
-
-
-[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/2573)
-
----
-
-
-[Click here to reach the latest version of***The Caged Lion*online**from Gutenberg](https://www.gutenberg.org/ebooks/2573)  
-(Many thanks to Sandra Laythorpe and others)
 
 ### Publication details, summary and further reading
 

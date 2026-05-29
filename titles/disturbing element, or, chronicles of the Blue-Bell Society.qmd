@@ -1,6 +1,6 @@
 ---
-title: "Charlotte Mary Yonge - The Disturbing Element, or, Chronicles of the Blue-Bell Society"
-sort_title: "Charlotte Mary Yonge - The Disturbing Element, or, Chronicles of the Blue-Bell Society"
+title: "The Disturbing Element, or, Chronicles of the Blue-Bell Society"
+sort_title: "Disturbing Element, or, Chronicles of the Blue-Bell Society"
 year: 1878
 slug: "disturbing element, or, chronicles of the Blue-Bell Society"
 format:

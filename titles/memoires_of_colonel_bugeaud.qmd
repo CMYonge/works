@@ -1,6 +1,6 @@
 ---
-title: "Memoirs of Colonel Bugeaud - translated and edited by Charlotte Mary Yonge (1884)"
-sort_title: "Memoirs of Colonel Bugeaud - translated and edited by Charlotte Mary Yonge (1884)"
+title: "Memoirs of Colonel Bugeaud"
+sort_title: "Memoirs of Colonel Bugeaud"
 year: 1884
 slug: "memoires_of_colonel_bugeaud"
 format:

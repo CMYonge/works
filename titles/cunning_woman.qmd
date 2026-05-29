@@ -1,16 +1,12 @@
 ---
-title: "The Cunning Woman's Grandson - Charlotte Mary Yonge"
-sort_title: "Cunning Woman's Grandson - Charlotte Mary Yonge"
+title: "The Cunning Woman's Grandson"
+sort_title: "Cunning Woman's Grandson"
 year: 1889
 slug: "cunning_woman"
 format:
   html:
     toc: true
 ---
-
-
-*1889*
-
 
 
 ### **Summary of**The Cunning Woman's Grandson****

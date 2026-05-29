@@ -1,6 +1,6 @@
 ---
-title: "A Modern Telemachus - Charlotte Mary Yonge"
-sort_title: "Modern Telemachus - Charlotte Mary Yonge"
+title: "A Modern Telemachus"
+sort_title: "Modern Telemachus"
 year: 1886
 gutenberg_url: "https://www.gutenberg.org/ebooks/4271"
 slug: "modern_telemachus"

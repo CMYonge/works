@@ -1,6 +1,6 @@
 ---
-title: "Love and Life. An Old Story in Eighteenth Century Costume - Charlotte Mary Yonge"
-sort_title: "Love and Life. An Old Story in Eighteenth Century Costume - Charlotte Mary Yonge"
+title: "Love and Life: An Old Story in Eighteenth Century Costume"
+sort_title: "Love and Life: An Old Story in Eighteenth Century Costume"
 year: 1880
 gutenberg_url: "https://www.gutenberg.org/ebooks/5700"
 slug: "love_and_life"

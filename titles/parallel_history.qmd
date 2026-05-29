@@ -1,6 +1,6 @@
 ---
-title: "A Parallel History of France and England by Charlotte Yonge (1871)"
-sort_title: "Parallel History of France and England by Charlotte Yonge (1871)"
+title: "A Parallel History of France and England"
+sort_title: "Parallel History of France and England"
 year: 1871
 slug: "parallel_history"
 format:

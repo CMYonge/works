@@ -1,6 +1,6 @@
 ---
-title: "Countess Kate - Charlotte Mary Yonge"
-sort_title: "Countess Kate - Charlotte Mary Yonge"
+title: "Countess Kate"
+sort_title: "Countess Kate"
 year: 1862
 gutenberg_url: "https://www.gutenberg.org/ebooks/3259"
 slug: "countess_kate"
@@ -9,17 +9,6 @@ format:
     toc: true
 ---
 
-
-*1862*
-
-
-[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/3259)
-
----
-
-
-Click here to reach the latest version of**[Countess Kate](https://www.gutenberg.org/ebooks/3259)**from Gutenberg  
-(Many thanks to Sandra Laythorpe and others)
 
 ### Contemporary Review from*The Athenaeum*
 

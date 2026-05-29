@@ -1,5 +1,5 @@
 ---
-title: "Le Chateau de Melville, ou Recréations du cabinet d'étude"
+title: "Le Chateau de Melville"
 sort_title: "Le Chateau de Melville, ou Recréations du cabinet d'étude"
 year: 1839
 slug: "chateau_de_melville"
@@ -7,9 +7,6 @@ format:
   html:
     toc: true
 ---
-
-
-*1839*
 
 
 

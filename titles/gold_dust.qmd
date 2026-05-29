@@ -1,6 +1,6 @@
 ---
-title: "Gold Dust - Charlotte Mary Yonge"
-sort_title: "Gold Dust - Charlotte Mary Yonge"
+title: "Gold Dust"
+sort_title: "Gold Dust"
 year: 1880
 slug: "gold_dust"
 format:

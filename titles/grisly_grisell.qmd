@@ -1,6 +1,6 @@
 ---
-title: "Grisly Grisell - Charlotte Mary Yonge"
-sort_title: "Grisly Grisell - Charlotte Mary Yonge"
+title: "Grisly Grisell"
+sort_title: "Grisly Grisell"
 year: 1893
 slug: "grisly_grisell"
 format:

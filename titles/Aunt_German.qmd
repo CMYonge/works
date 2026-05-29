@@ -1,6 +1,6 @@
 ---
-title: "Aunt Charlotte's Stories of German History for the little ones"
-sort_title: "Aunt Charlotte's Stories of German History for the little ones"
+title: "Aunt Charlotte's Stories of German History for the Little Ones"
+sort_title: "Aunt Charlotte's Stories of German History for the Little Ones"
 slug: "Aunt_German"
 format:
   html:

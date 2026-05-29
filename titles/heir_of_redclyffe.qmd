@@ -1,6 +1,6 @@
 ---
-title: "The Heir of Redclyffe - Charlotte Mary Yonge"
-sort_title: "Heir of Redclyffe - Charlotte Mary Yonge"
+title: "The Heir of Redclyffe"
+sort_title: "Heir of Redclyffe"
 year: 1853
 slug: "heir_of_redclyffe"
 format:

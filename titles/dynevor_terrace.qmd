@@ -1,6 +1,6 @@
 ---
-title: "Dynevor Terrace - Charlotte Mary Yonge"
-sort_title: "Dynevor Terrace - Charlotte Mary Yonge"
+title: "Dynevor Terrace"
+sort_title: "Dynevor Terrace"
 year: 1857
 gutenberg_url: "https://www.gutenberg.org/ebooks/4235"
 slug: "dynevor_terrace"

@@ -1,6 +1,6 @@
 ---
-title: "Online text of The Trial: More Links of The Daisy Chain (1864) by Charlotte Mary Yonge"
-sort_title: "Online text of The Trial: More Links of The Daisy Chain (1864) by Charlotte Mary Yonge"
+title: "The Trial: More Links of the Daisy Chain"
+sort_title: "Trial: More Links of the Daisy Chain"
 year: 1864
 gutenberg_url: "https://www.gutenberg.org/ebooks/3744"
 slug: "trial"

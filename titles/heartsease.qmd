@@ -1,6 +1,6 @@
 ---
-title: "Heartsease - Charlotte Mary Yonge"
-sort_title: "Heartsease - Charlotte Mary Yonge"
+title: "Heartsease"
+sort_title: "Heartsease"
 year: 1854
 gutenberg_url: "https://www.gutenberg.org/ebooks/2601"
 slug: "heartsease"

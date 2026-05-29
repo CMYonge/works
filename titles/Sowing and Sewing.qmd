@@ -1,6 +1,6 @@
 ---
-title: "Sowing and Sewing: A Sexagesima Story - by Charlotte Mary Yonge(1882)"
-sort_title: "Sowing and Sewing: A Sexagesima Story - by Charlotte Mary Yonge(1882)"
+title: "Sowing and Sewing: A Sexagesima Story"
+sort_title: "Sowing and Sewing: A Sexagesima Story"
 year: 1882
 slug: "Sowing and Sewing"
 format:

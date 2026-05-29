@@ -1,6 +1,6 @@
 ---
-title: "Chantry House - Charlotte Mary Yonge"
-sort_title: "Chantry House - Charlotte Mary Yonge"
+title: "Chantry House"
+sort_title: "Chantry House"
 year: 1886
 gutenberg_url: "https://www.gutenberg.org/ebooks/7378"
 slug: "chantry_house"
@@ -9,20 +9,6 @@ format:
     toc: true
 ---
 
-
-*1886*
-
-
-[Read free online at Project Gutenberg](https://www.gutenberg.org/ebooks/7378)
-
----
-
-
-###   
-**Online text of***Chantry House*****
-
-[Click here to reach the latest version of*Chantry House*from Gutenberg](https://www.gutenberg.org/ebooks/7378)  
-(Many thanks to Sandra Laythorpe and others)
 
 ### Publication details, summary and further reading
 

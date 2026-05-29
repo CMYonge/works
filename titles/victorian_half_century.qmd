@@ -1,6 +1,6 @@
 ---
-title: "Victorian Half-Century: A Jubilee Book - Charlotte Mary Yonge"
-sort_title: "Victorian Half-Century: A Jubilee Book - Charlotte Mary Yonge"
+title: "Victorian Half-Century: A Jubilee Book"
+sort_title: "Victorian Half-Century: A Jubilee Book"
 year: 1886, 1887
 slug: "victorian_half_century"
 format:

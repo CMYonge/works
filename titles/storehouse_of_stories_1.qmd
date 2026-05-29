@@ -1,6 +1,6 @@
 ---
-title: "Charlotte Mary Yonge - A Storehouse of Stories volume 1"
-sort_title: "Charlotte Mary Yonge - A Storehouse of Stories volume 1"
+title: "A Storehouse of Stories, Volume 1"
+sort_title: "Storehouse of Stories, Volume 1"
 slug: "storehouse_of_stories_1"
 format:
   html:

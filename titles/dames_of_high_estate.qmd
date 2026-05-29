@@ -1,6 +1,6 @@
 ---
-title: "Charlotte Mary Yonge - Dames of High Estate"
-sort_title: "Charlotte Mary Yonge - Dames of High Estate"
+title: "Dames of High Estate"
+sort_title: "Dames of High Estate"
 year: 1872
 slug: "dames_of_high_estate"
 format:

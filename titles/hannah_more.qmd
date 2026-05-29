@@ -1,6 +1,6 @@
 ---
-title: "Hannah More by Charlotte Mary Yonge"
-sort_title: "Hannah More by Charlotte Mary Yonge"
+title: "Hannah More"
+sort_title: "Hannah More"
 year: 1888
 slug: "hannah_more"
 format:

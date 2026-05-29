@@ -1,6 +1,6 @@
 ---
-title: "Lady Hester, or, Ursula's Narrative - Charlotte Mary Yonge"
-sort_title: "Lady Hester, or, Ursula's Narrative - Charlotte Mary Yonge"
+title: "Lady Hester, or, Ursula's Narrative"
+sort_title: "Lady Hester, or, Ursula's Narrative"
 year: 1874
 gutenberg_url: "https://www.gutenberg.org/ebooks/4659"
 slug: "lady_hester"

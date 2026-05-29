@@ -1,17 +1,14 @@
 ---
-title: "Details of Charlotte Yonge's novel Beechcroft at Rockstone"
-sort_title: "Details of Charlotte Yonge's novel Beechcroft at Rockstone"
+title: "Beechcroft at Rockstone"
+sort_title: "Beechcroft at Rockstone"
 year: 1888
 slug: "beechcroft_at_rockstone"
+gutenberg_url: "https://www.gutenberg.org/ebooks/5156"
 format:
   html:
     toc: true
 ---
-
-
-*1888*
-
-
+**Internet Archive facsimile links**
 
 [Click here to reach the FIRST volume of*Beechcroft at Rockstone*](https://archive.org/details/beechcroftatrock01yong/page/n7/mode/2up)online free from the Internet Archive.
 

@@ -1,6 +1,6 @@
 ---
-title: "Charlotte Mary Yonge - Landmarks of History- III - Modern History: from the Reformation to the Fall of Napoleon (1857)"
-sort_title: "Charlotte Mary Yonge - Landmarks of History- III - Modern History: from the Reformation to the Fall of Napoleon (1857)"
+title: "Landmarks of History, Part III: Modern History"
+sort_title: "Landmarks of History, Part III: Modern History"
 year: 1857
 slug: "landmarks_of_history_modern"
 format:

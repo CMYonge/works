@@ -1,6 +1,6 @@
 ---
-title: "Charlotte Mary Yonge - Old Times at Otterbourne"
-sort_title: "Charlotte Mary Yonge - Old Times at Otterbourne"
+title: "Old Times at Otterbourne"
+sort_title: "Old Times at Otterbourne"
 year: 1891
 slug: "old_times_at_otterbourne"
 format:

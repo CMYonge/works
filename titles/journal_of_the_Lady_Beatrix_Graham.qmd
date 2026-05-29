@@ -1,6 +1,6 @@
 ---
-title: "Journal of the Lady Beatrix Graham - with a preface by Charlotte Mary Yonge (1871)"
-sort_title: "Journal of the Lady Beatrix Graham - with a preface by Charlotte Mary Yonge (1871)"
+title: "Journal of the Lady Beatrix Graham"
+sort_title: "Journal of the Lady Beatrix Graham"
 year: 1871
 slug: "journal_of_the_Lady_Beatrix_Graham"
 format:

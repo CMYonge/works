@@ -1,6 +1,6 @@
 ---
-title: "Scenes and Characters, or, Eighteen Months at Beechcroft - Charlotte Mary Yonge"
-sort_title: "Scenes and Characters, or, Eighteen Months at Beechcroft - Charlotte Mary Yonge"
+title: "Scenes and Characters, or, Eighteen Months at Beechcroft"
+sort_title: "Scenes and Characters, or, Eighteen Months at Beechcroft"
 year: 1847
 gutenberg_url: "https://www.gutenberg.org/ebooks/4944"
 slug: "scenes_and_characters"

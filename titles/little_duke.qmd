@@ -1,6 +1,6 @@
 ---
-title: "The Little Duke - Charlotte Mary Yonge"
-sort_title: "Little Duke - Charlotte Mary Yonge"
+title: "The Little Duke"
+sort_title: "Little Duke"
 year: 1854
 gutenberg_url: "https://www.gutenberg.org/ebooks/3048"
 slug: "little_duke"

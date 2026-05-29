@@ -1,6 +1,6 @@
 ---
-title: "Unknown To History"
-sort_title: "Unknown To History"
+title: "Unknown to History"
+sort_title: "Unknown to History"
 year: 1882
 gutenberg_url: "https://www.gutenberg.org/ebooks/4596"
 slug: "unknown_to_history"

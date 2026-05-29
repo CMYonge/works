@@ -1,6 +1,6 @@
 ---
-title: "An Old Woman's Outlook in a Hampshire Village - Charlotte Mary Yonge (1892)"
-sort_title: "Old Woman's Outlook in a Hampshire Village - Charlotte Mary Yonge (1892)"
+title: "An Old Woman's Outlook in a Hampshire Village"
+sort_title: "Old Woman's Outlook in a Hampshire Village"
 year: 1892
 slug: "old_womans_outlook"
 format:

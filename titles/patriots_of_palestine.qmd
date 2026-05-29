@@ -1,6 +1,6 @@
 ---
-title: "The Patriots of Palestine - A Story of the Macabees by Charlotte Yonge"
-sort_title: "Patriots of Palestine - A Story of the Macabees by Charlotte Yonge"
+title: "The Patriots of Palestine: A Story of the Maccabees"
+sort_title: "Patriots of Palestine: A Story of the Maccabees"
 year: 1898
 slug: "patriots_of_palestine"
 format:
