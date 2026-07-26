@@ -1,0 +1,13 @@
+---
+title: "The Christmas Mummers"
+sort_title: "Christmas Mummers"
+year: 1858
+subtitle: "1858"
+slug: "christmas_mummers"
+format:
+  html:
+    toc: true
+---
+
+**[Click here to read a short extract from Yonge's *Christmas Mummers*](http://www.folkplay.info/Texts/85su--yc.htm)**
+

@@ -1,0 +1,13 @@
+---
+title: "Sowing and Sewing: A Sexagesima Story"
+sort_title: "Sowing and Sewing: A Sexagesima Story"
+year: 1882
+subtitle: "1882"
+gutenberg_url: "https://www.gutenberg.org/ebooks/32200"
+slug: "Sowing and Sewing"
+format:
+  html:
+    toc: true
+---
+
+

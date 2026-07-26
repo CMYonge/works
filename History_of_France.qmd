@@ -1,0 +1,13 @@
+---
+title: "History of France"
+sort_title: "History of France"
+slug: "History of France"
+gutneberg_url: "https://www.gutenberg.org/files/17287/17287-h/17287-h.htm"
+format:
+  html:
+    toc: true
+---
+
+
+This book is part of the series of History Primers edited by John Richard Green.
+

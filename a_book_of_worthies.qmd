@@ -1,0 +1,12 @@
+---
+title: "A Book of Worthies"
+sort_title: "Book of Worthies"
+year: 1869
+subtitle: "1869"
+slug: "a book of worthies"
+format:
+  html:
+    toc: true
+---
+
+

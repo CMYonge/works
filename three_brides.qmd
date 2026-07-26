@@ -1,0 +1,12 @@
+---
+title: "The Three Brides"
+sort_title: "Three Brides"
+year: 1876
+subtitle: "1876"
+gutenberg_url: "https://www.gutenberg.org/ebooks/12485"
+slug: "three brides"
+format:
+  html:
+    toc: true
+---
+

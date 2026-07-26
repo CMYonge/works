@@ -1,0 +1,18 @@
+---
+title: "Dames of High Estate"
+sort_title: "Dames of High Estate"
+year: 1872
+subtitle: "1872"
+slug: "dames_of_high_estate"
+format:
+  html:
+    toc: true
+---
+
+
+Witt, Madame de (Henriette Elizabeth), 1829-1908.
+
+Dames of high estate
+
+Translation edited by Charlotte M. Yonge.
+

@@ -1,0 +1,16 @@
+---
+title: "The Pupils of St John the Divine"
+sort_title: "Pupils of St John the Divine"
+year: 1868
+subtitle: "1868"
+slug: "pupils_of_st_john_the_divine"
+format:
+  html:
+    toc: true
+---
+
+#### [Click here to reach the Internet Archive page for](http://www.archive.org/details/pupilsstjohndiv00yonggoog)[The Pupils of St John the Divine](http://www.archive.org/details/pupilsstjohndiv00yonggoog).  
+
+#### This book is a Google scan of a Bodleian copy.  
+
+

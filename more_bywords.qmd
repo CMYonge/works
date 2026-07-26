@@ -1,0 +1,14 @@
+---
+title: "More Bywords"
+sort_title: "More Bywords"
+year: 1890
+gutenberg_url: "https://www.gutenberg.org/ebooks/12095"
+slug: "more_bywords"
+format:
+  html:
+    toc: true
+---
+
+
+
+

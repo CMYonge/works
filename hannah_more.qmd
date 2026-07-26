@@ -1,0 +1,16 @@
+---
+title: "Hannah More"
+sort_title: "Hannah More"
+year: 1888
+subtitle: "1888"
+slug: "hannah_more"
+format:
+  html:
+    toc: true
+---
+
+[Text and picture link](https://en.wikipedia.org/wiki/Hannah_More) from Wikipedia
+
+Hannah More (February 2, 1745 - September 7, 1833) was an English religious writer and philanthropist.
+
+

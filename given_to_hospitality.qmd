@@ -1,0 +1,14 @@
+---
+title: "Given to Hospitality"
+sort_title: "Given to Hospitality"
+slug: "given_to_hospitality"
+format:
+  html:
+    toc: true
+---
+
+
+
+ 
+Yonge's *Given to hospitality* may be available on microfiche from **The Nineteenth Century**
+

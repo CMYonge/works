@@ -1,0 +1,14 @@
+---
+title: "New Ground"
+sort_title: "New Ground"
+year: 1868
+subtitle: "1868"
+slug: "New Ground"
+format:
+  html:
+    toc: true
+---
+
+
+### [Click here to read or download](https://books.google.co.uk/books?id=_BICAAAAQAAJ&printsec=titlepage&redir_esc=y#v=onepage&q&f=false)
+

@@ -1,0 +1,35 @@
+---
+title: "Bye-words: A Collection of Tales, New and Old"
+sort_title: "Bye-words: A Collection of Tales, New and Old"
+year: 1880
+subtitle: "1880"
+slug: "bye_words"
+format:
+  html:
+    toc: true
+---
+#### Contents
+
+The boy bishop  
+(published in [The Monthly Packet](monthly_packet.qmd), Christmas 1878)
+
+One will and three ways  
+(published in [The Monthly Packet](monthly_packet.qmd), Christmas 1877)
+
+Kaspar's summer dream  
+(published in [The Monthly Packet](monthly_packet.qmd), Christmas 1876)
+
+Buy a broom
+
+The travels of two kits
+
+Selma's secret sighs
+
+Our ghost at Fantford
+
+Anna's wedding cake
+
+Autobiography of Patty Applecheeks
+
+A holiday engagement, or, The Campbells are coming.
+

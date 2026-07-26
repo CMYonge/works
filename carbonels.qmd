@@ -1,0 +1,18 @@
+---
+title: "The Carbonels"
+sort_title: "Carbonels"
+year: 1895
+subtitle: "1895"
+gutenberg_url: "https://www.gutenberg.org/ebooks/21223"
+slug: "carbonels"
+format:
+  html:
+    toc: true
+---
+
+#### Manuscript of The Carbonels
+
+The Morris L. Parrish Collection of Victorian Novelists at Princeton includes the **manuscript** of *The Carbonels.*
+
+
+

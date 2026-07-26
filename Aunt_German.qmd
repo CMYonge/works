@@ -1,0 +1,16 @@
+---
+title: "Aunt Charlotte's Stories of German History for the Little Ones"
+sort_title: "Aunt Charlotte's Stories of German History for the Little Ones"
+slug: "Aunt_German"
+format:
+  html:
+    toc: true
+---
+
+
+
+Click here to read David Blamires' book on [The Impact of Germany on English Children's Books](https://www.openbookpublishers.com/books/10.11647/obp.0004).
+
+ 
+
+
