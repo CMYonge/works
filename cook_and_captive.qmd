@@ -1,6 +1,7 @@
 ---
 title: "The Cook and the Captive, or Attalus the Hostage"
 sort_title: "Cook and the Captive, or Attalus the Hostage"
+year: 1894
 slug: "cook_and_captive"
 format:
   html:

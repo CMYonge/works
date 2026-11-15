@@ -10,20 +10,20 @@ format:
     toc: true
 ---
 
-### **Publication details, summary and further reading**
+#### **Publication details, summary and further reading**
 
-(Kindly supplied by Amy de Gruchy)
+(Text kindly supplied by Amy de Gruchy)
 
-### Publication
+#### Publication
 
-August 1858 - August 1859 serialised in The Magazine for the Young, editor Ann Mozley, publishers John and Charles Mozley.  
+August 1858 - August 1859 serialised in The Magazine for the Young, editor Ann Mozley, publishers John and Charles Mozley.\
 1859 book published by Mozley.
 
 ### Contents
 
-In a letter to a friend in February 1859 C M Yonge acknowledged the authorship of *Friarswood Post Office*and described her sources for it:
+In a letter to a friend in February 1859 C M Yonge acknowledged the authorship of *Friarswood Post Office* and described her sources for it:
 
-Yes, Friarswood is mine and Paul Blackthorn is a portrait of a poor boy who came here at the time of the last confirmation out of Andover Union. All about him and the village boys, up to the end of the chapter you will have in March, is quite true except that the farmer is worse than William Smith was. The further part is, I am sorry to say, all embellishment, for the real lad enlisted, and we know no more about him. Alfred was a boy in Devonshire to whom Jane Moore used to go constantly, and who thought of her as very like a sunbeam. He used to look so beautifully fair and pale with such blue eyes, and his feelings about his younger brother were much what I tried to show them.
+> *Yes, Friarswood is mine and Paul Blackthorn is a portrait of a poor boy who came here at the time of the last confirmation out of Andover Union. All about him and the village boys, up to the end of the chapter you will have in March, is quite true except that the farmer is worse than William Smith was. The further part is, I am sorry to say, all embellishment, for the real lad enlisted, and we know no more about him. Alfred was a boy in Devonshire to whom Jane Moore used to go constantly, and who thought of her as very like a sunbeam. He used to look so beautifully fair and pale with such blue eyes, and his feelings about his younger brother were much what I tried to show them.*
 
 In the story Paul, abandoned as a baby is brought up in a workhouse. When he is old enough to earn his own living he is sent away and eventually arrives, dirty and ragged, at Friarswood where a brutal farmer employs and exploits him. However the villagers befriend him, and the acting clergyman, Mr Cope, a deacon, prepares him for confirmation with the other boys. Later he rescues the 13 year old postman, Harold King from a thief, but becomes ill in consequence and is nursed by Harold's mother. His intelligence and attainments are then recognized, and he is enabled to train as a school master, and in the last chapter of the book marries Ellen King, Harold's sister.
 
@@ -49,9 +49,6 @@ The tale first appeared as a serial in *The Magazine for the Young* which was de
 
 *For contemporary reviews see:*
 
-**L. Madden**  
-*J.B. Shorthouse and C.M. Yonge*  
-Unpublished thesisUniversity of London Diploma in Librarianship, 1964
-
-
-
+**L. Madden**\
+*J.B. Shorthouse and C.M. Yonge*\
+Unpublished thesis University of London Diploma in Librarianship, 1964

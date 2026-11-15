@@ -9,7 +9,7 @@ format:
     toc: true
 ---
 
-#### Charlotte Yonge's own Preface to English Church History
+### Charlotte Yonge's Preface to English Church History
 
 THE brief history here given is an attempt to make the growth of our Church, and of the Prayer Book; comprehensible to young minds. It is hoped that it may be found useful in the senior classes of Sunday and Saturday Schools, as well as to pupil teachers, and that it may help to establish in their minds the essential fact that our own is a branch of the One Catholic and Apostolic Church, built on the One Foundation. The continuity of the Church and the origin of the Prayer Book have therefore been made special subjects; and there has also been an endeavour to show the causes of whatever still comes under the eye of our young people. Some of the greatest difficulties of our time have been caused on the one hand by the loyal assumption that whatever is is right, and on the other by the belief that whatever is old must be better than the new, both parties being alike ignorant of the principle and cause of the customs which they attack or defend, and thus not knowing whether they are, or are not, important.
 
@@ -17,150 +17,78 @@ A knowledge of our own Church history would have some effect in lessening this i
 
 C; M. Yonge
 
-September 23rd, 1882  
+September 23rd, 1882
 
-#### Chapter titles for English Church History  
+#### Chapter titles for English Church History
 
-I.
+I. The British Church
 
-The British Church
+II. Conversion of Ireland and Scotland
 
-II.
+III. Our first Archbishop
 
-Conversion of Ireland and Scotland
+IV. The Conversion of Northumbria
 
-III.
+V. Theodore and Wilfred
 
-Our first Archbishop
+VI. Old English Saints
 
-IV.
+VII. The Danish Ravages
 
-The Conversion of Northumbria
+VIII. The Changes made by the Normans
 
-V.
+IX. Archbishop Anselm
 
-Theodore and Wilfred
+X. Archbishop Becket
 
-VI.
+XI. The Interdict
 
-Old English Saints
+XII. The Secular and Regular Clergy
 
-VII.
+XIII. Colleges
 
-The Danish Ravages
+XIV. Wycliffe and the Lollards
 
-VIII.
+XV. Preparations for Change
 
-The Changes made by the Normans
+XVI. The Separation from Rome
 
-IX.
+XVII. The Dissolution of the Monasteries
 
-Archbishop Anselm
+XVIII. King Edward's First Prayer Book
 
-X
+XIX. King Edward's Second Prayer Book
 
-Archbishop Becket
+XX. The Marian Persecution
 
-XI
+XXI. Remodelling
 
-The Interdict
+XXII. The Puritans
 
-XIII
+XXIII. The Hampton Court Conferences
 
-The Secular and Regular Clergy
+XXIV. Archbishop Laud
 
-XIII.
+XXV. Discontents
 
-Colleges
+XXVI. The Rebellion
 
-XIV
+XXVII. The Persecution of the Church
 
-Wycliffe and the Lollards
+XXVIII. The Restoration
 
-XV.
+XXIX. The Savoy Conferences
 
-Preparations for Change
+XXX. The Seven Bishops
 
-XVI
+XXXI. The Revolution
 
-The Separation from Rome
+XXXII. Silencing of Convocation
 
-XVII
+XXXIII. John Wesley
 
-The Dissolution of the Monasteries
+XXXIV. Evangelical Awakenings in the Church
 
-XVIII
+XXXV. The Church Awakening
 
-King EdwardÂ’s First Prayer Book
-
-XIX
-
-King EdwardÂ’s Second Prayer Book
-
-XX.
-
-The Marian Persecution
-
-XXI.
-
-Remodelling
-
-XXII
-
-The Puritans
-
-XXIII.
-
-The Hampton Court Conferences
-
-Archbishop Laud
-
-XXV.
-
-Discontents
-
-XXVI
-
-The Rebellion
-
-XXVII.
-
-The Persecution of the Church
-
-XXVIII.
-
-The Restoration
-
-XXIX.
-
-The Savoy Conferences
-
-XXX
-
-The Seven Bishops
-
-XXXI
-
-The Revolution
-
-XXXII.
-
-Silencing of Convocation
-
-XXXIII.
-
-John Wesley
-
-XXXIV.
-
-Evangelical Awakenings in the Church
-
-XXXV.
-
-The Church Awakening
-
-XXXVI.
-
-Revival of Convocation
-
-
+XXXVI. Revival of Convocation

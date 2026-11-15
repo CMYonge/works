@@ -3,14 +3,14 @@ title: "The Constable's Tower, or, the Times of Magna Carta"
 sort_title: "Constable's Tower, or, the Times of Magna Carta"
 year: 1891
 subtitle: "1891"
-slug: "constables tower"
+slug: "constables_tower"
 format:
   html:
     toc: true
 ---
 
 
-### Charlotte Yonge's own Preface to *The Constable's Tower*
+### Charlotte Yonge's Preface to *The Constable's Tower*
 
 HUBERT DE BURGH, a man of unflinching faith, courage, and loyalty, is one of the few Charta on behalf of the king, but he did not take part with the Barons when John attacked them, holding himself bound by his faith to the king.
 

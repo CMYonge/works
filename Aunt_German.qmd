@@ -1,6 +1,7 @@
 ---
 title: "Aunt Charlotte's Stories of German History for the Little Ones"
 sort_title: "Aunt Charlotte's Stories of German History for the Little Ones"
+year: 1877
 slug: "Aunt_German"
 format:
   html:

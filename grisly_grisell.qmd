@@ -9,11 +9,12 @@ format:
   html:
     toc: true
 ---
-##*Grisly Grisell* – Publication details, summary and bibliography
 
-(Kindly supplied by Amy de Gruchy)
+#### *Grisly Grisell* – Publication details, summary and bibliography
 
-### Publication details
+(Text kindly supplied by Amy de Gruchy)
+
+#### Publication details
 
 1893, Macmillan.
 
@@ -29,30 +30,29 @@ Characterisation is subordinated to the plot. Griselda as the loathly lady and r
 
 There is hardly any overt moralising. The authorial voice is chiefly used to convey information about the social conditions and the events of the period.
 
-Further Reading
+#### Further Reading
 
-For contemporary reviews see  
+For contemporary reviews see
 
-**L. Madden**,  *J.B. Shorthouse and C.M. Yonge*,  
-Unpublished thesis  
+**L. Madden**, *J.B. Shorthouse and C.M. Yonge*,\
+Unpublished thesis\
 University of London Diploma in Librarianship, 1964.
 
-**Romanes, Ethel**  
-*Charlotte Mary Yonge. An appreciation*  
-(London and Oxford: Mowbray, 1908)  
+**Romanes, Ethel**\
+*Charlotte Mary Yonge. An appreciation*\
+(London and Oxford: Mowbray, 1908)\
 page 182.
 
-**Briggs, Katherine Mary**  
-*Folklore in the Works of Charlotte Yonge*,  
-(Occasional Papers of the K.B.Club, No. 1. Cambridge: Just Your Type, 1990)  
+**Briggs, Katherine Mary**\
+*Folklore in the Works of Charlotte Yonge*,\
+(Occasional Papers of the K.B.Club, No. 1. Cambridge: Just Your Type, 1990)\
 pages 11-12.
 
 ### Review of *Grisly Grisell*
 
-Click here to read[a review of *Grisly Grisell* by Elizabeth Yank](http://www.love2learn.net/history/15centhf.htm#grislygrisell)  
+Click here to read[a review of *Grisly Grisell* by Elizabeth Yank](http://www.love2learn.net/history/15centhf.htm#grislygrisell)
 
 ### *Grisly Grisell* on paper
 
-*Grisly Grisell* has been reprinted as an illustrated hardback by the Lepanto Press.  
+*Grisly Grisell* has been reprinted as an illustrated hardback by the Lepanto Press.\
 It is part of their Knights and Ladies series, which also includes editions of [*The Lances of Lynwood*](lances.qmd) and [*The Little Duke*](little_duke.qmd).
-

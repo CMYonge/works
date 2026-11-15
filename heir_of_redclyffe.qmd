@@ -10,7 +10,7 @@ format:
     toc: true
 ---
 
-The Literature Network offers an [easy-to-search online version ](http://www.online-literature.com/charlotte-yonge/heir-of-redclyffe/)of the *Heir*
+The Literature Network offers an [easy-to-search online version ](http://www.online-literature.com/charlotte-yonge/heir-of-redclyffe/) of the *Heir*
 
 
 ### *The Heir of Redclyffe* on paper
@@ -32,9 +32,9 @@ in Victorian Literature and Culture Volume 31, Number 1, 2003.
 
 The summary below is from the Cambridge Journals Online website
 
-This paper seeks to explore some of the reasons why the novels of Charlotte M Yonge, who enjoyed a prolific and prestigious career as a novelist, have been written out of contemporary accounts of the rise of the novel. It argues that the way the concept of "realism" has been defined in these accounts, starting with Ian Watts' influential work, is based on a naturalistic epistemology which inevitably tends to favour novelists who share its own presuppositions. Thus in George Levine's landmark study The Realistic Imagination, for example, a teleological narrative is constructed in which George Eliot's work comes to represent the culmination of Â“realismÂ”, and the work of earlier novelists such as Jane Austen is described as an exercise in induction in which moral significance naturally emerges from empirical reality.
+This paper seeks to explore some of the reasons why the novels of Charlotte M Yonge, who enjoyed a prolific and prestigious career as a novelist, have been written out of contemporary accounts of the rise of the novel. It argues that the way the concept of "realism" has been defined in these accounts, starting with Ian Watts' influential work, is based on a naturalistic epistemology which inevitably tends to favour novelists who share its own presuppositions. Thus in George Levine's landmark study The Realistic Imagination, for example, a teleological narrative is constructed in which George Eliot's work comes to represent the culmination of “realism”, and the work of earlier novelists such as Jane Austen is described as an exercise in induction in which moral significance naturally emerges from empirical reality.
 
-Yonge's novels do not fit this critical paradigm of Â“realismÂ” because, whilst being impeccably realistic in novelistic technique, they articulate a religious perspective on the world based on Yonge's Tractarian beliefs. One important way in which The Heir of Redclyffe reflects this perspective is in the use Yonge makes of typological significances throughout its plot. This use of typology is aimed against the naturalistic epistemological perspective of one of the novel's main characters, Philip, who has leanings towards utilitarianism. For these reasons, it is possible to interpret the novel as a critique of the kind of Â“realismÂ” to which critics such as Levine appeal.
+Yonge's novels do not fit this critical paradigm of “realism” because, whilst being impeccably realistic in novelistic technique, they articulate a religious perspective on the world based on Yonge's Tractarian beliefs. One important way in which The Heir of Redclyffe reflects this perspective is in the use Yonge makes of typological significances throughout its plot. This use of typology is aimed against the naturalistic epistemological perspective of one of the novel's main characters, Philip, who has leanings towards utilitarianism. For these reasons, it is possible to interpret the novel as a critique of the kind of “realism” to which critics such as Levine appeal.
 
 **Ethel Romanes -- from "Charlotte Mary Yonge: An Appreciation"**
 **[Chapter IV. 'The Heir of Redclyffe'](http://anglicanhistory.org/cmyonge/romanes/04.html)**
@@ -47,7 +47,7 @@ ART. VII. The Heir of Redclyffe. By the Author of "The Two Guardians", "Henriett
 Eighth Thousand. New York: P. H. Appleton & Co. 1854. 2 vols.  
 Heartsease: or the Brother's Wife. By the Author of "The Heir of Redclyffe" New York: ID. Appleton & Co. 1855. 2 vols.
 
-No large share of the triumphs of the pen has hitherto belonged to woman. We have yet to learn that since the creation she has ever confributed any very important volume to the library of science. Mrs. Sommerville accomplished not the least of her achievements in reading what was written by Laplace. In spite of the agreeable memoirs with which we have been favored by Miss Pardoe, Miss Strickland, and others, and the more ambitious efforts of Anna Comnena and of Catherine Macaulay, the standard history which is to bear a feminine name in the authorÂ’s place upon its title-page is still to be written. No woman has ever yet reached a high eminence as a metaphysician, unless we are to except the pillory-like eminence to which Miss Martineau has just climbed, upon her compend of ComteÂ’s Positive Philosophy; and from the tumble of the almost mythical Sappho to the rise of Elizabeth Barrett Browning, scarcely a woman wrote poetry.
+No large share of the triumphs of the pen has hitherto belonged to woman. We have yet to learn that since the creation she has ever confributed any very important volume to the library of science. Mrs. Sommerville accomplished not the least of her achievements in reading what was written by Laplace. In spite of the agreeable memoirs with which we have been favored by Miss Pardoe, Miss Strickland, and others, and the more ambitious efforts of Anna Comnena and of Catherine Macaulay, the standard history which is to bear a feminine name in the author’s place upon its title-page is still to be written. No woman has ever yet reached a high eminence as a metaphysician, unless we are to except the pillory-like eminence to which Miss Martineau has just climbed, upon her compend of Comte’s Positive Philosophy; and from the tumble of the almost mythical Sappho to the rise of Elizabeth Barrett Browning, scarcely a woman wrote poetry.
 
 That this fact is owing to natural incapacity in the sex, we do not say, and no one knows. Uncultivated and unenriched, as well as naturally sterile brains, have very probably had much to do with it. Few women have been, like Sappho and Mrs. Browning, adepts in Greek. If we had statistics to show the immense number of men, and the scanty list of women, who have received a liberal education, and the relative proportion ...
 
@@ -63,8 +63,7 @@ An epilogue to Charlotte M. Yonge's novel, "The Heir of Redclyffe"
 Beach, Susan Emily Hicks (1866-1958) nee Christian, Author
 London 1944
 
-See also "Amabel and Mary Verena - a sequel to The Heir of Redclyffe"  
-An article by Phoebe Verschoyle in the [Review of the Charlotte Mary Yonge Fellowship ](review/review.html#review_1), No 1, Summer 1995
+
 
 #### A sequel to 'The Heir of Redclyffe'
 

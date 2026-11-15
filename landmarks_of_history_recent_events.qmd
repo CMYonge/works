@@ -9,7 +9,7 @@ format:
     toc: true
 ---
 
-#### Charlotte Yonge's own Preface to Landmarks of Recent History
+### Charlotte Yonge's Preface to Landmarks of Recent History
 
 IN accordance with wishes that have been expressed, the Landmarks of History have been continued to the present time. When the Landmarks of Modern History were brought down to the Congress of Vienna, the question arose whether they should be carried any further, and I remember the publisher, Mr. John Mozley, advising against doing so, because he felt that we were then only at the beginning of one of the great historical dramas of the world, and that the end was not yet. That was a quarter of a century ago, and we have only gone further and further on into the acts of the tragedy. Yet those who have grown up in their midst need to have a brief and accessible record of their bearings, and this I have here attempted, though very diffidently, as materials for the latter part are indeed abundant enough, but require a power of sifting which I do not possess.
 

@@ -1,21 +1,120 @@
+/* ==========================================================================
+   custom_new.css  -  proposed replacement for C:/db/works/custom.css
+   Designed for laptop / desktop reading. Nothing here is applied until you
+   copy it over custom.css (keep a copy of the old one first).
+   ========================================================================== */
+
+
+/* ---- Page background and layout (unchanged from your current file) ------ */
+
 body {
   background-color: #f4efe6;
 }
 
 #quarto-margin-sidebar {
-display: none;
+  display: none;
 }
 
 .quarto-secondary-nav {
   display: none;
 }
 
+/* Width: 1000px cap. margin: 0 auto centres left-to-right only; plain
+   "margin: auto" also centred short pages vertically. */
 #quarto-document-content {
-max-width: 860px;
-margin: auto;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
+
+/* ---- Body text: font, minimum size, line spacing ------------------------ */
+/* Font stack uses fonts already installed on Windows / Mac, so nothing is
+   downloaded from Google. Segoe UI is clear and compact; Verdana is the
+   fallback; then Arial.                                                     */
+
+html {
+  font-size: 16px;               /* 12pt. Smallest body size to use. */
+}
+
+body {
+  font-family: "Segoe UI", Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12pt;               /* = 16px */
+  line-height: 1.4;              /* 1.4 to 1.5 is the usual range for long reading */
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0.75em;         /* theme default is 1rem; this is a little tighter */
+}
+
+
+/* ---- Headings: a gentle scale, 12pt body text as the base --------------- */
+/*   h1  14pt bold   (page title, and # in a file)
+     h2  13pt bold   (##)
+     h3  12pt bold   (###)   same size as the text, set apart by bold
+     h4  12pt bold italic (####)
+     h5, h6  12pt italic, not bold
+   The id selectors below are there to beat the theme's own heading rules.   */
+
+#quarto-document-content h1,
+#quarto-document-content h2,
+#quarto-document-content h3,
+#quarto-document-content h4,
+#quarto-document-content h5,
+#quarto-document-content h6,
+#title-block-header h1.title {
+  font-family: inherit;
+  line-height: 1.3;
+  color: inherit;
+  opacity: 1;                    /* theme fades h3 and h4 slightly; turn that off */
+  border-bottom: none;           /* theme draws a grey rule under h2; turn that off */
+  padding-bottom: 0;
+  margin-top: 1.2em;
+  margin-bottom: 0.4em;
+}
+
+#title-block-header h1.title,
+#quarto-document-content h1 {
+  font-size: 14pt;
+  font-weight: 700;
+}
+
+#quarto-document-content h2 {
+  font-size: 13pt;
+  font-weight: 700;
+}
+
+#quarto-document-content h3 {
+  font-size: 12pt;
+  font-weight: 700;
+}
+
+#quarto-document-content h4 {
+  font-size: 12pt;
+  font-weight: 700;
+  font-style: italic;
+}
+
+#quarto-document-content h5,
+#quarto-document-content h6 {
+  font-size: 12pt;
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* Page title block: less space above and below than the theme gives */
+#title-block-header {
+  margin-bottom: 0.75em;
+}
+
+#title-block-header h1.title {
+  margin-top: 0.5em;
+}
+
+
+/* ---- Date line under the title (was 1.15rem bold) ----------------------- */
+
 .subtitle {
-  font-size: 1.15rem;
-  font-weight: bold;
+  font-size: 12pt;
+  font-weight: 700;
 }

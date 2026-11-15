@@ -10,13 +10,11 @@ format:
     toc: true
 ---
 
+#### Plot summary for Heartsease
 
+(Text for this page kindly provided by Stella Waring)
 
-### Plot summary for Heartsease
-
-*Text for this page kindly provided by Stella Waring*
-
-Heartsease is Violet, the sixteen year old daughter of an ambitious solicitor, who married Arthur Martindale, a thoughtless young officer, without the knowledge and approval of his aristocratic family. This family consists of Lord and Lady Martindale, Arthur's parents, Mrs Nesbit, his mother's aunt, who dominates her niece and has a fortune which she holds over the head of the family. There is an elder brother, John, a semi-invalid who spends his winters abroad and has little to do with the rest of the family: apart from bad health, he has also fallen into a state of dispirited resignation since the death of his fiancÃ©e, Helen Fotheringham. There, is too, a sister, Theodora - an impulsive girl with strong feelings, who adores her brother Arthur.
+Heartsease is Violet, the sixteen year old daughter of an ambitious solicitor, who married Arthur Martindale, a thoughtless young officer, without the knowledge and approval of his aristocratic family. This family consists of Lord and Lady Martindale, Arthur's parents, Mrs Nesbit, his mother's aunt, who dominates her niece and has a fortune which she holds over the head of the family. There is an elder brother, John, a semi-invalid who spends his winters abroad and has little to do with the rest of the family: apart from bad health, he has also fallen into a state of dispirited resignation since the death of his fiancée, Helen Fotheringham. There, is too, a sister, Theodora - an impulsive girl with strong feelings, who adores her brother Arthur.
 
 The reactions of the family are barely favourable - Mrs Nesbit is furious, Lord Martindale not happy but prepared to support the young couple, while Lady Martindale seems to have no strong feelings. Theodora, however, is angry and jealous. John goes on a mission of reconciliation to the young couple, and, to his surprised, is impressed by his new sister-in-law and comes out strongly in her defence. He plays a major part in strengthening Violet's rather timid character by holding up to her the example of Helen Fotheringham, who had borne wearisome domestic trials with a brave and cheerful spirit.
 
@@ -24,25 +22,21 @@ All this sounds very unpromising, and in the early years, Violet is very unhappy
 
 It takes several family upheavals and disasters- including a fire which destroys the family mansion and kills off Mrs Nesbit - to make everyone aware of the beneficial effect Violet has come to exert on the whole family. In one of the later chapters, Percival Fotheringham, an important character and eventually the husband of Theodora, says this of Violet: "The history of these years is this ... Everyone else has acted more or less idiotically . She has gone about softening, healing, stirring up the saving part of each one's disposition ..."
 
-
-
-**Online text (French edition 1856)**  
-Click here for a Google Books version of *[Violette (Heartsease)](https://books.google.co.uk/books?id=9gEGAAAAQAAJ&printsec=titlepage&dq=c%2Bm%2B%2Byonge&lr=&as_brr=1&redir_esc=y#v=onepage&q&f=false)* published in French, 1856
+**Online text (French edition 1856)**\
+Click here for a Google Books version of [*Violette (Heartsease)*](https://books.google.co.uk/books?id=9gEGAAAAQAAJ&printsec=titlepage&dq=c%2Bm%2B%2Byonge&lr=&as_brr=1&redir_esc=y#v=onepage&q&f=false) published in French, 1856
 
 ### Heartsease
 
-1. Peace of mind.  
-2. A hybrid plant derived from crossing certain species of the genus Viola and having small, spurred, variously colored flowers.
+1.  Peace of mind.\
+2.  A hybrid plant derived from crossing certain species of the genus Viola and having small, spurred, variously colored flowers.
 
 Wikipedia has a [useful illustrated page about this plant](http://en.wikipedia.org/wiki/Heartsease).
 
-###What did they think at the time?**
+### What did they think at the time?
 
-**Putnam's monthly magazine of American literature, science and art.**
-**Volume 5, Issue 26, February 1855 : page 220**
+**Putnam's monthly magazine of American literature, science and art.** **Volume 5, Issue 26, February 1855 : page 220**
 
-"The central  idea of Heartsease (by tbe author of *The Heir of Redc/yffe*) is the same with that of*The Pride of Life*; namely: tlse experience of a wife, married for her loveliness, into a sphere "above" her own. Perhaps novels of this species are a sigti and outgrowth of the gradual equalization which seems to he slowly supervening upon the stratified texture of English society. But the book is of a much higher order, morally and artistically. than Lady Scott's. The characters are exceedingly well drawn and distinguished. Violet is a true and lovely woman, operating upon her unstable husband, and her outrageously proud sister-in-law, Theodora, by forces beautiful and womanly, unconscious and still, but powerful and sure. Her own trials and changes, and those of her relatives, are very skillfully developed. The book, although not of the intense kind, bears evidence of very keen observation, and very true and careful thought; and as a work of art, must rank very high. There is one noticeable defect, in the management of the moral. This, which was apparently intended to permeate the whole texture of the narrative, is stuck in in unassimilated, uncomfortable lumps. We come upon them as upon an unexpected jolt; with a start and an "oh"  
-  
+"The central idea of Heartsease (by tbe author of *The Heir of Redc/yffe*) is the same with that of *The Pride of Life*; namely: tlse experience of a wife, married for her loveliness, into a sphere "above" her own. Perhaps novels of this species are a sigti and outgrowth of the gradual equalization which seems to he slowly supervening upon the stratified texture of English society. But the book is of a much higher order, morally and artistically. than Lady Scott's. The characters are exceedingly well drawn and distinguished. Violet is a true and lovely woman, operating upon her unstable husband, and her outrageously proud sister-in-law, Theodora, by forces beautiful and womanly, unconscious and still, but powerful and sure. Her own trials and changes, and those of her relatives, are very skillfully developed. The book, although not of the intense kind, bears evidence of very keen observation, and very true and careful thought; and as a work of art, must rank very high. There is one noticeable defect, in the management of the moral. This, which was apparently intended to permeate the whole texture of the narrative, is stuck in in unassimilated, uncomfortable lumps. We come upon them as upon an unexpected jolt; with a start and an "oh"
 
 ### Last Heartsease Leaves
 
@@ -255,5 +249,3 @@ A silence, broken by Mr. Fotheringham”'How do you think Lady Martindale? She l
 'Weary?'
 
 'Now and then, but there is plenty of heartsease to be found in it.'
-
-

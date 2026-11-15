@@ -16,11 +16,11 @@ Click here to reach an **[illustrated online version of *A Book of Golden Deeds*
 
 This book has been put on-line as part of the **[BUILD-A-BOOK](http://digital.library.upenn.edu/women/instructions-2.html)** Initiative at the **[Celebration of Women Writers](http://digital.library.upenn.edu/women/writers.html)** through the combined work of: Alison Rogers and LaGloria Scott, Ann and Neil Piche, Brooks Taylor, Chris Alhambra, Jan Lawson, Jessie Hudgins, Joan Chovan, Judith Fetterolf, Judith Welch, Lori Summers, Patricia Heil, Sally Drake, Sue Farley, Sumi Lee, Velvet Van Bueren, and Mary Mark Ockerbloom.
 
-### Charlotte Yonge's own Preface to *A Book of Golden Deeds*
+### Charlotte Yonge's Preface to *A Book of Golden Deeds*
 
 As the most striking lines of poetry are the most hackneyed, because they have grown to be the common inheritance of all the world, so many of the most noble deeds that earth can show have become the best known, and enjoyed their full meed of fame. Therefore it may be feared that many of the events here detailed, or alluded to, may seem trite to those in search of novelty; but it is not for such that the collection has been made. It is rather intended as a treasury for young people, where they may find minuter particulars than their abridged histories usually afford of the soul-stirring deeds that give life and glory to the record of events; and where also other like actions, out of their ordinary course of reading, may be placed before them, in the trust that example may inspire the spirit of heroism and self-devotion. For surely it must be a wholesome contemplation to look on actions, the very essence of which is such entire absorption in others that self is forgotten; the object of which is not to win promotion, wealth, or success, but simple duty, mercy, and loving kindness. These are the actions wrought, "hoping for nothing again", but which most surely have their reward.
 
-The authorities have not been given, as for the most part the narratives lie on the surface of history. For the description of the Colisæum, I have, however, been indebted to the Abbé Gerbet's *Rome Chrétienne*; for the Housewives of Löwenburg, and St. Stephen's Crown, to Freytag's *Sketches of German Life*; and for the story of George the Triller, to Mr. Mayhew's Germany. The Escape of Attalus is narrated (from Gregory of Tours) in Thierry's *Lettres sur l'Histoire de France*; the Russian officer's adventures, and those of Prascovia Lopouloff, the true Elisabeth of Siberia, are from M. le Maistre; the shipwrecks chiefly from Gilly's *Shipwrecks of the British Navy*; the *Jersey Powder Magazine*from the *Annual Register*, and that at Ciudad Rodrigo, from the traditions of the 52nd Regiment.
+The authorities have not been given, as for the most part the narratives lie on the surface of history. For the description of the Colisæum, I have, however, been indebted to the Abbé Gerbet's *Rome Chrétienne*; for the Housewives of Löwenburg, and St. Stephen's Crown, to Freytag's *Sketches of German Life*; and for the story of George the Triller, to Mr. Mayhew's Germany. The Escape of Attalus is narrated (from Gregory of Tours) in Thierry's *Lettres sur l'Histoire de France*; the Russian officer's adventures, and those of Prascovia Lopouloff, the true Elisabeth of Siberia, are from M. le Maistre; the shipwrecks chiefly from Gilly's *Shipwrecks of the British Navy*; the *Jersey Powder Magazine* from the *Annual Register*, and that at Ciudad Rodrigo, from the traditions of the 52nd Regiment.
 
 There is a cloud of doubt resting on a few of the tales, which it may be honest to mention, though they were far too beautiful not to tell. These are the details of the Gallic occupation of Rome, the Legend of St. Geneviève, the Letter of Gertrude von der Wart, the stories of the Keys of Calais, of the Dragon of Rhodes, and we fear we must add, both Nelson's plan of the Battle of the Nile, and likewise the exact form of the heroism of young Casabianca, of which no two accounts agree. But it was not possible to give up such stories as these, and the thread of truth there must be in them has developed into such a beautiful tissue, that even if unsubstantial when tested, it is surely delightful to contemplate.
 
@@ -32,7 +32,7 @@ At some risk of prolixity, enough of the surrounding events has in general been 
 
 NOVEMBER 17, 1864.
 
-### Charlotte Yonge's bibliography for*A Book of Golden Deeds*
+### Charlotte Yonge's bibliography for *A Book of Golden Deeds*
 
 *"The authorities have not been given, as for the most part the narratives lie on the surface of history"*
 
@@ -48,7 +48,7 @@ For an overview of Gerbet's life and works, see **[Gerbet's biography](http://ww
   
 
 **Gustav Freytag** (1816 – 1895)  
-*"*... Freytag's*Sketches of German Life*for the Housewives of Löwenburg, and St. Stephen's Crown ...*"*
+*"*... Freytag's *Sketches of German Life* for the Housewives of Löwenburg, and St. Stephen's Crown ... *"*
 
 Yonge is probably referring to Freytag's series *Bilder aus der deutschen Vergangenheit*, which seemed to have appeared in several volumes and editions over a period of years:
 
@@ -61,12 +61,12 @@ For lots more on the background to Yonge's tale, search the internet for "Die We
 **Augustin****Thierry**(1795-1856)  
 " ...Thierry's *Lettres sur l'Histoire de France*(1827) for the escape of Attalus (from Gregory of Tours) ... "  
 
-For more on Thierry himself, read this**[short biography of Augustin Thierry](http://www.bautz.de/bbkl/t/thierry_j_n_a.shtml)**(in German).  
+For more on Thierry himself, read this **[short biography of Augustin Thierry](http://www.bautz.de/bbkl/t/thierry_j_n_a.shtml)**(in German).  
 
 For a 14-page paper on Thierry's work, try the *[**Historiographie du XIXe siècle**](http://bcs.fltr.ucl.ac.be/ENC4/12.html)**[: Augustin Thierry](http://bcs.fltr.ucl.ac.be/ENC4/12.html)* section of the Encyclopedie de l'histoire
 
-**William O.S. Gilly  **
-" ... the shipwrecks [come] chiefly from Gilly's*Shipwrecks of the British Navy ... "*
+**William O.S. Gilly**
+" ... the shipwrecks [come] chiefly from Gilly's *Shipwrecks of the British Navy ... "*
 
 (The correct title seems to be *Narratives of shipwrecks of the Royal Navy: between 1793 and 1857*)*  
 by Gilly, W. O. S., 1864 Longmans, London, 332 pp.
@@ -79,13 +79,13 @@ with a preface by William Stephen Gilly.
 London : J.W. Parker, 1851.
 
 **Annual Register**  
-*" ... the Jersey Powder Magazine [is] from the Annual Register ... "  *  
+*" ... the Jersey Powder Magazine [is] from the Annual Register ... "*  
 The Annual Register is a survey of the past year (traditionally focusing on history, politics, and literature) published annually in the UK since 1758. It has had various publishers; the latest is Longmans. On the title page of the first issue it describes itself as "**[The Annual Register, or a View of the History, Politicks and Literature of the Year 1758](http://www.bodley.ox.ac.uk/cgi-bin/ilej/image1.pl?item=page&seq=1&size=1&id=ar.1758.x.x.1.x.x.u1)**"
 
 The Bodleian Library at Oxford has **[volumes 1-21 on-line as page images](http://www.bodley.ox.ac.uk/cgi-bin/ilej/pbrowse.pl?item=jnl)**(1758-1778): .
 
 **52nd (or Oxfordshire) Regiment of Foot**
-*"... [the events at] at Ciudad Rodrigo from the traditions of the 52nd Regiment ..."  *
+*"... [the events at] at Ciudad Rodrigo from the traditions of the 52nd Regiment ..."*
 
 Yonge is referring to **[The Siege of Ciudad Rodrigo: January 8-19, 1812](http://www.napoleonseries.org/articles/wars/ciudad.cfm)**, part of the Peninsular Campaign against Napoleon 1808-14.  
 Her hero, Captain William Jones, was later killed at the storming of Badajoz on 6th April 1812.
@@ -106,7 +106,7 @@ Count Joseph de Maistre was a major theorist of the Counter-Enlightenment whose 
 
 Henry Mayhew was a writer, playwright, journalist and co-founder of Punch, perhaps best remembered for his classic work *London Labour and the London Poor*(1851).
 
-Yonge is here referring to Mayhew's 1864 publication:*German life and manners as seen in Saxony at the present day : with an account of village life--town life--fashionable life--married life--school and university life, &c., of Germany at the present time. Illustrated with Songs and Pictures of the Student Customs at the University of Jena.*
+Yonge is here referring to Mayhew's 1864 publication: *German life and manners as seen in Saxony at the present day : with an account of village life--town life--fashionable life--married life--school and university life, &c., of Germany at the present time. Illustrated with Songs and Pictures of the Student Customs at the University of Jena.*
 
 Georg(e) the Triller's golden deed is now commemorated by an obeliskinscribed "Hier wurde Prinz Albrecht, Ahnherr des kgl. Sächs. Fürstenhauses am 8. Juli 1455 durch den Köhler Schmidt, hernach Triller genannt, aus Kunzens von Kauffunge".
 
@@ -121,7 +121,7 @@ Volume 25, Issue 6, June 1865, pp. 379-380
 
 This is a charming book, got up in excellent style, closely printed on tinted paper, and constituting a treasury of some of the noblest deeds of the world. "It is intended," says the author, "as a treasury for young people, where they may find minuter particulars than their abridged histories usually afford of the soul-stirring deeds that give life and glory to the record of events; and where also other like actions, out of their ordinary course of reading, may be placed before them, in the trust that example may inspire the spirit of heroism and self-devotion." This book is worthy of a place in every family, immeasurably preferable to much of the trash that finds its way into our households.
 
-**Real Men read Charlotte Yonge **
+**Real Men read Charlotte Yonge**
 
 #### Men at War: The Best War Stories of All Time  
 Edited and with an Introduction by Ernest Hemingway 1942

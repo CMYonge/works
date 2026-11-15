@@ -1,6 +1,7 @@
 ---
 title: "A Storehouse of Stories, Volume 1"
 sort_title: "Storehouse of Stories, Volume 1"
+year: 1870
 slug: "storehouse_of_stories_1"
 format:
   html:

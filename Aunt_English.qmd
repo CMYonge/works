@@ -10,27 +10,27 @@ format:
     toc: true
 ---
 
-#### Aunt Charlotte's Stories of English History
+### Aunt Charlotte's Stories of English History
 
 #### Chapter titles
 
-1. Julius Caesar. B.C. 55.
+1.  Julius Caesar. B.C. 55.
 
-2. The Romans in Britain. A.D. 41–418.
+2.  The Romans in Britain. A.D. 41–418.
 
-3. The Angle Children. A.D. 597.
+3.  The Angle Children. A.D. 597.
 
-4. The Northmen. A.D. 858–958.
+4.  The Northmen. A.D. 858–958.
 
-5. The Danish Conquest. A.D. 958–1035.
+5.  The Danish Conquest. A.D. 958–1035.
 
-6. The Norman Conquest. A.D. 1035–1066.
+6.  The Norman Conquest. A.D. 1035–1066.
 
-7. William the Conqueror. A.D. 1066–1087.
+7.  William the Conqueror. A.D. 1066–1087.
 
-8. William II., Rufus. A.D. 1087–1100.
+8.  William II., Rufus. A.D. 1087–1100.
 
-9. Henry I., Beau-Clerc. A.D. 1100–1135.
+9.  Henry I., Beau-Clerc. A.D. 1100–1135.
 
 10. Stephen. A.D. 1135–1154.
 
@@ -113,4 +113,3 @@ format:
 49. Victoria (continued). A.D. 1855–1860.
 
 50. Victoria (continued). A.D. 1860–1872.
-

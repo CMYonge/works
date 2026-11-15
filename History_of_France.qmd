@@ -1,8 +1,9 @@
 ---
 title: "History of France"
 sort_title: "History of France"
+year: 1878
 slug: "History of France"
-gutneberg_url: "https://www.gutenberg.org/files/17287/17287-h/17287-h.htm"
+gutenberg_url: "https://www.gutenberg.org/files/17287/17287-h/17287-h.htm"
 format:
   html:
     toc: true

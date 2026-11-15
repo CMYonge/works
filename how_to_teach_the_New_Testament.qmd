@@ -9,8 +9,4 @@ format:
     toc: true
 ---
 
-
-
-[Click here to read Charlotte Yonge's *How to teach the New Testament* ](http://justus.anglican.org/resources/pc/cmyonge/howtoteach.html) from Project Canterbury  
-
-
+[Click here to read Charlotte Yonge's *How to teach the New Testament*](http://justus.anglican.org/resources/pc/cmyonge/howtoteach.html) from Project Canterbury

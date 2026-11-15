@@ -10,17 +10,17 @@ format:
     toc: true
 ---
 
-### Publication details, summary and further reading
+#### Publication details, summary and further reading
 
-Text kindly supplied by Amy de Gruchy and prepared for the website by Esther McGilvray
+(Text kindly supplied by Amy de Gruchy and prepared for the website by Esther McGilvray)
 
-##Publication
+#### Publication
 
-January to December 1886 in *The Monthly Packet * vols 1 and 2 of the New Series, published by Walter Smith (late Mozley) with the title A Modern Quest of Ulysses.  
+January to December 1886 in *The Monthly Packet* vols 1 and 2 of the New Series, published by Walter Smith (late Mozley) with the title A Modern Quest of Ulysses.  
 
 *A Modern Telemachus* published by Macmillan 1886
 
-##Contents
+## Contents
 
 According to the preface to the book, the tale is based on an historical incident. In 1719 a French lady, the Countess de Bourke, travelled by sea to join her husband in Spain. Her ship was taken by Algerian pirates and then wrecked on the coast of North Africa. The Countess, her young son and some of her servants were drowned, but her brother-in-law, an abbé, her nine year old daughter, her maitre de hotel, and a man and woman servant reached the shore only to be captured by savage tribesmen. The little girl and the maitre de hotel managed to send messages to the French consul in Algiers. He informed the local ruler, the Dey, who engaged the help of a Muslim religious leader, empowering him to find and ransom the captives and return them to safety. This was done.
 
@@ -44,11 +44,11 @@ The tale is highly informative, particularly about the international politics of
 
 The texts of the serial and the book are practically identical. The same minor errors appear in both. Only the name of an English Jacobite is substituted for that of a Scottish one, at one point, a matter of minimal importance.
 
-Further Reading
+#### Further Reading
 
 For contemporary reviews see L. Madden, 'J B Shorthouse and C. M. Yonge' unpublished thesis, University of London Diploma in Librarianship. 1964.
 
-### Charlotte Yonge's own Preface to *A Modern Telemachus*
+### Charlotte Yonge's Preface to *A Modern Telemachus*
 
 The idea of this tale was taken from The Mariners' Chronicle, compiled, by a person named Scott early in the last century—a curious book of narratives of maritime adventures, with exceedingly quaint illustrations. Nothing has ever shown me more plainly that truth is stranger than fiction, for all that is most improbable here is the actual fact.
 
@@ -70,11 +70,11 @@ The circumstances of the wreck have been closely followed. 'M. Arture' actually 
 
 The real 'Arture' tried to swim to the shore, but never was seen again; so that his adventures with the little boy are wholly imaginary. But the little girl's conduct is perfectly true. When in the steward's arms she declared that the savages might take her life, but never should make her deny her faith.
 
-The account of these captors was a great difficulty, till in the old *Universal History * I found a description of Algeria which tallied wonderfully with the narrative. It was taken from a survey of the coast made a few years later by English officials.
+The account of these captors was a great difficulty, till in the old *Universal History* I found a description of Algeria which tallied wonderfully with the narrative. It was taken from a survey of the coast made a few years later by English officials.
 
 The tribe inhabiting Mounts Araz and Couco, and bordering on Djigheli Bay, were really wild Arabs, claiming high descent, but very loose Mohammedans, and savage in their habits. 'Their name of Cabeleyzes is said—with what truth I know not—to mean 'revolted,' and they held themselves independent of the Dey. They were 'in the habit of murdering or enslaving all shipwrecked travellers, except subjects of Algiers, whom they released with nothing but their lives.
 
-All this perfectly explains the sufferings of Mademoiselle de Bourke. The history of the plundering, the threats, the savage treatment of the corpses, the wild dogs, the councils of the tribe, the separation of the captives, and the child's heroism, is all literally true—the expedient of Victorine's defence alone being an invention. It is also true that the little girl and the *maître d'hôtel * wrote four letters, and sent them by different chances to Algiers, but only the last ever arrived, and it created a great sensation.
+All this perfectly explains the sufferings of Mademoiselle de Bourke. The history of the plundering, the threats, the savage treatment of the corpses, the wild dogs, the councils of the tribe, the separation of the captives, and the child's heroism, is all literally true—the expedient of Victorine's defence alone being an invention. It is also true that the little girl and the *maître d'hôtel* wrote four letters, and sent them by different chances to Algiers, but only the last ever arrived, and it created a great sensation.
 
 M. Dessault is a real personage, and the kindness of the Dey and of the Moors was exactly as related, also the expedient of sending the Marabout of Bugia to negotiate.
 
@@ -82,13 +82,13 @@ Mr. Thomas Thompson was really the English Consul at the time, but his share in 
 
 The account of the Marabout system comes from the *Universal History*; but the arrival, the negotiations, and the desire of the sheyk to detain the young French lady for a wife to his son, are from the narrative. He really did claim to be an equal match for her, were she daughter of the King of France, since he was King of the Mountains.
 
-The welcome at Algiers and the *Te Deum * in the Consul's chapel also are related in the book that serves me for authority. It adds that Mademoiselle de Bourke finally married a Marquis de B-------, and lived much respected in Provence, dying shortly before the Revolution.
+The welcome at Algiers and the *Te Deum* in the Consul's chapel also are related in the book that serves me for authority. It adds that Mademoiselle de Bourke finally married a Marquis de B-------, and lived much respected in Provence, dying shortly before the Revolution.
 
 I will only mention further that a rescued Abyssinian slave named Fareek (happily not tongueless) was well known to me many years ago in the household of the late Warden Barter of Winchester College.
 
-Since writing the above I have by the kindness of friends been enabled to discover Mr. Scott's authority, namely, a book entitledVoyage pour la Redemption des captifs aux Royaumes d'Alger et de Tunis, fait en 1720 par les P.P. François Comelin, Philemon de la Motte, et Joseph Bernard, de l'Ordre de la Sainte Trinité, dit Mathurine. This Order was established by Jean Matha for the ransom and rescue of prisoners in the hands of the Moors.A translation of the adventures of the Comtesse de Bourkeand her daughter was published in the *Catholic World*, New York, July 1881. It exactly agrees with the narration in *The Mariners' Chronicle *except that, in the true spirit of the eighteenth century, Mr. Scott thought fit to suppress that these ecclesiastics were at Algiers at the time of the arrival of Mademoiselle de Bourke's letter, that they interested themselves actively on her behalf; and that they wrote the narrative from the lips of the *maître d'hôtel* (who indeed may clearly be traced throughout). It seems also that the gold cups were chalices, and that a complete set of altar equipments fell a prey to the Cabeleyzes, whose name the good fathers endeavour to connect with *Cabale* —with about as much reason as if we endeavoured to derive that word from the ministry of Charles II.
+Since writing the above I have by the kindness of friends been enabled to discover Mr. Scott's authority, namely, a book entitled Voyage pour la Redemption des captifs aux Royaumes d'Alger et de Tunis, fait en 1720 par les P.P. François Comelin, Philemon de la Motte, et Joseph Bernard, de l'Ordre de la Sainte Trinité, dit Mathurine. This Order was established by Jean Matha for the ransom and rescue of prisoners in the hands of the Moors.A translation of the adventures of the Comtesse de Bourkeand her daughter was published in the *Catholic World*, New York, July 1881. It exactly agrees with the narration in *The Mariners' Chronicle* except that, in the true spirit of the eighteenth century, Mr. Scott thought fit to suppress that these ecclesiastics were at Algiers at the time of the arrival of Mademoiselle de Bourke's letter, that they interested themselves actively on her behalf; and that they wrote the narrative from the lips of the *maître d'hôtel* (who indeed may clearly be traced throughout). It seems also that the gold cups were chalices, and that a complete set of altar equipments fell a prey to the Cabeleyzes, whose name the good fathers endeavour to connect with *Cabale* —with about as much reason as if we endeavoured to derive that word from the ministry of Charles II.
 
-Had I known In time of the assistance of these benevolent brethren IL would certainly have introduced them with all due honour, but, like the Abbé Vertot, I have to say, *Mon histoire est écrit*, and what is worse—printed. Moreover, they do not seem to have gone on the mission with the Marabout from Bugia, so that their presence really only accounts for the * Te Deum *with which the redeemed captives were welcomed.
+Had I known In time of the assistance of these benevolent brethren IL would certainly have introduced them with all due honour, but, like the Abbé Vertot, I have to say, *Mon histoire est écrit*, and what is worse—printed. Moreover, they do not seem to have gone on the mission with the Marabout from Bugia, so that their presence really only accounts for the *Te Deum* with which the redeemed captives were welcomed.
 
 It does not seem quite certain whether M. Dessault was Consul or Envoy; I incline to think the latter. The translation in the Catholic World .speaks of Sir Arthur, but Mr. Scott's 'M. Arture' is much more *vraisemblable*. He probably had either a surname to be concealed or else unpronounceable to French lips. Scott must have had some further information of the after history of Mademoiselle de Bourke since he mentions her marriage, which could hardly have taken place when Père Comelin's book was published in 1720.
 
@@ -99,31 +99,20 @@ C. M. YONGE
 Where did Yonge get the historical information for her novels?  
 Here some details of the authors and works that Yonge cites in her Preface to *A Modern Telemachus*
  
-**The Mariner's Chronicle **: *Containing Narratives of the Most Remarkable Disasters at Sea, such as Shipwrecks, Storms, Fires and Famines: Also, Naval Engagements, Piratical Adventures, Incidents of Discovery, and Other Extraordinary and Interesting Occurrences*. By Archibald Duncan. 1804.
+**The Mariner's Chronicle**: *Containing Narratives of the Most Remarkable Disasters at Sea, such as Shipwrecks, Storms, Fires and Famines: Also, Naval Engagements, Piratical Adventures, Incidents of Discovery, and Other Extraordinary and Interesting Occurrences*. By Archibald Duncan. 1804.
 
 "Contains accounts of the last voyage and death of Bering, the destruction of the [whaleship Essex](http://www.pbs.org/odyssey/class/essex.html) by a sperm whale (the inspiration for Melville's *Moby Dick*), and a narrative of Captain Ross' Arctic expedition, among other tragic occurances."
 
-***The Mariner's Chronicle*** now back in print! 
-** Originally published in 1804, The Mariner's Chronicle was the first comprehensive collection of disasters at sea in the English Language and was an immediate best seller. Now made newly available, these stories of suffering and survival will have lost none of their resonance for all those interested in maritime history. With an introduction and notes by Nigel Pickford, author of The Atlas of Shipwreck and Treasure. For full details and the text of Nigel Pickford's introduction, visit the publisher's website:[www.germinalproductions.co.uk/ba/mariner.htm](http://www.germinalproductions.co.uk/ba/mariner.htm)
+***The Mariner's Chronicle*** 
+Originally published in 1804, The Mariner's Chronicle was the first comprehensive collection of disasters at sea in the English Language and was an immediate best seller. Now made newly available, these stories of suffering and survival will have lost none of their resonance for all those interested in maritime history. With an introduction and notes by Nigel Pickford, author of The Atlas of Shipwreck and Treasure. For full details and the text of Nigel Pickford's introduction, visit the publisher's website: [www.germinalproductions.co.uk/ba/mariner.htm](http://www.germinalproductions.co.uk/ba/mariner.htm)
 
-[Voyage pour la rédemption des captifs, aux royaumes d'Alger et de Tunis](http://perso.wanadoo.fr/bibliorare/voyages_loisirs.htm#Baker).  
+***Voyage pour la rédemption des captifs, aux royaumes d'Alger et de Tunis***  
 COMELIN François, De La MOTTE Philemon, BERNARD Joseph.  
 Paris 1721.  
 Suivi de Première liste des esclaves chrétiens, rachetés à Alger; avec le journal de leur route, et de leur réception dans les principales villes du royaume Suivi de Seconde liste des esclaves chrétiens, rachetés dans la ville et le royaume de Tunis, etc... Suivi de La Tradition de l'Église pour le soulagement ou le rachat des captifs.  
 P, Sevestre & Giffard 1721, Pt. in-8 de : portrait de Louis XV en front., (8 ff.), pl. gravé H.T. (Le Rachat des captifs), 169 pp. et une pl. dépl. entre les pp. 112 et 113 (Audience du Deï d'Alger); LX pp., (1 ff.), 306 pp. et 3 ff. (privilège).
 
-#### Victorian reviews and related material
 
-  
-**1881 - An extract from this book **, translated into English and entitled **Among the Moors*** describes the adventures of the Comtesse de Bourke and her daughter. It was published in *The Catholic World*, New York, in July 1881.**Making of America Books ** has placed this article (and much else from * The Catholic World *archives) online.
-
-To read *Among the Moors*,[click this link](http://www.hti.umich.edu/cgi/t/text/pageviewer-idx?c=moajrnl&cc=moajrnl&sid=dbe4dcf3491ccc7ffc3a6308783ef546&q1=Catholic%20World&idno=bac8387.0033.196&view=image&seq=0513).
-
-**1887 - Review of A Modern Telemachus  
-***Catholic World*. Volume: 44, Issue: 262, Jan 1887, pp. 554-564  
-(A Chat About New Books by Egan, Maurice F.)  
-
-To read a facsimile of this review from Making Of America books,[click here](http://www.hti.umich.edu/cgi/t/text/pageviewer-idx?c=moajrnl;cc=moajrnl;q1=a%20person%20named%20scott;rgn=full%20text;idno=bac8387.0044.262;didno=bac8387.0044.262;node=bac8387.0044.262%3A12;view=image;seq=0563)
 
 
 

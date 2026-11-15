@@ -10,9 +10,6 @@ format:
     toc: true
 ---
 
-#### Manuscript of The Carbonels
+### Manuscript of The Carbonels
 
-The Morris L. Parrish Collection of Victorian Novelists at Princeton includes the **manuscript** of *The Carbonels.*
-
-
-
+The Morris L. Parrish Collection of Victorian Novelists at Princeton includes the manuscript of *The Carbonels.*

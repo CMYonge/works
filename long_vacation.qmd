@@ -10,7 +10,7 @@ format:
     toc: true
 ---
 
-### Charlotte Yonge's own Preface to***The Long Vacation***
+### Charlotte Yonge's Preface to ***The Long Vacation***
 
 If a book by an author who must call herself a veteran should be taken up by readers of a younger generation, they are begged to consider the first few chapters as a sort of prologue, introduced for the sake of those of elder years, who were kind enough to be interested in the domestic politics of the Mohuns and the Underwoods.
 

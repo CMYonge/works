@@ -11,12 +11,5 @@ format:
 ---
 
 
-#### On the Trail of The Trial
 
-An account of an expedition to the Isle of Wight by a Fellowship team
-by Stephen Shell
-
-[Click here to read this article](review/on%20the%20trail%20of%20the%20trial.qmd)
-Published in *The Review of the Charlotte Mary Yonge Fellowship* 
-Edition Number 6 – Winter 1997 / 1998
 

@@ -3,7 +3,7 @@ title: "The Apple of Discord"
 sort_title: "Apple of Discord"
 year: 1864
 subtitle: "1864"
-slug: "apple of discord"
+slug: "apple_of_discord"
 format:
   html:
     toc: true

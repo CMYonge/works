@@ -1,6 +1,7 @@
 ---
 title: "Given to Hospitality"
 sort_title: "Given to Hospitality"
+year: 1882
 slug: "given_to_hospitality"
 format:
   html:

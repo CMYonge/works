@@ -13,7 +13,7 @@ format:
 
 (Text kindly supplied by Amy de Gruchy)
 
-### Publication
+#### Publication
 
 January 1853 - December 1854, serialised in [*The Monthly Packet*](monthly_packet.qmd), editor C.M.Yonge, publishers John and Charles Mozley  
 1855 book published by Parker and Son, price seven shillings and sixpence.  
@@ -31,13 +31,13 @@ In this tale Yonge does not moralize over failings, but emphasizes a virtue, loy
 
 Her historical information was partly drawn from a French chronicle, but mainly from the history of Froissart, which she hoped her readers would study for themselves.
 
-The book resembles [*The Little Duke *](little_duke.qmd) in that it falls into two parts, but unlike the latter, the second part is as interesting as the first, though lacking the historical inevitability found In the earlier tale.
+The book resembles [*The Little Duke*](little_duke.qmd) in that it falls into two parts, but unlike the latter, the second part is as interesting as the first, though lacking the historical inevitability found In the earlier tale.
 
 The book has one addition to the serial, a Gascon legend. It also has numerous stylistic alterations.  
 
 #### Further Reading
 
-For contemporary reviews see L. Madden,*J.B. Shorthouse and C.M. Yonge*, unpublished thesis, University of London Diploma in Librarianship, 1964.
+For contemporary reviews see L. Madden, *J.B. Shorthouse and C.M. Yonge*, unpublished thesis, University of London Diploma in Librarianship, 1964.
 
 **For C.M. Yonge's historical fiction:**
 
@@ -50,8 +50,7 @@ L.A. de Gruchy, 'C.M. Yonge's historical novels - the influence of Scott', 1837-
 L.A. de Gruchy, *The Monthly Packet*, unpublished thesis, University of London, 1986, p. 153 et seq.  
 
 
-### From: The Saturday Review  
-Dec. 8, 1855 p102-3
+### From: The Saturday Review  Dec. 8, 1855 p102-3
 
 NUMEROUS as are the books written specially for the amusement and instruction of young people, it is impossible to look over a shelf of them without being painfully convinced that, for the most part, they are miserable failures. How childish - a very different thing from childlike - are some, how weak and twaddling are others! How dry and uninteresting those that aim at cultivating the understanding, how full of mawkish religious sentimentality and morbid feeling those that address themselves to the heart! With what wretched food is the imagination supplied, how unreal are the stories in which impossible paragons of perfection serve no other purpose than to run the risk of exciting the dislike of healthy-natured children to goodness itself! That children love the purely ideal is evident from the delight they take in fairy tales. But even these would lose their charm if the opposing principles of good and evil were not always represented; and though they will be content that in fairy natures, which they instinctively feel to be different from their own, the struggle between the two principles should not always take place in the same person, they will never be satisfied with, take any interest in, or derive any good from attempted pictures of real life, unless they can see either the actual struggle or its fruits exhibited in every character of the story.
 
@@ -59,26 +58,24 @@ Amongst the most admirable books that have ever been written for children, we sh
 
 Some portions of the book - especially that in which the young Sir Eustace is appointed governor of the Chateau de Norbelle, which his enemies have found means of filling with a treacherous garrison - remind us strongly of *Ivanhoe*; and that the author does not suffer by the comparison will, we think, be evident from the following quotation, in which the wounded Sir Eustace is represented as lying on his pallet, listening to the fight that is going on outside:
 
-Sir Eustace heard the loud cries of "Montjoie St. Denis! Clisson!" on the one side, and the "St. George for Merry England! a Lynwood!" with which his own party replied; he heard the thundering of heavy stones, the rush of combatants, the cries of victory or defeat. Sometimes his whole being seemed in the fight; he clenched his teeth, he shouted his war-cry, tried to raise himself and lift his powerless arm; then returned again to the consciousness of his condition, clasped either the rosary or the crucifix, and turned his soul to fervent prayer; then again the strange wild cries without confounded themselves into one maddening noise on his feverish ear, or in the confusion of his weakened faculties, he would, as it were, believe himself to be his brother dying on the field of Navaretta, and scarce be able to rouse himself to a feeling of his own identity.
+>Sir Eustace heard the loud cries of "Montjoie St. Denis! Clisson!" on the one side, and the "St. George for Merry England! a Lynwood!" with which his own party replied; he heard the thundering of heavy stones, the rush of combatants, the cries of victory or defeat. Sometimes his whole being seemed in the fight; he clenched his teeth, he shouted his war-cry, tried to raise himself and lift his powerless arm; then returned again to the consciousness of his condition, clasped either the rosary or the crucifix, and turned his soul to fervent prayer; then again the strange wild cries without confounded themselves into one maddening noise on his feverish ear, or in the confusion of his weakened faculties, he would, as it were, believe himself to be his brother dying on the field of Navaretta, and scarce be able to rouse himself to a feeling of his own identity.
+
+>So passed the day, - and twilight was fast deepening into night, when the cries, a short time since more furious than ever, and nearer and more exulting on the part of the French, at length subsided, and finally died away; the trampling steps of the men-at-arms could be heard in the hall below, and Gaston himself came up with hasty step, undid his helmet, and, wiping his brow, threw himself on the ground with his back against the chest, saying, "Well we have done our devoir, at any rate!"
 
 This Gaston D'Aubricour, by the way, is one of the best drawn characters in the story, and it requires but little acquaintance with the old chronicles of the times to feel how lifelike a portrait it is. Then there is Leonard Ashton, a type of a lower nature, a spirited sketch of Bertrand du Guesclin, and a lovely picture of Arthur Lynwood, Eustace's nephew; and of ladies, we have Arthur's mother and the maiden of Eustace's love, both perfect of their kind. The local colouring is never lost sight of, and the language, though removed from quaintness and not burdened with obsolete words, sufficiently resembles that in use at the period to be in harmony with the speakers.
 
-We have but one more remark to make, which is, that our readers need only pass in review the works of the author of the *Lances of Lynwood*to be convinced of the truth of our axiom that genius can become all things to all men. The hand that drew with such delicate refinement the exquisite portrait of Violet Martindale is the same that portrayed with such masterly pencil the Heir of Redclyffe. The pen that gave us such a beautiful sketch of child-life in modern days in the *Castle Builders*, shows itself equally at home in gone-by times and amid the most exciting scenes of English history, as pictured in the story of the *Little Duke*and of the *Lances of Lynwood*; and difficult indeed we should find it to decide whether to her domestic cabinet pictures or to her historical sketches the palm ought to be assigned.
+We have but one more remark to make, which is, that our readers need only pass in review the works of the author of the *Lances of Lynwood* to be convinced of the truth of our axiom that genius can become all things to all men. The hand that drew with such delicate refinement the exquisite portrait of Violet Martindale is the same that portrayed with such masterly pencil the Heir of Redclyffe. The pen that gave us such a beautiful sketch of child-life in modern days in the *Castle Builders*, shows itself equally at home in gone-by times and amid the most exciting scenes of English history, as pictured in the story of the *Little Duke* and of the *Lances of Lynwood*; and difficult indeed we should find it to decide whether to her domestic cabinet pictures or to her historical sketches the palm ought to be assigned.
 
 Our notice of the *Lances of Lynwood* would scarcely be complete without some allusion to the illustrations by which it is accompanied. These strike us as being most masterly and beautiful, full alike of power and grace. We can scarcely glance at them without being reminded of the great advance which has been made within the last twenty years in the illustration of children's books. Formerly, we seem to have thought it a matter of no consequence how careless, how untrue to nature, how vulgar and absolutely repulsive, were the pictures with which we disfigured them. Happily for the present generation, we appear to have at last awakened to the consciousness that, if we expect the young to have refined tastes, and to appreciate beauty when they grow up, it is necessary that from their very earliest years we should set before them examples of the very highest kinds of beauty, and surround them with things that are really calculated to delight the eye for ever.
 
-#### The Lances of Lynwood  
+#### From The North American review Volume 82, Issue 171, April 1856 page 578
 by Mrs. Julia C. R. Dorr
-in The North American review  
-Volume 82, Issue 171, April 1856  
-page 578
 
 Had The Lances of Lynwood been the first of Miss Yonge's novels, it would have seemed to us a work of singular talent, skill, and promise. But it falls below the expectations which she herself has authorized. The reason probably is, that the glow of composition was somewhat chilled, and the free expression of sentiment checked, by the incessant endeavor to shun anachronisms. The plot is laid in the days, and to a considerable extent in the camp, of the Black Prince. The story, though bristling with arms, glorifies the gentler virtues that redeem, rather than the passions that govern, epochs of violence and scenes of carnage; and Eustace Lynwood, the chief personage, the most valiant knight in his princes retinue, in all meek Christian graces, in the lesser amenities and charities of daily intercourse, and in what men, to their shame, are wont to designate as womanly tenderness, yields not even to Yiolet in Heartsease. Yet we cannot help feeling that the rude and stern exteriors of life in those unsettled times have constrained and cramped the writers genius, as must his first suit of armor the limbs of the studious and clerkly youth, her hero.
 
-#### The North American review
-Volume 82, Issue 171, April 1856: pp 578-9
+#### From The North American review Volume 82, Issue 171, April 1856: pp 578-9
 
-1. The Lances of Lynwood. By the Author of "The LittleDuke," "Heartsease," "Heir of Redelyffe," &c.  
+1. The Lances of Lynwood. By the Author of "The Little Duke," "Heartsease," "Heir of Redelyffe," &c.  
 New York: ID. Appleton & Co. 1856. 24mo. pp. 277.
 
 2. Rachel Gray: a Tale founded on Fact. By JULIA KAVANAGH. New York: D. Appleton & Co. 1856. 24mo. pp. 308.

@@ -1,5 +1,5 @@
 ---
-title: "The Prince and the Page"
+title: "The Prince and the Page : A Story of the Last Crusade"
 sort_title: "Prince and the Page"
 year: 1866
 subtitle: "1866"
@@ -11,11 +11,11 @@ format:
 ---
 ### The Prince and the Page
 
-#### (Text kindly supplied by Amy de Gruchy)
+(Text kindly supplied by Amy de Gruchy)
 
 #### Publication
  
-January – December 1865 serialized in [*The Monthly Packet*] (monthly_packet.qmd), editor C. M. Yonge, publishers John and Charles Mozley  
+January – December 1865 serialized in *The Monthly Packet*, editor C. M. Yonge, publishers John and Charles Mozley  
 1866 book version published by Macmillan.  
 
 #### Contents
@@ -30,8 +30,6 @@ There is no moralizing over failings in this tale, but virtues of loyalty and up
 
 For contemporary reviews see L. Madden, *J.B. Shorthouse and C.M. Yonge*, unpublished thesis, University of London Diploma in Librarianship, 1964.
 
-For C.M. Yonge's historical fiction:
-
-Alice Fairfax Lucy, 'The other Miss Yonge', in *A Chaplet for Charlotte Yonge*.  
+For C.M. Yonge's historical fiction: Alice Fairfax Lucy, 'The other Miss Yonge', in *A Chaplet for Charlotte Yonge*.  
 Edited for The Charlotte Yonge Society by Georgina Battiscombe and Marghanita Laski. The Cresset Press, London 1965
 

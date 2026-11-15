@@ -11,7 +11,7 @@ format:
 ---
 
 
-### *Love and Life* Publication details, summary and bibliography
+#### *Love and Life* Publication details, summary and bibliography
 
 (Text kindly supplied by Amy de Gruchy)
 
@@ -41,19 +41,19 @@ C.M. Yonge was well read in eighteenth-century literature, and this is apparent 
 
 For contemporary reviews see L. Madden, *J.B. Shorthouse and C.M. Yonge*, unpublished thesis, University of London Diploma in Librarianship, 1964.
 
-### Charlotte Yonge's own Preface to the Second Edition of *Love and Life*  
+### Charlotte Yonge's Preface to the Second Edition of *Love and Life*  
 (from the 1896 Macmillan edition)
 
   
 **PREFACE TO THE SECOND EDITION**
 
-THE first edition of this tale was put forth without explaining the old fable on which it was founded “ a fable recurring again and again in fairy myths, though not traceable in the classic world till a very late period, when it appeared among the tales of Apuleius, of the province of Africa, sometimes called the earliest novelist. There are, however, fragments of the same story in the popular tales of all countries, so that it is probable that Apuleius availed himself of an early form of one of these. They are to be found from India to Scandinavia, adapted to the manners and fancy of every country in turn, *Beauty and the Beast * and the *Black Bull of Norroway * are the most familiar forms of the tale, and it seemed to me one of those legends of such universal property that it was quite fair to put it into 18th century English costume.
+THE first edition of this tale was put forth without explaining the old fable on which it was founded “ a fable recurring again and again in fairy myths, though not traceable in the classic world till a very late period, when it appeared among the tales of Apuleius, of the province of Africa, sometimes called the earliest novelist. There are, however, fragments of the same story in the popular tales of all countries, so that it is probable that Apuleius availed himself of an early form of one of these. They are to be found from India to Scandinavia, adapted to the manners and fancy of every country in turn, *Beauty and the Beast* and the *Black Bull of Norroway* are the most familiar forms of the tale, and it seemed to me one of those legends of such universal property that it was quite fair to put it into 18th century English costume.
 
 Some have seen in it a remnant of the custom of some barbarous tribes, that the wife should not behold her husband for a year after marriage, and to this the Indian versions lend themselves; but, Apuleius himself either found it, or adapted it to the idea of the Soul (the Life) awakened by Love, grasping too soon and impatiently, then losing it, and, unable to rest, struggling on through severe toils and labours till her hopes are crowned even at the gates of death. Psyche, the soul or life, whose emblem is the butterfly, thus even in heathen philosophy strained towards the higher Love, just glimpsed at for a while.
 
 Christians gave a higher meaning to the fable, and saw in it the Soul, or the Church, to whom her Bridegroom has been for a while made known striving after Him through many trials, to be made one with Him after passing through Death. The Spanish poet Calderon made it the theme of two sacred dramas, in which the lesson of Faith, not Sight, was taught, with special reference to the Holy Eucharist.
 
-English poetry has, however, only taken up its simple classical aspect. In the early part of the century, Mrs. Tighe wrote a poem in Spenserian stanza, called *Psyche*, which was much admired at the time; and Mr. Morris has more lately sung the story in his * Earthly Paradise*. This must be my excuse for supposing the outline of the tale to be familiar to most readers.
+English poetry has, however, only taken up its simple classical aspect. In the early part of the century, Mrs. Tighe wrote a poem in Spenserian stanza, called *Psyche*, which was much admired at the time; and Mr. Morris has more lately sung the story in his *Earthly Paradise*. This must be my excuse for supposing the outline of the tale to be familiar to most readers.
 
 The fable is briefly thus :-
 
@@ -72,17 +72,17 @@ She thus reached Proserpine's throne, and obtained the casket, but when she had 
 ***Lucius Apuleius (c. 123 - c. 170 AD)***  
 *" ... the old fable on which [this tale] was founded ... appeared among ... the tales of Apuleius, of the province of Africa, sometimes called the earliest novelist ... "*
 
-What Yonge is neglecting to tell us exactly is that she referring to the Eros/Cupid and Psyche story in Apuleius' *Metamorphoses* (Transformations), also known as *Asinus Aureus*(The Golden Ass). Written about 170 AD, The Golden Ass is the only complete Latin novel to survive. It follows the adventures of Lucius, who is changed by magic into an ass and later regains his human form with the help of the goddess Isis.
+What Yonge is neglecting to tell us exactly is that she referring to the Eros/Cupid and Psyche story in Apuleius' *Metamorphoses* (Transformations), also known as *Asinus Aureus* (The Golden Ass). Written about 170 AD, The Golden Ass is the only complete Latin novel to survive. It follows the adventures of Lucius, who is changed by magic into an ass and later regains his human form with the help of the goddess Isis.
 
 
-**Pedro Calderon de la Barca **(1600-1681)  
+**Pedro Calderon de la Barca** (1600-1681)  
 
-"... Christians gave a higher meaning to the fable, and saw in it the Soul, or the Church, to whom her Bridegroom has been for a while made known striving after Him through many trials, to be made one with Him after passing through Death. The Spanish poet **Calderon **made it the theme of two sacred dramas, in which the lesson of Faith, not Sight, was taught, with special reference to the Holy Eucharist ... "
+"... Christians gave a higher meaning to the fable, and saw in it the Soul, or the Church, to whom her Bridegroom has been for a while made known striving after Him through many trials, to be made one with Him after passing through Death. The Spanish poet **Calderon** made it the theme of two sacred dramas, in which the lesson of Faith, not Sight, was taught, with special reference to the Holy Eucharist ... "
 
 Explanation of Caleron's "Sacred drama" - autos sacramentales (one-act religious plays) among them El divino Orfeo and A Dios por  
 razon de estado [to God for reasons of state](http://www.newadvent.org/cathen/02143a.htm)
 
-A form of dramatic literature which is peculiar to Spain, though in some respects similar in character to the old Morality plays of England. The auto sacramental may be defined as a dramatic representation of the mystery of the Eucharist (at least at the time of CalderÃ³n).
+A form of dramatic literature which is peculiar to Spain, though in some respects similar in character to the old Morality plays of England. The auto sacramental may be defined as a dramatic representation of the mystery of the Eucharist (at least at the time of Calderón).
 
 **Mary Blachford Tighe **(1772-1810)**  
 *"... In the early part of the century, Mrs. Tighe wrote a poem in Spenserian stanza, called Psyche ..."*
@@ -91,24 +91,22 @@ Title : "Psyche , or, The Legend Of Love.
 Mary Tighe, 1805
 
 
-**William Morris **(1834-1896)  
+**William Morris** (1834-1896)  
 *" ... Mr. Morris has more lately sung the story in his Earthly Paradise ... "*
 
 William Morris was a pioneering socialist, craftsman, book designer, typographer and decorative artist, founder of the Society for the Protection of Ancient Buildings, and author of intense short lyric, long poetic narratives, and utopian-socialist prose romances.
 
-Follow this link for an online text of Morris's **Earthly Paradise **(1868-70).  
-
-You may also like to visit the website of the *William Morris Gallery * “ this Gallery's internationally important collections illustrate William Morris's life, work and influence. It has permanent displays of printed, woven and embroidered fabrics, rugs, carpets, wallpapers, furniture, stained glass and painted tiles designed by Morris himself and by Edward Burne-Jones, Philip Webb, Dante Gabriel Rossetti, Ford Madox Brown and others who together founded the firm of Morris, Marshall, Faulkner & Company in 1861. The Gallery is in Walthamstow, in ** north-east London **.  
+You may also like to visit the website of the William Morris Gallery. This Gallery's internationally important collections illustrate William Morris's life, work and influence. It has permanent displays of printed, woven and embroidered fabrics, rugs, carpets, wallpapers, furniture, stained glass and painted tiles designed by Morris himself and by Edward Burne-Jones, Philip Webb, Dante Gabriel Rossetti, Ford Madox Brown and others who together founded the firm of Morris, Marshall, Faulkner & Company in 1861. The Gallery is in Walthamstow, in north-east London.  
 
 ### Love and Life: The Eros and Psyche story in Charlotte Yonge  Clemence Schultze  
 Resume of a paper read at conference on "Victorians and the Ancient World".  
 University College Worcester 15 April 2000
 
-Charlotte Yonge (1823-1901) is notable as author of a number of contemporary domestic novels which vividly represent life in large Victorian families in provincial England. Some were best-sellers in their day, particularly *[The Heir of Redclyffe](heir_of_redclyffe.qmd)* and *[The Daisy Chain](daisychain.qmd)*. She also wrote several historical novels, including *Love and Life: an old story in eighteenth century costume*(1880) “ ostensibly a romance set in the reign of George II. She conveys admirably the feel of town and country life of that period; various minor characters have a liveliness and individuality almost equalling that of Austen or Gaskell.
+Charlotte Yonge (1823-1901) is notable as author of a number of contemporary domestic novels which vividly represent life in large Victorian families in provincial England. Some were best-sellers in their day, particularly *[The Heir of Redclyffe](heir_of_redclyffe.qmd)* and *[The Daisy Chain](daisychain.qmd)*. She also wrote several historical novels, including *Love and Life: an old story in eighteenth century costume* (1880) “ ostensibly a romance set in the reign of George II. She conveys admirably the feel of town and country life of that period; various minor characters have a liveliness and individuality almost equalling that of Austen or Gaskell.
 
-The ‘old story’ of the title is the myth of Eros and Psyche (Love and Soul), best known from Apuleius’*Metamorphoses * or *Golden Ass*, and immensely popular in nineteenth-century art. Just as Yonge had rendered the legend of Hercules within a mid-Victorian milieu in [*My Young Alcides*](my_young_alcides.qmd) (1875), so she now transposed Apuleius’ story, plus elements of ‘Beauty and the Beast’, into the Georgian period.
+The ‘old story’ of the title is the myth of Eros and Psyche (Love and Soul), best known from Apuleius’ *Metamorphoses* or *Golden Ass*, and immensely popular in nineteenth-century art. Just as Yonge had rendered the legend of Hercules within a mid-Victorian milieu in [*My Young Alcides*](my_young_alcides.qmd) (1875), so she now transposed Apuleius’ story, plus elements of ‘Beauty and the Beast’, into the Georgian period.
 
-The novel requires reading at two levels to identify the mythical referent and interpret it in terms of the Christian life. Yonge was a High Church Anglican, and *Love and Life * is both a tale of commitment, abduction and fidelity, and simultaneously an allegory of the soul’s progress. The use of a mythical paradigm highlights crucial episodes while maintaining the Tractarian attitude of reserve towards religious experience. The novel’s construction of Christian femininity is made more pointed in that the context allows dramatic plot circumstances unavailable in Yonge’s contemporary domestic works.  
+The novel requires reading at two levels to identify the mythical referent and interpret it in terms of the Christian life. Yonge was a High Church Anglican, and *Love and Life* is both a tale of commitment, abduction and fidelity, and simultaneously an allegory of the soul’s progress. The use of a mythical paradigm highlights crucial episodes while maintaining the Tractarian attitude of reserve towards religious experience. The novel’s construction of Christian femininity is made more pointed in that the context allows dramatic plot circumstances unavailable in Yonge’s contemporary domestic works.  
   
 
 

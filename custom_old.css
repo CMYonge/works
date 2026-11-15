@@ -1,0 +1,21 @@
+body {
+  background-color: #f4efe6;
+}
+
+#quarto-margin-sidebar {
+display: none;
+}
+
+.quarto-secondary-nav {
+  display: none;
+}
+
+#quarto-document-content {
+max-width: 860px;
+margin: auto;
+}
+
+.subtitle {
+  font-size: 1.15rem;
+  font-weight: bold;
+}

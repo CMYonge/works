@@ -10,10 +10,9 @@ format:
     toc: true
 ---
 
+### Summary and further reading
 
-### Publication details, summary and further reading
-
-(Kindly supplied by Amy de Gruchy)
+(Text kindly supplied by Amy de Gruchy)
 
 #### Summary
 
@@ -31,29 +30,29 @@ The novel shows a detailed knowledge of the customs and events of the period, bu
 
 #### Further Reading
 
-*For contemporary reviews see:*
+For contemporary reviews see:
 
-**L. Madden**  
-*J.B. Shorthouse and C.M. Yonge*  
-Unpublished thesis  
+**L. Madden**\
+*J.B. Shorthouse and C.M. Yonge*\
+Unpublished thesis\
 University of London Diploma in Librarianship, 1964.
 
 For other reviews or comments see:
 
-**Romanes, Ethel**  
-*Charlotte Mary Yonge. An appreciation*  
+**Romanes, Ethel**\
+*Charlotte Mary Yonge. An appreciation*\
 A.R. Mowbray & Co., London 1908
 
-**Battiscombe, Georgina  
-***Charlotte Mary Yonge. The story of an uneventful life.*  
-Constable, London 1943  
+\*\*Battiscombe, Georgina\
+*Charlotte Mary Yonge. The story of an uneventful life.*\
+Constable, London 1943
 
-**Alice Fairfax Lucy  
-**'The other Miss Yonge', in *A Chaplet for Charlotte Yonge*.  
-Edited for The Charlotte Yonge Society by Georgina Battiscombe and Marghanita Laski.  
+\*\*Alice Fairfax Lucy\
+'The other Miss Yonge', in *A Chaplet for Charlotte Yonge*.\
+Edited for The Charlotte Yonge Society by Georgina Battiscombe and Marghanita Laski.\
 The Cresset Press, London 1965
 
-### Charlotte Yonge's own Preface to *The Caged Lion*
+### Charlotte Yonge's Preface to *The Caged Lion*
 
 When the venture has been made of dealing with historical events and characters, it always seems fair towards the reader to avow what liberties have been taken, and how much of the sketch is founded on history. In the present case, it is scarcely necessary to do more than refer to the almost unique relations that subsisted between Henry V. and his prisoner, James I. of Scotland; who lived with him throughout his reign on the terms of friend rather than of captive, and was absolutely sheltered by this imprisonment throughout his nonage and early youth from the frightful violence and presumption of the nobles of his kingdom.
 
@@ -65,19 +64,15 @@ For Jaqueline of Hainault, and her pranks, they are to be found in Monstrelet of
 
 The Abbey of Coldingham is described from a local compilation of the early part of the century, with an account of the history of that grand old foundation, and the struggle for appointments between the parent house at Durham and the Scottish Government. Priors Akefield and Drax are historical, and as the latter really did commission a body of moss-troopers to divert an instalment of King James's ransom into his own private coffers, I do not think I can have done him much injustice. As the nunnery of St. Abbs has gone bodily into the sea, I have been the less constrained by the inconvenient action of fact upon fiction. And for the Hospital of St. Katharine's-by-the-Tower, its history is to be found in Stowe's 'Survey of London,' and likewise in the evidence before the Parliamentary Commission, which shows what it was intended by Queen Philippa to have been to the river-side population, and what it might have been had such intentions been understood and acted on “ nay, what it may yet become, since the foundation remains intact, although the building has been removed.
 
-C. M. Yonge.  
+C. M. Yonge.\
 November 24, 1869
 
-### The Caged Lion
+### Contemporary Reviews
 
-#### Contemporary Reviews
-
-**LITTELLS LIVING AGE**  
+**Littells Living Age**\
 No. 1350, April 16, 1870, page 160
 
-#### The Caged Lion
-
-By Charlotte M. Yonge, author of “The heir of Redclyffe.” (Macmillan and Co.)
+*The Caged Lion* By Charlotte M. Yonge, author of “The heir of Redclyffe.” (Macmillan and Co.)
 
 There are very few women (or men) of our day so well read in medieval history as Miss Yonge. From childhood the study seems to have been her passion, and in her “[Cameos](cameos.qmd)” she displays a familiarity with character and scenery which is rare and remarkable. In historical fiction she is also often successful; and if ever she fails, it is through the want of power to place her readers at her own point of view. Some of the characters and scenes in the *Caged Lion* will command sympathy, and they are clearly and graphically put. Thus, our Henry V. is sure to inspire the interest he deserves. We are not so sure about the Lion himself, James I. of Scotland. Yet we suppose, it is merely that he is overshadowed by his English friend and guardian King Henry. Less is known about James than could be wished. The history of his early life and training at Windsor, his genius, his beautiful poem of the “King’s Quhair” and his strong attachment to his native land, in spite of the gains of his captivity, require to be fully brought out, as well as the passages of his after life and disastrous death. Miss Yonge, who now (we believe, for the first time,) places her name on the title-page, gives us her authorities and points out her deviations from literal history in her preface. We think the book deserves to be well read, and that it will be much enjoyed.
 
@@ -85,7 +80,5 @@ Spectator.
 
 **The Athenaeum**
 
-*The Caged Lion* was reviewed in 1870 in *The Athenaeum* by Almaric Rumsey.  
+*The Caged Lion* was reviewed in 1870 in *The Athenaeum* by Almaric Rumsey.\
 Reference : 2215 (April 9,1870), 482 “ 483
-
-

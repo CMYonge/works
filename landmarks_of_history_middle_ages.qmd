@@ -9,7 +9,7 @@ format:
     toc: true
 ---
 
-#### Charlotte Yonge's own Preface to Landmarks of History II, Middle Ages
+### Charlotte Yonge's Preface to Landmarks of History II, Middle Ages
 
 CERTAIN caterpillars are said to spin a number of different threads, all forming one loop, through which they proceed to creep, so judiciously holding the strands apart, that no two of them ever become entangled.
 

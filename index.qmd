@@ -3,7 +3,7 @@ title: "Charlotte M. Yonge — Works"
 listing:
   contents: "*.qmd"
   exclude:
-    filename: "index.qmd"
+    filename: ["index.qmd", "monthly_packet.qmd"]
   type: table
   fields: [title, year]
   sort: "sort_title asc"

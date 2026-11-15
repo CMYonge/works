@@ -14,7 +14,7 @@ A Google scan of an 1857 edition at Bodley is currently (August 2007) available 
 
 [Click here to see the text](http://books.google.com/books?id=OoUBAAAAQAAJ&printsec=titlepage&dq=%22Charlotte%2Bmary%2Byonge%22&as_brr=1)
 
-#### Charlotte Yonge's own Preface t oLandmarks of History III, Modern History
+### Charlotte Yonge's Preface to Landmarks of History III, Modern History
 
 THE Landmarks of History have now been brought down as nearly to our own times as could be accomplished without entering too much on contemporary history. Napoleon's death appears the fit close for the last act of the great drama of the Revolution; and the scenes which fall within our own memory and observation, have not yet developed their import, so as to enable us to judge of their true meaning and tendency. In closing the task, perhaps too rashly undertaken, we have only to repeat, what has been before said, that this little book aims at no originality of views, nor at revelations of new facts. It is a mere compilation of the more memorable events recorded in standard histories; and all that it attempts is, so to class them together as to elucidate the spirit of each period, and bring into relief the characters of the chief actors, in the hope of letting history fulfil its true purpose, namely, of being a great lesson in principle, rather than a mere record of dates, names, and events.
 
@@ -76,7 +76,7 @@ iii. Christina of Sweden
 iv. Peace of the Pyrennees  
 v. Court of Louis XIV  
 vi. Invasion of Holland  
-vii.The Treaty of Nimeguen  
+vii. The Treaty of Nimeguen  
 viii. The Siege of Vienna  
 ix. Revocation of the Edict of Nantes  
 x. Decline of the Turks  
@@ -106,5 +106,24 @@ x. Philosophy on the Throne
 
 CHAPTER VI  
 THE ERA OF REVOLUTION.  
+
+i. The Earlier Years of Louis XVI
+ii. The National Assembly
+iii. The Girondists
+iv. La Vendée
+v. The Reign of Terror
+vi. Napoleon in Italy
+vii. Napoleon In Egypt
+viii. The Consulate
+ix. The French Empire
+x. The French in Spain
+xi. The Turn of the Scale
+xii. The French in Russia
+xiii. Fall of Napoleon
+xiv. The Hundred Days
+The Buonaparte Family
+Conclusion .
+Genealogical Table
+
 
 

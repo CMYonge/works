@@ -1,31 +1,30 @@
 ---
 title: "The Clever Woman of the Family"
 sort_title: "Clever Woman of the Family"
+year: 1865
 gutenberg_url: "https://www.gutenberg.org/ebooks/3292"
 slug: "clever_woman_of_the_family"
 format:
   html:
     toc: true
 ---
-### The Clever Woman of the Family 
 
-Broadview Press republished this book in an edition by Clare A. Simmons (September 2001) .  
-[Click here to see the publisher's information page](https://broadviewpress.com/product/the-clever-woman-of-the-family/#tab-description)including contents list and limited preview (retrieved 29 April 2022).
+### The Clever Woman of the Family
 
+Broadview Press republished this book in an edition by Clare A. Simmons (September 2001) .\
+[Click here to see the publisher's information page](https://broadviewpress.com/product/the-clever-woman-of-the-family/#tab-description) including contents list and limited preview (retrieved 29 April 2022).
 
+#### Short Summary 
 
-### Short summary
-*Text for this summary kindly provided by Celia Bass*
+(Text kindly provided by Celia Bass)
 
 The time of the novel is approximately the 1860's; the place, Avonmouth, a sea-side resort; the unlikely heroine, Rachel Curtis, pedant, frustrated social reformer, self-styled old maid. The plot charts the stages of her downfall from a position of confident intellectual superiority to humble acceptance of her limitations both as a thinker and as a philanthropist. The method used by Charlotte Yonge to reveal the absurdity and danger of her assumptions is dramatic, usually comic, irony.
 
 Through her cousin, the gentle, recently widowed Fanny Temple, whose arrival in Avonmouth initiates the action, Rachel meets a number of people who challenge her ideas. They shake her unwarranted confidence in her own judgment but rescue her from the consequences of her folly. Ironically, Rachel has patronised, snubbed or suspected every one of them . Yet she admires and trusts the chance-met, sinister Mauleverer. He takes advantage of her desire to help the young lacemakers of the town, with disastrous consequences for them and for her. Yet the novel ends on a cheerful note with two weddings, plus the revelation that it is not Rachel but the poor cripple, Ermine Williams, sister of the Temples' governess, who is the true 'Clever Woman' of the title.
 
-*Back to top of page*
+#### Full summary
 
-### Full summary
-
-#### *Text for this summary kindly provided by Celia Bass*
+(Text kindly provided by Celia Bass)
 
 Rachel Curtis is the 'clever woman' of the title. She is an unlikely heroine: a solemn pedant and would-be social reformer, a misfit in the staid society of the sea-side town where she has reigned as intellectual queen for most of her twenty-five years, to the mingled admiration and irritation of her neighbours, her timid mother, and her sensible, conventional sister, Grace.
 
@@ -39,25 +38,18 @@ The two plots are gradually brought together as Rachel learns, partly from her o
 
 In consequence, despite two deaths and a nightmare trial, the novel ends happily.
 
+#### Further Reading
 
-**Janice Fiamengo has published the following article in The Victorian Review: Forms of Suffering in Charlotte Yonge's *The Clever Woman of the Family***  
-Victorian Review, Volume 25, Number 2 (Winter 2000) pp. 80-105.
+Janice Fiamengo, "Forms of Suffering in Charlotte Yonge's *The Clever Woman of the Family*" Victorian Review, Volume 25, Number 2 (Winter 2000) pp. 80-105.
 
-
-**DISSERTATION: "Models to the Universe": Victorian Hegemony and the Construction of Feminine Identity**
-Diana Pharaoh Francis  
-Ph.D. English Ball State University, 1999  
-*This paper is available online as a PDF (retrieved April 29 2022)*.
+Dissertation: *"Models to the Universe": Victorian Hegemony and the Construction of Feminine Identity* Diana Pharaoh Francis Ph.D. English Ball State University, 1999\
+This paper is available online as a PDF (retrieved April 29 2022).
 
 In 1860s Victorian England the ideology of the domestic angel collided head on with a competing feminine reality challenging the normalization of the domestic angel.
 
-Drawing on the theories of Michel Foucault, Pierre Bourdieu, and Albert Memmi, this dissertation examines the characterizations of women in light of the beleaguered domestic angel ideology, focusing on Emily Eden's The Semi-attached Couple, **Charlotte Yonge's The Clever Woman of the Family**, Margaret Oliphant's Miss Marjoribanks, Ellen Wood's East Lynne, and Mary Elizabeth Braddon's Lady Audley's Secret.
+Drawing on the theories of Michel Foucault, Pierre Bourdieu, and Albert Memmi, this dissertation examines the characterizations of women in light of the beleaguered domestic angel ideology, focusing on Emily Eden's The Semi-attached Couple, Charlotte Yonge's *The Clever Woman of the Family*, Margaret Oliphant's Miss Marjoribanks, Ellen Wood's East Lynne, and Mary Elizabeth Braddon's Lady Audley's Secret.
 
 What is revealed is the underlying structure of power which inculcated women into a system of coerced self-regulation, encouraging cooperation and complicity through surveillance, punishment and reward. Yet despite this exposure of the constructed nature of women's roles, these novels finally serve hegemony, valorizing the domestic angel version of 'true womanhood' while condemning and censuring those women characters who, for whatever reason, fail to conform.
 
-#### Contemporary Review from *The Athenaeum*
-
-*The Clever Woman of the Family* was reviewed in 1856 in *The Athenaeum* by John Cordy Jeaffreson (variant spelling Jeffreson).  
+*The Clever Woman of the Family* was reviewed in 1856 in *The Athenaeum* by John Cordy Jeaffreson (variant spelling Jeffreson).\
 Reference : 1954 (April 8,1865), 489
-
-

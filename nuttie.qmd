@@ -10,9 +10,9 @@ format:
     toc: true
 ---
 
-### *Nuttie's Father*– Publication details, summary and bibliography
+#### *Nuttie's Father*– Publication details, summary and bibliography
 
-(Kindly supplied by Amy de Gruchy)
+(Text kindly supplied by Amy de Gruchy)
 
 #### Publication details
 

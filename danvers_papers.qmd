@@ -9,9 +9,9 @@ format:
     toc: true
 ---
 
-### Publication details, summary and further reading
+#### Publication details, summary and further reading
 
-#### (Text kindly supplied by Amy de Gruchy)
+(Text kindly supplied by Amy de Gruchy)
 
 1867, published by Macmillan
 

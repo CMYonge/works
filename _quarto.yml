@@ -14,5 +14,8 @@ format:
     theme: cosmo
     css: custom.css
     toc: false
+    grid:
+      body-width: 1000px
+      margin-width: 0px
     template-partials:
       - title-block.html
